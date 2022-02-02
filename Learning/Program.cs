@@ -6,14 +6,24 @@ namespace ConsoleApp20
     {
         static void Main(string[] args)
         {
-            FindingSquares();
-            Console.WriteLine(new String('.', Console.BufferWidth));
-            BankProcent();
-            Console.WriteLine(new String('.', Console.BufferWidth));
-            NumbersFromAToB();
-            Console.WriteLine(new String('.', Console.BufferWidth));
-            ReversOfNumber();
-            Console.WriteLine(new String('.', Console.BufferWidth));
+            //FindingSquares();
+            //Console.WriteLine(new String('.', Console.BufferWidth));
+            //BankProcent();
+            //Console.WriteLine(new String('.', Console.BufferWidth));
+            //NumbersFromAToB();
+            //Console.WriteLine(new String('.', Console.BufferWidth));
+            //ReversOfNumber();
+            //Console.WriteLine(new String('.', Console.BufferWidth));
+            //SumSpecialNumbers();
+            //Console.WriteLine(new String('.', Console.BufferWidth));
+            //SumSpecialFibonachyNumbers();
+            //Console.WriteLine(new String('.', Console.BufferWidth));
+            //FoundMaxSimpelDividerOfNumber();
+            //Console.WriteLine(new String('.', Console.BufferWidth));
+            //FoundPalindrom();
+            //Console.WriteLine(new String('.', Console.BufferWidth));
+            FoundNumber();
+
         }
         static void ReversOfNumber()
         {
@@ -125,6 +135,141 @@ namespace ConsoleApp20
             {
                 Console.WriteLine(ex.Message);
             }
+        }
+        static void SumSpeciallNumbers()
+        {
+            Console.WriteLine("In method SumSpecialNumbers");
+            int MaxNumber = 1000;
+            int MinNumber = 0;
+            int Divider1 = 3;
+            int Divider2 = 5;
+            long Sum = 0;
+
+            for (int i = MinNumber; i <= MaxNumber; i++)
+            {
+                if (i % Divider1 == 0 || i % Divider2 == 0)
+                {
+                    Sum += i;
+                }
+            }
+            Console.WriteLine($"Sum numbers from {MinNumber} to {MaxNumber}," +
+                $" witch are divided into {Divider1} and {Divider2} is {Sum}");
+        }
+        static void SumSpecialFibonachyNumbers()
+        {
+            Console.WriteLine("In method SumSpecialFibonachyNumbers");
+            int MaxValue = 4000000;
+            long Sum = 0;
+            for(int i =1; ; i++)
+            {
+                long GetNumberFib = FibonachyNumber(i);
+                if (GetNumberFib > MaxValue)
+                {
+                    break;
+                }
+                if (GetNumberFib % 2 == 0)
+                {
+                    Sum += GetNumberFib;
+                }
+            }
+            Console.WriteLine($"Sum of even Fibonacci numbers less than {MaxValue} is {Sum}");
+        }
+        static int FibonachyNumber(int i)
+        {
+            if (i == 1)
+            {
+                return 1;
+            }
+            else if (i == 2)
+            {
+                return 2;
+            }
+            else
+            {
+                int NumberFib = FibonachyNumber(i - 1) + FibonachyNumber(i - 2);
+                return NumberFib;
+            }
+        }
+        static void FoundMaxSimpelDividerOfNumber()
+        {
+            Console.WriteLine("In method FoundMaxSimpelDividerOfNumber");
+            long Number = 600851475143;
+            long Divider=1;
+            for(long i = 1; i <= Number / 2; i++)
+            {
+                if (Number % i == 0 && IsSympleNumber(i))
+                {
+                    Divider = i;
+                }
+            }
+            Console.WriteLine($"Max symple divider of {Number} is {Divider}");
+        }
+        static bool IsSympleNumber(long number)
+        {
+            for(long i = 2; i <= number / 2; i++)
+            {
+                if (number % i == 0)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+        static void FoundPalindrom()
+        {
+            int Min = 100;
+            int Max = 999;
+            int result=0;
+            for(int i = Min; i <= Max; i++)
+            {
+                for(int j = Min; j <= Max; j++)
+                {
+                    if (IsPalindrom(i * j))
+                    {
+                        result= i * j;
+                    }
+                }
+            }
+            Console.WriteLine(result);
+        }
+        static bool IsPalindrom(int number)
+        {
+            string StrNumber = number.ToString();
+            int Length = StrNumber.Length;
+            for(int i=0; i < Length; i++)
+            {
+                if (StrNumber[i] != StrNumber[Length - 1 - i])
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+        static void FoundNumber()
+        {
+            long Result = 20;
+            while (true)
+            {
+                if (DividedIntoNumbersFromMintoMax(Result))
+                {
+                    break;
+                }
+                Result++;
+            }
+            Console.WriteLine(Result);
+        }
+        static bool DividedIntoNumbersFromMintoMax(long number)
+        {
+            int Min = 1;
+            int Max = 20;
+            for(int i = Min; i <= Max; i++)
+            {
+                if (number % i != 0)
+                {
+                    return false;
+                }
+            }
+            return true;
         }
     }
 }
