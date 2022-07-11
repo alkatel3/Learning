@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\bin\Debug\net5.0\BidirectionalList.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\bin\Debug\net5.0\BidirectionalList.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\bin\Debug\net5.0\BidirectionalList.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\bin\Debug\net5.0\BidirectionalList.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\bin\Debug\net5.0\BidirectionalList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\bin\Debug\net5.0\ref\BidirectionalList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\bin\Debug\net5.0\BidirectionalList.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\obj\Debug\net5.0\BidirectionalList.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\obj\Debug\net5.0\BidirectionalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\obj\Debug\net5.0\BidirectionalList.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\obj\Debug\net5.0\BidirectionalList.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\obj\Debug\net5.0\BidirectionalList.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\obj\Debug\net5.0\BidirectionalList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\obj\Debug\net5.0\ref\BidirectionalList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\obj\Debug\net5.0\BidirectionalList.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BidirectionalList\BidirectionalList\obj\Debug\net5.0\BidirectionalList.genruntimeconfig.cache
