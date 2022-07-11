@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\bin\Debug\net5.0\delegate_.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\bin\Debug\net5.0\delegate_.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\bin\Debug\net5.0\delegate_.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\bin\Debug\net5.0\delegate_.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\bin\Debug\net5.0\delegate_.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\bin\Debug\net5.0\ref\delegate_.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\bin\Debug\net5.0\delegate_.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\obj\Debug\net5.0\delegate_.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\obj\Debug\net5.0\delegate_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\obj\Debug\net5.0\delegate_.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\obj\Debug\net5.0\delegate_.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\obj\Debug\net5.0\delegate_.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\obj\Debug\net5.0\delegate_.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\obj\Debug\net5.0\ref\delegate_.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\obj\Debug\net5.0\delegate_.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\delegate_\delegate_\obj\Debug\net5.0\delegate_.genruntimeconfig.cache
