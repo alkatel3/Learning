@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\bin\Debug\net5.0\Event_.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\bin\Debug\net5.0\Event_.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\bin\Debug\net5.0\Event_.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\bin\Debug\net5.0\Event_.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\bin\Debug\net5.0\Event_.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\bin\Debug\net5.0\ref\Event_.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\bin\Debug\net5.0\Event_.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\obj\Debug\net5.0\Event_.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\obj\Debug\net5.0\Event_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\obj\Debug\net5.0\Event_.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\obj\Debug\net5.0\Event_.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\obj\Debug\net5.0\Event_.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\obj\Debug\net5.0\Event_.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\obj\Debug\net5.0\ref\Event_.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\obj\Debug\net5.0\Event_.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Event_\Event_\obj\Debug\net5.0\Event_.genruntimeconfig.cache
