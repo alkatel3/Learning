@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Learning\C#\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Learning\C#\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe.config
+C:\Users\Dell\source\repos\Learning\C#\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.exe
+C:\Users\Dell\source\repos\Learning\C#\Tamagotchi\Tamagotchi\bin\Debug\Tamagotchi.pdb
+C:\Users\Dell\source\repos\Learning\C#\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.exe
+C:\Users\Dell\source\repos\Learning\C#\Tamagotchi\Tamagotchi\obj\Debug\Tamagotchi.pdb
