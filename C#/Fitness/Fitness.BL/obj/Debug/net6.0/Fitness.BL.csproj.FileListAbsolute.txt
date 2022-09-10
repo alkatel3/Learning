@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\bin\Debug\net6.0\Fitness.BL.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\bin\Debug\net6.0\Fitness.BL.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\bin\Debug\net6.0\Fitness.BL.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\obj\Debug\net6.0\Fitness.BL.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\obj\Debug\net6.0\Fitness.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\obj\Debug\net6.0\Fitness.BL.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\obj\Debug\net6.0\Fitness.BL.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\obj\Debug\net6.0\Fitness.BL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\obj\Debug\net6.0\Fitness.BL.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\obj\Debug\net6.0\refint\Fitness.BL.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\obj\Debug\net6.0\Fitness.BL.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.BL\obj\Debug\net6.0\ref\Fitness.BL.dll
