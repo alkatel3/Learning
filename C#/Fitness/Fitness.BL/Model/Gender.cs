@@ -1,14 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Fitness.BL.Model
 {
     /// <summary>
     /// Gender
     /// </summary>
+    [Serializable]
     public class Gender
     {
         /// <summary>
@@ -23,7 +20,7 @@ namespace Fitness.BL.Model
 
         public Gender(string name)
         {
-            if (string.IsNullOrEmpty(name))
+            if (string.IsNullOrWhiteSpace(name))
             {
                 throw new ArgumentNullException("Name of gender can't be empty or null", nameof(name));
             }

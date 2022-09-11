@@ -13,3 +13,21 @@ C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.CMD\
 C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.pdb
 C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.genruntimeconfig.cache
 C:\Users\Dell\OneDrive\Рабочий стол\Languages\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\ref\Fitness.CMD.dll
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\bin\Debug\net6.0\Fitness.CMD.exe
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\bin\Debug\net6.0\Fitness.CMD.deps.json
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\bin\Debug\net6.0\Fitness.CMD.runtimeconfig.json
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\bin\Debug\net6.0\Fitness.CMD.dll
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\bin\Debug\net6.0\Fitness.CMD.pdb
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\bin\Debug\net6.0\Fitness.BL.dll
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\bin\Debug\net6.0\Fitness.BL.pdb
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.csproj.CopyComplete
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.dll
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\refint\Fitness.CMD.dll
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.pdb
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\ref\Fitness.CMD.dll

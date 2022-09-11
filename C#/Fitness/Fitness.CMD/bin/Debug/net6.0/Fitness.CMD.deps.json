@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Fitness.CMD/1.0.0": {
+        "dependencies": {
+          "Fitness.BL": "1.0.0"
+        },
         "runtime": {
           "Fitness.CMD.dll": {}
+        }
+      },
+      "Fitness.BL/1.0.0": {
+        "runtime": {
+          "Fitness.BL.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Fitness.CMD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fitness.BL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

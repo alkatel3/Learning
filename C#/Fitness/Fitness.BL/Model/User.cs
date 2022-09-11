@@ -5,6 +5,7 @@ namespace Fitness.BL.Model
     /// <summary>
     /// User
     /// </summary>
+    [Serializable]
     public class User
     {
         #region Properties
@@ -43,14 +44,14 @@ namespace Fitness.BL.Model
         public User(string name, Gender gender, DateTime birthDate, double weight, double height)
         {
             #region Checking conditions
-            if (string.IsNullOrEmpty(name))
+            if (string.IsNullOrWhiteSpace(name))
             {
                 throw new ArgumentNullException("Name of user can't be empty or null.", nameof(name));
             }
 
-            if (Gender == null)
+            if (gender == null)
             { 
-            throw new ArgumentNullException("Gender can't be null.",nameof(Gender));
+                throw new ArgumentNullException("Gender can't be null.",nameof(Gender));
             }
 
             if (birthDate < DateTime.Parse("01.01.1900")|| birthDate>=DateTime.Now)
