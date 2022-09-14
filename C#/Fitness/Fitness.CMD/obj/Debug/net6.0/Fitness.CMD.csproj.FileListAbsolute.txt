@@ -31,3 +31,7 @@ C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\refi
 C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.pdb
 C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.genruntimeconfig.cache
 C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\ref\Fitness.CMD.dll
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.Languages.Messages.resources
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.Languages.Messages.ua-ua.resources
+C:\Users\Dell\source\repos\Learning\C#\Fitness\Fitness.CMD\obj\Debug\net6.0\Fitness.CMD.Languages.Messages.uk-uk.resources
