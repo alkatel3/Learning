@@ -16,35 +16,17 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="Languages\Messages.ua-ua.Designer.cs">
-      <DependentUpon>Messages.ua-ua.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-    </Compile>
     <Compile Update="Languages\Messages.Designer.cs">
       <DependentUpon>Messages.resx</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
     </Compile>
-    <Compile Update="Languages\Messages.uk-uk.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Messages.uk-uk.resx</DependentUpon>
-    </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Languages\Messages.ua-ua.resx">
-      <LastGenOutput>Messages.ua-ua.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
     <EmbeddedResource Update="Languages\Messages.resx">
       <LastGenOutput>Messages.Designer.cs</LastGenOutput>
       <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Languages\Messages.uk-uk.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Messages.uk-uk.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
 
