@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fitness.BL", "Fitness.BL\Fi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fitness.CMD", "Fitness.CMD\Fitness.CMD.csproj", "{3DE69805-2E6C-4F2B-B04D-D7F52F38DAC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.BLTests", "Fitness.BLTests\Fitness.BLTests.csproj", "{9ADE4F4E-C524-40BC-A11F-58DF0F834AB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fitness.BLTests", "Fitness.BLTests\Fitness.BLTests.csproj", "{9ADE4F4E-C524-40BC-A11F-58DF0F834AB5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{93CD9798-F7EE-434C-90E5-3991FE382228}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,8 @@ Global
 		{9ADE4F4E-C524-40BC-A11F-58DF0F834AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ADE4F4E-C524-40BC-A11F-58DF0F834AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ADE4F4E-C524-40BC-A11F-58DF0F834AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CD9798-F7EE-434C-90E5-3991FE382228}.Debug|Any CPU.ActiveCfg = Debug
+		{93CD9798-F7EE-434C-90E5-3991FE382228}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -121,6 +121,6 @@
     <value>Enter name of user</value>
   </data>
   <data name="Hello" xml:space="preserve">
-    <value>Hello from app \"Fitnes\"</value>
+    <value>Hello from app "Fitnes"</value>
   </data>
 </root>

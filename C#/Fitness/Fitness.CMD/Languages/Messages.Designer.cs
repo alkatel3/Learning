@@ -70,7 +70,7 @@ namespace Fitness.CMD.Languages {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Hello from app \&quot;Fitnes\&quot;.
+        ///   Looks up a localized string similar to Hello from app &quot;Fitnes&quot;.
         /// </summary>
         internal static string Hello {
             get {
