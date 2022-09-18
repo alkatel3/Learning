@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\bin\Debug\net6.0\CircularList.exe
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\bin\Debug\net6.0\CircularList.deps.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\bin\Debug\net6.0\CircularList.runtimeconfig.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\bin\Debug\net6.0\CircularList.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\bin\Debug\net6.0\CircularList.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\obj\Debug\net6.0\CircularList.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\obj\Debug\net6.0\CircularList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\obj\Debug\net6.0\CircularList.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\obj\Debug\net6.0\CircularList.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\obj\Debug\net6.0\CircularList.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\obj\Debug\net6.0\CircularList.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\obj\Debug\net6.0\refint\CircularList.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\obj\Debug\net6.0\CircularList.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\obj\Debug\net6.0\CircularList.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CircularList\CircularList\obj\Debug\net6.0\ref\CircularList.dll
