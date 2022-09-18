@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.exe
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.deps.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.runtimeconfig.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\bin\Debug\net6.0\DoubleLinkedList.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\refint\DoubleLinkedList.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\DoubleLinkedList.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\DoubleLinkedList\DoubleLinkedList\obj\Debug\net6.0\ref\DoubleLinkedList.dll
