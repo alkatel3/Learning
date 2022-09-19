@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\obj\Debug\net6.0\Set.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\obj\Debug\net6.0\Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\obj\Debug\net6.0\Set.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\obj\Debug\net6.0\Set.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\obj\Debug\net6.0\Set.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\bin\Debug\net6.0\Set.exe
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\bin\Debug\net6.0\Set.deps.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\bin\Debug\net6.0\Set.runtimeconfig.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\bin\Debug\net6.0\Set.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\bin\Debug\net6.0\Set.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\obj\Debug\net6.0\Set.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\obj\Debug\net6.0\refint\Set.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\obj\Debug\net6.0\Set.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\obj\Debug\net6.0\Set.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Set\Set\obj\Debug\net6.0\ref\Set.dll
