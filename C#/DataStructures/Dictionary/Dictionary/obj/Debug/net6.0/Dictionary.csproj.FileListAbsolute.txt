@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.exe
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Dictionary\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll
