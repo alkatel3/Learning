@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.exe
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.deps.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.runtimeconfig.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\refint\BinarySearchTree.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\ref\BinarySearchTree.dll
