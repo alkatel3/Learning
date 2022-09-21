@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\bin\Debug\net6.0\Trie.exe
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\bin\Debug\net6.0\Trie.deps.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\bin\Debug\net6.0\Trie.runtimeconfig.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\bin\Debug\net6.0\Trie.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\bin\Debug\net6.0\Trie.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\obj\Debug\net6.0\Trie.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\obj\Debug\net6.0\Trie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\obj\Debug\net6.0\Trie.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\obj\Debug\net6.0\Trie.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\obj\Debug\net6.0\Trie.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\obj\Debug\net6.0\Trie.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\obj\Debug\net6.0\refint\Trie.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\obj\Debug\net6.0\Trie.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\obj\Debug\net6.0\Trie.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\Trie\Trie\obj\Debug\net6.0\ref\Trie.dll
