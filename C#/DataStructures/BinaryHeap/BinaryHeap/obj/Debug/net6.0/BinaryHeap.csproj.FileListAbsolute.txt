@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\bin\Debug\net6.0\BinaryHeap.exe
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\bin\Debug\net6.0\BinaryHeap.deps.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\bin\Debug\net6.0\BinaryHeap.runtimeconfig.json
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\bin\Debug\net6.0\BinaryHeap.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\bin\Debug\net6.0\BinaryHeap.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\obj\Debug\net6.0\BinaryHeap.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\obj\Debug\net6.0\BinaryHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\obj\Debug\net6.0\BinaryHeap.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\obj\Debug\net6.0\BinaryHeap.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\obj\Debug\net6.0\BinaryHeap.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\obj\Debug\net6.0\BinaryHeap.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\obj\Debug\net6.0\refint\BinaryHeap.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\obj\Debug\net6.0\BinaryHeap.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\obj\Debug\net6.0\BinaryHeap.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\BinaryHeap\BinaryHeap\obj\Debug\net6.0\ref\BinaryHeap.dll
