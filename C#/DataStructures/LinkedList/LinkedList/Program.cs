@@ -1,4 +1,5 @@
-﻿namespace LinkedList
+﻿
+namespace LinkedList
 {
     internal class Program
     {

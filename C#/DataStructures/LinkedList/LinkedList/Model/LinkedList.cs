@@ -29,6 +29,7 @@ namespace LinkedList.Model
         /// <param name="data"></param>
         public LinkedList(T data)
         {
+            if(data == null) throw new ArgumentNullException("data");
             var item = new Item<T>(data);
             SetHeadAndTail(item);
             Count++;
@@ -39,6 +40,7 @@ namespace LinkedList.Model
         /// <param name="data"></param>
         public void AppendHead(T data)
         {
+            if (data == null) throw new ArgumentNullException("data");
             var item = new Item<T>(data);
             item.Next = Head;
             Head=item;
@@ -50,6 +52,7 @@ namespace LinkedList.Model
         /// <param name="data"></param>
         public void Add(T data)
         {
+            if (data == null) throw new ArgumentNullException("data");
             var item = new Item<T>(data);
             if (Count==0)
             {
@@ -73,6 +76,7 @@ namespace LinkedList.Model
         /// <param name="data"></param>
         public void Remove(T data)
         {
+            if (data == null) throw new ArgumentNullException("data");
             if (Count != 0)
             {
                 if (Head.Data.Equals(data))
@@ -102,9 +106,10 @@ namespace LinkedList.Model
         /// </summary>
         /// <param name="value"></param>
         /// <param name="index"></param>
-        public void InsertAt(T value, int index)
+        public void InsertAt(T data, int index)
         {
-            var item = new Item<T>(value);
+            if (data == null) throw new ArgumentNullException("data");
+            var item = new Item<T>(data);
             if (0 <= index && index <= Count) 
             {
                 if (index == 0){
@@ -114,7 +119,7 @@ namespace LinkedList.Model
                 }
                 else if(index == Count)
                 {
-                    Add(value);
+                    Add(data);
                 }
                 else
                 {
@@ -142,7 +147,7 @@ namespace LinkedList.Model
         /// <param name="data"></param>
         public void InsertAfter(T target, T data)
         {
-
+            if(target==null || data == null) throw new ArgumentNullException("target"); 
             if (Count != 0)
             {
                     var current = Head;
@@ -170,6 +175,7 @@ namespace LinkedList.Model
         /// <param name="index"></param>
         public void InsertRangeAt(T[] arr, int index)
         {
+            if (arr == null) throw new ArgumentNullException("arr");
             foreach (T item in arr)
             {
                 InsertAt(item, index);
