@@ -17,16 +17,19 @@ namespace CrmBl.Model.Tests
             //arrange
             Customer customer = new Customer()
             {
+                CustomerId = 1,
                 Name = "testUser"
             };
             var product1 = new Product()
             {
+                ProductId = 1,
                 Name = "pr1",
                 Price = 100,
                 Count = 50
             };
             var product2 = new Product()
             {
+                ProductId = 2,
                 Name = "pr2",
                 Price = 50,
                 Count = 100
