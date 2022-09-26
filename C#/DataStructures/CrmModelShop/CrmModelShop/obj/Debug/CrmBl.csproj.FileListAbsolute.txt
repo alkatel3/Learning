@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\bin\Debug\CrmModelShop.dll.config
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\bin\Debug\CrmModelShop.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\bin\Debug\CrmModelShop.pdb
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\obj\Debug\CrmBl.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\obj\Debug\CrmBl.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\obj\Debug\CrmBl.csproj.CopyComplete
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\obj\Debug\CrmModelShop.dll
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmModelShop\obj\Debug\CrmModelShop.pdb
