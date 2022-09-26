@@ -40,12 +40,22 @@ namespace CrmUi
 
         private void sellerAddToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-
+            var form = new SellerForm();
+            if (form.ShowDialog() == DialogResult.OK)
+            {
+                db.Sellers.Add(form.Seller);
+                db.SaveChanges();
+            }
         }
 
         private void goodsAddToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            var form = new GoodsForm();
+            if (form.ShowDialog() == DialogResult.OK)
+            {
+                db.Products.Add(form.Product);
+                db.SaveChanges();
+            }
         }
 
         private void customerAddToolStripMenuItem2_Click(object sender, EventArgs e)

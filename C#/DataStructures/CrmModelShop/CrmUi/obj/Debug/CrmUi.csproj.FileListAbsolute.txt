@@ -19,3 +19,5 @@ C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmUi\obj\Deb
 C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmUi\obj\Debug\CrmUi.exe
 C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmUi\obj\Debug\CrmUi.pdb
 C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmUi\obj\Debug\CrmUi.CustomerForm.resources
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmUi\obj\Debug\CrmUi.SellerForm.resources
+C:\Users\Dell\source\repos\Learning\C#\DataStructures\CrmModelShop\CrmUi\obj\Debug\CrmUi.GoodsForm.resources
