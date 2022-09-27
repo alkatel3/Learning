@@ -12,35 +12,57 @@ namespace CrmUi
     {
         CashDesk cashDesk;
 
-        public Label Label { get; set; }
-        public NumericUpDown NumericUpDown { get; set; }
+        public Label CashDeskName { get; set; }
+        public NumericUpDown Price { get; set; }
+        public ProgressBar QueueLenght { get; set; }
+        public Label LeaveCustomersCount { get; set; }
 
         public CashBoxView(CashDesk cashDesk, int number, int x, int y)
         {
                 this.cashDesk = cashDesk;
-                
-            Label = new Label();
-            NumericUpDown = new NumericUpDown();
 
-            Label.AutoSize = true;
-            Label.Location = new System.Drawing.Point(x, y+3);
-            Label.Name = "label" + number;
-            Label.Size = new System.Drawing.Size(35, 13);
-            Label.TabIndex = number;
-            Label.Text = cashDesk.ToString();
+            CashDeskName = new Label();
+            Price = new NumericUpDown();
+            QueueLenght = new ProgressBar();
+            LeaveCustomersCount = new Label();
 
-            NumericUpDown.Location = new System.Drawing.Point(x + 100, y);
-            NumericUpDown.Name = "numericUpDown" + number;
-            NumericUpDown.Size = new System.Drawing.Size(120, 20);
-            NumericUpDown.TabIndex = number;
-            NumericUpDown.Maximum = 10000000000000000000;
+            CashDeskName.AutoSize = true;
+            CashDeskName.Location = new System.Drawing.Point(x, y+3);
+            CashDeskName.Name = "label" + number;
+            CashDeskName.Size = new System.Drawing.Size(35, 13);
+            CashDeskName.TabIndex = number;
+            CashDeskName.Text = cashDesk.ToString();
+
+            Price.Location = new System.Drawing.Point(x + 100, y);
+            Price.Name = "numericUpDown" + number;
+            Price.Size = new System.Drawing.Size(120, 20);
+            Price.TabIndex = number;
+            Price.Maximum = 10000000000000000000;
+
+            QueueLenght.Location = new System.Drawing.Point(x+250, y);
+            QueueLenght.Maximum = cashDesk.MaxQueueLenght;
+            QueueLenght.Name = "progressBar"+number;
+            QueueLenght.Size = new System.Drawing.Size(100, 23);
+            QueueLenght.TabIndex = number;
+            QueueLenght.Value = 0;
+
+            LeaveCustomersCount.AutoSize = true;
+            LeaveCustomersCount.Location = new System.Drawing.Point(x+400, y + 3);
+            LeaveCustomersCount.Name = "label2" + number;
+            LeaveCustomersCount.Size = new System.Drawing.Size(35, 13);
+            LeaveCustomersCount.TabIndex = number;
+            LeaveCustomersCount.Text = "";
 
             cashDesk.CheckClosed += CashDesk_CheckClosed;
         }
 
         private void CashDesk_CheckClosed(object sender, Check e)
         {
-            NumericUpDown.Invoke((Action)delegate { NumericUpDown.Value += e.Price; });
+            Price.Invoke((Action)delegate {
+                Price.Value += e.Price;
+                QueueLenght.Value = cashDesk.Count;
+                LeaveCustomersCount.Text = cashDesk.ExitCustomer.ToString();
+            });
         }
     }
 }
