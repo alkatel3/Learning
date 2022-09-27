@@ -7,6 +7,7 @@ namespace CrmBl.Model
         public int CheckId { get; set; }
         public int ProductId { get; set; }
 
+        public virtual Check Check { get; set; }
         public virtual Product Product { get; set; }
     }
 }
