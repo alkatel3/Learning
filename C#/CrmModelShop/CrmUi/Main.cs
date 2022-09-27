@@ -68,9 +68,10 @@ namespace CrmUi
             }
         }
 
-        private void checkAddToolStripMenuItem3_Click(object sender, EventArgs e)
+        private void modelingToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            ModelForm form = new ModelForm();
+            form.Show();
         }
     }
 }
