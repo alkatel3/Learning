@@ -22,3 +22,5 @@ C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmModelShop\obj\Debug\CrmBl
 C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmModelShop\obj\Debug\CrmBl.csproj.CopyComplete
 C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmModelShop\obj\Debug\CrmModelShop.dll
 C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmModelShop\obj\Debug\CrmModelShop.pdb
+C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmModelShop\obj\Debug\CrmModelShop.Migrations.update280922.resources
+C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmModelShop\obj\Debug\CrmBl.csproj.GenerateResource.cache

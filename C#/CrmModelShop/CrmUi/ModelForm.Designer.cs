@@ -33,6 +33,7 @@
             this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             this.SuspendLayout();
@@ -49,7 +50,7 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(677, 12);
+            this.numericUpDown1.Location = new System.Drawing.Point(823, 14);
             this.numericUpDown1.Maximum = new decimal(new int[] {
             10000,
             0,
@@ -72,7 +73,7 @@
             // 
             // numericUpDown2
             // 
-            this.numericUpDown2.Location = new System.Drawing.Point(677, 53);
+            this.numericUpDown2.Location = new System.Drawing.Point(823, 53);
             this.numericUpDown2.Maximum = new decimal(new int[] {
             10000,
             0,
@@ -96,7 +97,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(558, 14);
+            this.label1.Location = new System.Drawing.Point(675, 16);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(113, 16);
             this.label1.TabIndex = 3;
@@ -105,17 +106,25 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(561, 59);
+            this.label2.Location = new System.Drawing.Point(678, 55);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(110, 16);
             this.label2.TabIndex = 4;
             this.label2.Text = "Cashdesk speed";
             // 
+            // flowLayoutPanel1
+            // 
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(808, 180);
+            this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(200, 100);
+            this.flowLayoutPanel1.TabIndex = 5;
+            // 
             // ModelForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(955, 450);
+            this.Controls.Add(this.flowLayoutPanel1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.numericUpDown2);
@@ -139,5 +148,6 @@
         private System.Windows.Forms.NumericUpDown numericUpDown2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
     }
 }
