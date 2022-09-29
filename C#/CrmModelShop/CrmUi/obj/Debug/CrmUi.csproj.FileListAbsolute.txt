@@ -45,3 +45,4 @@ C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmUi\obj\Debug\CrmUi.csproj
 C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmUi\obj\Debug\CrmUi.exe
 C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmUi\obj\Debug\CrmUi.pdb
 C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmUi\obj\Debug\CrmUi.ModelForm.resources
+C:\Users\Dell\source\repos\Learning\C#\CrmModelShop\CrmUi\obj\Debug\CrmUi.Login.resources
