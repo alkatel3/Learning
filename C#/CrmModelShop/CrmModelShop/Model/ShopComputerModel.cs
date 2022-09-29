@@ -11,7 +11,6 @@ namespace CrmBl.Model
     {
         Generator Generator=new Generator();
         Random rnd = new Random();
-        bool isWorking = false;
         List<Task> Tasks = new List<Task>();
         CancellationTokenSource cancellationTokenSource;
         CancellationToken token;
@@ -56,6 +55,7 @@ namespace CrmBl.Model
         public void Stop()
         {
             cancellationTokenSource.Cancel();
+            Thread.Sleep(1000);
         }
 
         private void CashDeskWork(CashDesk cashDesk,CancellationToken token)

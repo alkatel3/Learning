@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\AlgorithmsTests.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\AlgorithmsTests.pdb
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\Algorithms.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\Algorithms.pdb
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\obj\Debug\AlgorithmsTests.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\obj\Debug\AlgorithmsTests.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\obj\Debug\AlgorithmsTests.csproj.CopyComplete
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\obj\Debug\AlgorithmsTests.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\AlgorithmsTests\obj\Debug\AlgorithmsTests.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.pdb

@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.exe.config
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.exe
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.pdb
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.Properties.Resources.resources
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.exe
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.pdb
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\bin\Debug\Algorithms.dll
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\bin\Debug\Algorithms.pdb
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.Form1.resources
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.CopyComplete
