@@ -12,3 +12,4 @@ C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\bin\Debug\A
 C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\bin\Debug\Algorithms.pdb
 C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.Form1.resources
 C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.CopyComplete
+C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\SortAlgorithms\obj\Debug\VerticalProgressBar.VerticalProgressBar.resources
