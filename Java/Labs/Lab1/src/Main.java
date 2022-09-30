@@ -6,7 +6,7 @@ public class Main {
         final int m = 4;
         final int C3 = 0;
 
-        if ((a <= C3 && n >= C3)||(b<=C3&&n>=C3)) {
+        if ((a <= C3 && n >= C3)||(b<=C3&&m>=C3)) {
             System.out.println("Error! Division by 0!");
             return;
         }
