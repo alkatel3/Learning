@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Algorithm
+namespace Algorithms
 {
     public class AlgorithmBase<T>
         where T : IComparable<T>

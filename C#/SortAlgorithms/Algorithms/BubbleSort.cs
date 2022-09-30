@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Algorithm
+namespace Algorithms
 {
     public class BubbleSort<T> : AlgorithmBase<T>
         where T : IComparable<T>

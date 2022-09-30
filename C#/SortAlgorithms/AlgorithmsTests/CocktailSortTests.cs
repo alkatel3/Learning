@@ -6,16 +6,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algorithm.Tests
+namespace Algorithms.Tests
 {
     [TestClass()]
-    public class BubbleSortTests
+    public class CocktailSortTests
     {
         [TestMethod()]
         public void SortTest()
         {
             //arrange
-            var bubble = new BubbleSort<int>();
+            var cocktail = new CocktailSort<int>();
             var rnd = new Random();
             var testlist = new List<int>();
 
@@ -23,15 +23,15 @@ namespace Algorithm.Tests
             {
                 testlist.Add(rnd.Next(-10, 10));
             }
-            bubble.Items.AddRange(testlist);
+            cocktail.Items.AddRange(testlist);
             testlist.Sort();
-            //act
-            bubble.Sort();
+            //act 
+            cocktail.Sort();
 
             //assert
             for (int i = 0; i < testlist.Count; i++)
             {
-                Assert.AreEqual(bubble.Items[i], testlist[i]);
+                Assert.AreEqual(cocktail.Items[i], testlist[i]);
             }
         }
     }
