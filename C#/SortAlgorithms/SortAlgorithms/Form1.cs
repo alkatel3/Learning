@@ -23,7 +23,7 @@ namespace SortAlgorithms
         {
             if(int.TryParse(AddTextBox.Text,out int value))
             {
-                var item = new SortedItem(value);
+                var item = new SortedItem(value,items.Count);
                 items.Add(item);
                 panel3.Controls.Add(item.ProgressBar);
                 panel3.Controls.Add(item.Label1);
@@ -38,13 +38,18 @@ namespace SortAlgorithms
                 var rnd = new Random();
                 for(int i = 0; i < value; i++)
                 {
-                    var item = new SortedItem(rnd.Next());
+                    var item = new SortedItem(rnd.Next(100),items.Count);
                     items.Add(item);
                     this.panel3.Controls.Add(item.ProgressBar);
                     this.panel3.Controls.Add(item.Label1);
                 }
             }
             FillTextBox.Text = "";
+        }
+
+        private void BubbleSortButton_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
