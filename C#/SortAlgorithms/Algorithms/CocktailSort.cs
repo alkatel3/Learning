@@ -3,7 +3,7 @@
 namespace Algorithms
 {
     public class CocktailSort<T> : AlgorithmBase<T>
-        where T:IComparable<T>
+        where T:IComparable
     {
         protected override void MakeSort()
         {
