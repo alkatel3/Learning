@@ -14,9 +14,9 @@ namespace Graph
             Vertices.Add(vertex);
         }
 
-        public void AddEdge(Vertex from, Vertex to)
+        public void AddEdge(Vertex from, Vertex to, int weight=1)
         {
-            var edge = new Edge(from, to);
+            var edge = new Edge(from, to,weight);
             Edges.Add(edge);
         }
 
@@ -26,8 +26,8 @@ namespace Graph
 
             foreach(var edge in Edges)
             {
-                var row = edge.From.Number-1;
-                var column = edge.To.Number-1;
+                var row = edge.From.Number;
+                var column = edge.To.Number;
 
                 matrix[row, column] = edge.Weight;
             }
@@ -72,6 +72,17 @@ namespace Graph
             }
 
             return list.Contains(finish);
+        }
+
+        public bool RemoveEdge(Vertex From, Vertex To)
+        {
+            var list=GetVertexLists(From);
+            if (list.Contains(To))
+            {
+                var edge=new Edge(From, To);
+                return Edges.Remove(edge);
+            }
+            return false;
         }
     }
 }

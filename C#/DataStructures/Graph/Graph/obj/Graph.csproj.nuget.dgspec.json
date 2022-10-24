@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\Learning\\Python\\Graph\\Graph\\Graph.csproj": {}
+    "C:\\Users\\Dell\\OneDrive\\Рабочий стол\\Studying\\Other\\Learning\\Learning\\C#\\DataStructures\\Graph\\Graph\\Graph.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\Learning\\Python\\Graph\\Graph\\Graph.csproj": {
+    "C:\\Users\\Dell\\OneDrive\\Рабочий стол\\Studying\\Other\\Learning\\Learning\\C#\\DataStructures\\Graph\\Graph\\Graph.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\Learning\\Python\\Graph\\Graph\\Graph.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Рабочий стол\\Studying\\Other\\Learning\\Learning\\C#\\DataStructures\\Graph\\Graph\\Graph.csproj",
         "projectName": "Graph",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\Learning\\Python\\Graph\\Graph\\Graph.csproj",
+        "projectPath": "C:\\Users\\Dell\\OneDrive\\Рабочий стол\\Studying\\Other\\Learning\\Learning\\C#\\DataStructures\\Graph\\Graph\\Graph.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\Learning\\Python\\Graph\\Graph\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\OneDrive\\Рабочий стол\\Studying\\Other\\Learning\\Learning\\C#\\DataStructures\\Graph\\Graph\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

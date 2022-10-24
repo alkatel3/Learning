@@ -16,5 +16,13 @@ namespace Graph
         {
             return Number.ToString();
         }
+        public override bool Equals(object? obj)
+        {
+            if(obj is Vertex v)
+            {
+                return v.Number.Equals(Number);
+            }
+            return false;
+        }
     }
 }

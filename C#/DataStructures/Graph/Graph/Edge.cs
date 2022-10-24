@@ -19,5 +19,13 @@ namespace Graph
         {
             return $"({From};  {To})";
         }
+        public override bool Equals(object? obj)
+        {
+            if(obj is Edge edge)
+            {
+                return edge.From.Equals(From)&&edge.To.Equals(To);
+            }
+            return false;
+        }
     }
 }

@@ -13,3 +13,18 @@ C:\Users\Dell\source\repos\Learning\Python\Graph\Graph\obj\Debug\net6.0\refint\G
 C:\Users\Dell\source\repos\Learning\Python\Graph\Graph\obj\Debug\net6.0\Graph.pdb
 C:\Users\Dell\source\repos\Learning\Python\Graph\Graph\obj\Debug\net6.0\Graph.genruntimeconfig.cache
 C:\Users\Dell\source\repos\Learning\Python\Graph\Graph\obj\Debug\net6.0\ref\Graph.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\bin\Debug\net6.0\Graph.exe
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\bin\Debug\net6.0\Graph.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\bin\Debug\net6.0\Graph.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\bin\Debug\net6.0\Graph.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\bin\Debug\net6.0\Graph.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\refint\Graph.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\ref\Graph.dll

@@ -22,13 +22,13 @@
             graph.AddVertex(v6);
             graph.AddVertex(v7);
 
-            graph.AddEdge(v1, v2);
-            graph.AddEdge(v1, v3);
-            graph.AddEdge(v3, v4);
-            graph.AddEdge(v2, v5);
-            graph.AddEdge(v2, v6);
+            graph.AddEdge(v1, v2,8);
+            graph.AddEdge(v1, v3,9);
+            graph.AddEdge(v3, v4,3);
+            graph.AddEdge(v2, v5,1);
+            graph.AddEdge(v2, v6,5);
             graph.AddEdge(v6, v5);
-            graph.AddEdge(v5, v6);
+            graph.AddEdge(v5, v6,2);
 
             GetMatrix(graph);
             Console.WriteLine();
@@ -43,9 +43,26 @@
 
             Console.WriteLine(graph.Wave(v1, v5));
             Console.WriteLine(graph.Wave(v2, v4));
+            Console.WriteLine(graph.RemoveEdge(new Vertex(1), new Vertex(2)));
+            GetVertex(graph, v1);
+            GetMatrix(graph);
+            Console.WriteLine();
+            Console.WriteLine();
+
+            var graph2=new SquareGraph(5);
+            for(int i=0; i < 25; i++)
+            {
+                GetVertex(graph2.Graph, new Vertex(i));
+            }
+            //GetMatrix(graph2.Graph);
+            graph2.RemoveEdges(27);
+            for (int i = 0; i < 25; i++)
+            {
+                GetVertex(graph2.Graph, new Vertex(i));
+            }
         }
 
-        private static void GetVertex(Graph graph, Vertex vertex)
+        public static void GetVertex(Graph graph, Vertex vertex)
         {
             Console.Write(vertex + ": ");
             foreach (var v in graph.GetVertexLists(vertex))
@@ -60,18 +77,27 @@
             var matrix = graph.GetMatrix();
             for (int i = 0; i < graph.VertexCount; i++)
             {
-                Console.Write(i + 1);
+                Console.Write((i + 1)+"|");
                 for (int j = 0; j < graph.VertexCount; j++)
                 {
-                    Console.Write(" | " + matrix[i, j] + " | ");
+                    if (matrix[i, j] != 0)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.White;
+                    }
+                    Console.Write("\t" + matrix[i, j]);
+                    Console.ForegroundColor = ConsoleColor.White;
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine("_________________________________________________");
             Console.WriteLine();
+            Console.Write("\t");
             for (int i = 0; i < graph.VertexCount; i++)
             {
-                Console.Write($"  | {i + 1} |");
+                Console.Write($"{i + 1}\t");
             }
         }
     }
