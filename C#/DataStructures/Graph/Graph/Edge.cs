@@ -3,27 +3,27 @@ namespace Graph
 {
     public class Edge
     {
-        public Vertex From { get; set; }
-        public Vertex To { get; set; }
+        public Vertex Vertex1 { get; set; }
+        public Vertex Vertex2 { get; set; }
 
         public int Weight { get; set; }
 
-        public Edge(Vertex from , Vertex to, int weight=1)
+        public Edge(Vertex vertex1 , Vertex vertex2, int weight=1)
         {
-            From = from;
-            To = to;
+            Vertex1 = vertex1;
+            Vertex2 = vertex2;
             Weight = weight;
         }
 
         public override string ToString()
         {
-            return $"({From};  {To})";
+            return $"({Vertex1};  {Vertex2})";
         }
         public override bool Equals(object? obj)
         {
             if(obj is Edge edge)
             {
-                return edge.From.Equals(From)&&edge.To.Equals(To);
+                return edge.Vertex1.Equals(Vertex1) &&edge.Vertex2.Equals(Vertex2);
             }
             return false;
         }
