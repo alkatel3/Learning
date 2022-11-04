@@ -18,12 +18,6 @@ namespace Graph
             Vertices.Add(vertex);
         }
 
-        public bool IsWay(Vertex vertex1, Vertex vertex2)
-        {
-            var list = GetVertexLists(vertex1);
-            return list.Contains(vertex2);
-        }
-
         public void AddEdge(Vertex Vertex1, Vertex Vertex2, int weight=1)
         {
             if (Vertex1.Equals(Vertex2))
@@ -42,19 +36,25 @@ namespace Graph
             EdgeCount++;
         }
 
-        public int[,] GetMatrix()
+        public bool IsWay(Vertex vertex1, Vertex vertex2)
         {
-            var matrix = new int[Vertices.Count, Vertices.Count];
-
-            foreach(var edge in Edges)
-            {
-                var row = edge.Vertex1.Number-1;
-                var column = edge.Vertex2.Number-1;
-
-                matrix[row, column] = edge.Weight;
-            }
-            return matrix;
+            var list = GetVertexLists(vertex1);
+            return list.Contains(vertex2);
         }
+
+        //public int[,] GetMatrix()
+        //{
+        //    var matrix = new int[Vertices.Count, Vertices.Count];
+
+        //    foreach(var edge in Edges)
+        //    {
+        //        var row = edge.Vertex1.Number-1;
+        //        var column = edge.Vertex2.Number-1;
+
+        //        matrix[row, column] = edge.Weight;
+        //    }
+        //    return matrix;
+        //}
 
         public List<Vertex> GetVertexLists(Vertex vertex)
         {
@@ -74,7 +74,7 @@ namespace Graph
         public bool Wave(Vertex start, Vertex finish)
         {
 
-            var list=new List<Vertex>();
+            var list = new List<Vertex>();
 
             list.Add(start);
 
@@ -99,7 +99,7 @@ namespace Graph
         {
             var edge = new Edge(Vertex1, Vertex2);
             var edge2 = new Edge(Vertex2, Vertex1);
-            bool result=Edges.Remove(edge)&&Edges.Remove(edge2);
+            bool result = Edges.Remove(edge) && Edges.Remove(edge2);
             if (result)
             {
                 EdgeCount--;

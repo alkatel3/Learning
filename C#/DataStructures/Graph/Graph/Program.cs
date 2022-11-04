@@ -56,11 +56,11 @@
             #endregion
 
             var graph2 =new SquareGraph(5);
-            Console.WriteLine(graph2.Graph.EdgeCount);
-            for (int i = 0; i < 25; i++)
-            {
-                GetVertex(graph2.Graph, new Vertex(i));
-            }
+            //Console.WriteLine(graph2.Graph.EdgeCount);
+            //for (int i = 0; i < 25; i++)
+            //{
+            //    GetVertex(graph2.Graph, new Vertex(i));
+            //}
 
             //graph2.ShowInGraphConsole();
             //Console.WriteLine();
@@ -73,8 +73,8 @@
 
             Console.WriteLine();
             graph2.ShowInGraphConsole();
-            graph2.RemoveEdges(10);
-            Console.WriteLine(graph2.Graph.EdgeCount);
+            graph2.RemoveEdges(17);
+            //Console.WriteLine(graph2.Graph.EdgeCount);
             Console.WriteLine();
             graph2.ShowInGraphConsole();
             //for (int i = 0; i < 25; i++)
@@ -93,33 +93,33 @@
             Console.WriteLine();
         }
 
-        private static void GetMatrix(Graph graph)
-        {
-            var matrix = graph.GetMatrix();
-            for (int i = 0; i < graph.VertexCount; i++)
-            {
-                Console.Write((i + 1)+"|");
-                for (int j = 0; j < graph.VertexCount; j++)
-                {
-                    if (matrix[i, j] != 0)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                    }
-                    else
-                    {
-                        Console.ForegroundColor = ConsoleColor.White;
-                    }
-                    Console.Write("\t" + matrix[i, j]);
-                    Console.ForegroundColor = ConsoleColor.White;
-                }
-                Console.WriteLine();
-            }
-            Console.WriteLine();
-            Console.Write("\t");
-            for (int i = 0; i < graph.VertexCount; i++)
-            {
-                Console.Write($"{i + 1}\t");
-            }
-        }
+        //private static void GetMatrix(Graph graph)
+        //{
+        //    var matrix = graph.GetMatrix();
+        //    for (int i = 0; i < graph.VertexCount; i++)
+        //    {
+        //        Console.Write((i + 1)+"|");
+        //        for (int j = 0; j < graph.VertexCount; j++)
+        //        {
+        //            if (matrix[i, j] != 0)
+        //            {
+        //                Console.ForegroundColor = ConsoleColor.Red;
+        //            }
+        //            else
+        //            {
+        //                Console.ForegroundColor = ConsoleColor.White;
+        //            }
+        //            Console.Write("\t" + matrix[i, j]);
+        //            Console.ForegroundColor = ConsoleColor.White;
+        //        }
+        //        Console.WriteLine();
+        //    }
+        //    Console.WriteLine();
+        //    Console.Write("\t");
+        //    for (int i = 0; i < graph.VertexCount; i++)
+        //    {
+        //        Console.Write($"{i + 1}\t");
+        //    }
+        //}
     }
 }

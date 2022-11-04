@@ -1,11 +1,9 @@
 ﻿
 namespace Graph
 {
-    public class Vertex//<T>
+    public class Vertex
     {
         public int Number { get; set; }
-
-        //T Data;
 
         public Vertex(int number)
         {
