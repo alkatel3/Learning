@@ -70,6 +70,20 @@ namespace Graph
             return result;
         }
 
+        public List<Edge> GetEdgeLists(Vertex vertex)
+        {
+            var result = new List<Edge>();
+            foreach (var edge in Edges)
+            {
+                if (edge.Vertex1.Equals(vertex))
+                {
+                    result.Add(edge);
+                }
+            }
+
+            return result;
+        }
+
 
         public bool Wave(Vertex start, Vertex finish)
         {

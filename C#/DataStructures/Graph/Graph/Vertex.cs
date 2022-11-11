@@ -4,6 +4,10 @@ namespace Graph
     public class Vertex
     {
         public int Number { get; set; }
+        public int Visits { get; set; }
+        public bool IsDeadEnd { get; set; }
+        public bool IsCat { get; set; }
+
 
         public Vertex(int number)
         {

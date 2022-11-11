@@ -6,34 +6,32 @@ using System.Threading.Tasks;
 
 namespace Graph
 {
-    public class SquareGraph
+    public class SquareGraph:Graph
     {
-        private Graph Graph{get;set;}
         private Vertex[,] vertexes;
         private int Size;
         public SquareGraph (int size = 5)
         {
             Size = size;
-            Graph=GetSquareGraph(size);
+            vertexes = new Vertex[size, size];
+            CreatSquareGraph(size);
         }
 
-        private Graph GetSquareGraph(int size = 5)
+        private void CreatSquareGraph(int size = 5)
         {
             var rnd = new Random();
-            vertexes =new Vertex[size, size];
             if (size < 2)
             {
                 Console.WriteLine("Side must be not less then 2");
                 size = 2;
             }
-            var Graph=new Graph();
 
             for(int i=0; i< size; i++)
             {
                 for (int j = 0; j < size; j++)
                 {
                     var vertex = new Vertex(i* size + j);
-                    Graph.AddVertex(vertex);
+                    AddVertex(vertex);
                     vertexes[i,j] = vertex;
                 }
             }
@@ -48,24 +46,23 @@ namespace Graph
                     }
                     else if(j== size - 1 && i < size - 1)
                     {
-                        Graph.AddEdge(vertexes[i, j], vertexes[i + 1, j], rnd.Next(1, 9));
+                        AddEdge(vertexes[i, j], vertexes[i + 1, j], rnd.Next(1, 9));
                     }
                     else if(i== size - 1 && j < size - 1)
                     {
-                        Graph.AddEdge(vertexes[i, j], vertexes[i, j + 1], rnd.Next(1, 9));
+                        AddEdge(vertexes[i, j], vertexes[i, j + 1], rnd.Next(1, 9));
                     }
                     else
                     {
-                        Graph.AddEdge(vertexes[i, j], vertexes[i, j + 1], rnd.Next(1, 9));
-                        Graph.AddEdge(vertexes[i, j], vertexes[i + 1, j], rnd.Next(1, 9));
+                        AddEdge(vertexes[i, j], vertexes[i, j + 1], rnd.Next(1, 9));
+                        AddEdge(vertexes[i, j], vertexes[i + 1, j], rnd.Next(1, 9));
                     }
                 }
             }
-                    return Graph;
         }
         public void RemoveEdges(int Count)
         {
-            if (Count > Graph.EdgeCount - Graph.VertexCount + 1)
+            if (Count > EdgeCount - VertexCount + 1)
             {
                 throw new ArgumentException("The graph must be connected", nameof(Count));
             }
@@ -75,21 +72,21 @@ namespace Graph
             foreach(var vertex in vertexes)
             {
                 
-                var list = Graph.GetVertexLists(vertex);
+                var list = GetVertexLists(vertex);
                 
                 var vertex2 = list[rnd.Next(list.Count)];
-                Graph.RemoveEdge(vertex, vertex2);
+                RemoveEdge(vertex, vertex2);
                 removed = true;
 
                 foreach(var ver in vertexes)
                 {
-                    if (Graph.Wave(vertex, ver))
+                    if (Wave(vertex, ver))
                     {
                         continue;
                     }
                     else
                     {
-                        Graph.AddEdge(vertex, vertex2);
+                        AddEdge(vertex, vertex2);
                         removed = false;
                         break;
 
@@ -113,14 +110,23 @@ namespace Graph
             {
                 for(int j=0; j < Size; j++)
                 {
-                    Console.Write("o");
+                    if (vertexes[i, j].IsCat)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.Write("o");
+                        Console.ForegroundColor = ConsoleColor.Gray;
+                    }
+                    else
+                    {
+                        Console.Write("o");
+                    }
                     if (j == Size - 1)
                     {
                         continue;
                     }
                     else
                     {
-                        if(Graph.IsWay(vertexes[i,j], vertexes[i, j + 1]))
+                        if(IsWay(vertexes[i,j], vertexes[i, j + 1]))
                         {
                             Console.Write(" - ");
                         }
@@ -140,7 +146,7 @@ namespace Graph
                 {
                     for (int j = 0; j < Size; j++)
                     {
-                        if (Graph.IsWay(vertexes[i, j], vertexes[i+1, j]))
+                        if (IsWay(vertexes[i, j], vertexes[i+1, j]))
                         {
                             Console.Write("|");
                         }

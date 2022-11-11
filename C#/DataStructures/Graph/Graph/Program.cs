@@ -56,42 +56,59 @@
             #endregion
 
             var graph2 =new SquareGraph(5);
-            //Console.WriteLine(graph2.Graph.EdgeCount);
-            //for (int i = 0; i < 25; i++)
-            //{
-            //    GetVertex(graph2.Graph, new Vertex(i));
-            //}
+            graph2.RemoveEdges(16);
 
-            //graph2.ShowInGraphConsole();
-            //Console.WriteLine();
-            //Console.WriteLine(graph2.Graph.RemoveEdge(new Vertex(5), new Vertex(6)));
-            //Console.WriteLine(graph2.Graph.RemoveEdge(new Vertex(13), new Vertex(14)));
-            //Console.WriteLine(graph2.Graph.RemoveEdge(new Vertex(7), new Vertex(8)));
-            //Console.WriteLine(graph2.Graph.RemoveEdge(new Vertex(0), new Vertex(1)));
-            //Console.WriteLine(graph2.Graph.RemoveEdge(new Vertex(23), new Vertex(24)));
-            //Console.WriteLine(graph2.Graph.EdgeCount);
+            var Car = new Car();
 
-            Console.WriteLine();
-            graph2.ShowInGraphConsole();
-            graph2.RemoveEdges(17);
-            //Console.WriteLine(graph2.Graph.EdgeCount);
-            Console.WriteLine();
-            graph2.ShowInGraphConsole();
-            //for (int i = 0; i < 25; i++)
-            //{
-            //    GetVertex(graph2.Graph, new Vertex(i));
-            //}
+            var Egdes = graph2.GetEdgeLists(new Vertex(6));
+            var Start = Egdes[0].Vertex1;
+
+            Egdes = graph2.GetEdgeLists(new Vertex(9));
+            var Finish = Egdes[0].Vertex1;
+
+            Car.Move(graph2, Start, Finish);
+
         }
 
-        public static void GetVertex(Graph graph, Vertex vertex)
-        {
-            Console.Write(vertex + ": ");
-            foreach (var v in graph.GetVertexLists(vertex))
-            {
-                Console.Write(v + ", ");
-            }
-            Console.WriteLine();
-        }
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //public static void GetVertex(Graph graph, Vertex vertex)
+        //{
+        //    Console.Write(vertex + ": ");
+        //    foreach (var v in graph.GetVertexLists(vertex))
+        //    {
+        //        Console.Write(v + ", ");
+        //    }
+        //    Console.WriteLine();
+        //}
 
         //private static void GetMatrix(Graph graph)
         //{

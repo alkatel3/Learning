@@ -5,7 +5,7 @@ namespace Graph
     {
         public Vertex Vertex1 { get; set; }
         public Vertex Vertex2 { get; set; }
-
+        public int visited { get; set; }
         public int Weight { get; set; }
 
         public Edge(Vertex vertex1 , Vertex vertex2, int weight=1)
