@@ -10,6 +10,7 @@ namespace Graph
     {
         private Vertex[,] vertexes;
         private int Size;
+
         public SquareGraph (int size = 5)
         {
             Size = size;

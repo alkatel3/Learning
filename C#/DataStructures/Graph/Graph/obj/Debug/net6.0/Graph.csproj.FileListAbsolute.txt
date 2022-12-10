@@ -28,3 +28,5 @@ C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\
 C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.pdb
 C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.genruntimeconfig.cache
 C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\ref\Graph.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\bin\Debug\net6.0\MNIST.IO.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Studying\Other\Learning\Learning\C#\DataStructures\Graph\Graph\obj\Debug\net6.0\Graph.csproj.CopyComplete

@@ -1,5 +1,4 @@
-﻿
-namespace Graph
+﻿namespace Graph
 {
     public class Graph
     {
@@ -18,6 +17,14 @@ namespace Graph
             Vertices.Add(vertex);
         }
 
+        public void ClearKnowledgeBase()
+        {
+            foreach(var e in Edges)
+            {
+                e.Visited = 0;
+            }
+        }
+
         public void AddEdge(Vertex Vertex1, Vertex Vertex2, int weight=1)
         {
             if (Vertex1.Equals(Vertex2))
@@ -33,6 +40,22 @@ namespace Graph
             }
             Edges.Add(edge);
             Edges.Add(edge2);
+            //Vertex1.Vertices.Add(Vertex2,GetVertexLists(Vertex2));
+            //Vertex2.Vertices.Add(Vertex1, GetVertexLists(Vertex1));
+            //foreach(var v in GetVertexLists(Vertex1))
+            //{
+            //    if (!v.Vertices[Vertex1].Contains(Vertex2))
+            //    {
+            //        v.Vertices[Vertex1].Add(Vertex2);
+            //    }
+            //}
+            //foreach (var v in GetVertexLists(Vertex2))
+            //{
+            //    if (!v.Vertices[Vertex2].Contains(Vertex1))
+            //    {
+            //        v.Vertices[Vertex2].Add(Vertex1);
+            //    }
+            //}
             EdgeCount++;
         }
 
@@ -117,7 +140,10 @@ namespace Graph
             if (result)
             {
                 EdgeCount--;
+                //Vertex1.Vertices.Remove(Vertex2);
+                //Vertex2.Vertices.Remove(Vertex1);
             }
+
             return result;
         }
     }

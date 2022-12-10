@@ -1,4 +1,6 @@
-﻿namespace Graph
+﻿using MNIST.IO;
+
+namespace Graph
 {
     internal class Program
     {
@@ -55,88 +57,33 @@
             //Console.WriteLine();
             #endregion
 
-            var graph2 =new SquareGraph(5);
-            graph2.RemoveEdges(16);
+            var graph = new SquareGraph(5);
+            graph.RemoveEdges(16);
 
-            var Car = new Car();
+            var Car1 = new Car();
 
-            var Egdes = graph2.GetEdgeLists(new Vertex(6));
+            var Egdes = graph.GetEdgeLists(new Vertex(10));
             var Start = Egdes[0].Vertex1;
 
-            Egdes = graph2.GetEdgeLists(new Vertex(9));
+            Egdes = graph.GetEdgeLists(new Vertex(24));
             var Finish = Egdes[0].Vertex1;
 
-            Car.Move(graph2, Start, Finish);
+            Car1.Move(graph, Start, Finish, true);
 
+
+            var map1 = Car1.ShortWay;
+            var way1 = Car1.FullWay;
+
+            foreach (var item in way1)
+            {
+                Console.Write(item + "\t");
+            }
+            Console.WriteLine();
+
+            foreach (var item in map1)
+            {
+                Console.Write(item + "\t");
+            }
         }
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        //public static void GetVertex(Graph graph, Vertex vertex)
-        //{
-        //    Console.Write(vertex + ": ");
-        //    foreach (var v in graph.GetVertexLists(vertex))
-        //    {
-        //        Console.Write(v + ", ");
-        //    }
-        //    Console.WriteLine();
-        //}
-
-        //private static void GetMatrix(Graph graph)
-        //{
-        //    var matrix = graph.GetMatrix();
-        //    for (int i = 0; i < graph.VertexCount; i++)
-        //    {
-        //        Console.Write((i + 1)+"|");
-        //        for (int j = 0; j < graph.VertexCount; j++)
-        //        {
-        //            if (matrix[i, j] != 0)
-        //            {
-        //                Console.ForegroundColor = ConsoleColor.Red;
-        //            }
-        //            else
-        //            {
-        //                Console.ForegroundColor = ConsoleColor.White;
-        //            }
-        //            Console.Write("\t" + matrix[i, j]);
-        //            Console.ForegroundColor = ConsoleColor.White;
-        //        }
-        //        Console.WriteLine();
-        //    }
-        //    Console.WriteLine();
-        //    Console.Write("\t");
-        //    for (int i = 0; i < graph.VertexCount; i++)
-        //    {
-        //        Console.Write($"{i + 1}\t");
-        //    }
-        //}
     }
 }
