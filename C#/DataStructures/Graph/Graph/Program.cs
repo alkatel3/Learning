@@ -1,6 +1,4 @@
-﻿using MNIST.IO;
-
-namespace Graph
+﻿namespace Graph
 {
     internal class Program
     {
