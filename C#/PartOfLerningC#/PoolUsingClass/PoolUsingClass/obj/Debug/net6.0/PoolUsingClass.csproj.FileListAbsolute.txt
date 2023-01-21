@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\bin\Debug\net6.0\PoolUsingClass.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\bin\Debug\net6.0\PoolUsingClass.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\bin\Debug\net6.0\PoolUsingClass.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\bin\Debug\net6.0\PoolUsingClass.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\bin\Debug\net6.0\PoolUsingClass.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\obj\Debug\net6.0\PoolUsingClass.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\obj\Debug\net6.0\PoolUsingClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\obj\Debug\net6.0\PoolUsingClass.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\obj\Debug\net6.0\PoolUsingClass.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\obj\Debug\net6.0\PoolUsingClass.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\obj\Debug\net6.0\PoolUsingClass.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\obj\Debug\net6.0\refint\PoolUsingClass.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\obj\Debug\net6.0\PoolUsingClass.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\obj\Debug\net6.0\PoolUsingClass.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolUsingClass\PoolUsingClass\obj\Debug\net6.0\ref\PoolUsingClass.dll

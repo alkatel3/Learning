@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\bin\Debug\net5.0\SortedArrayList.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\bin\Debug\net5.0\SortedArrayList.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\bin\Debug\net5.0\SortedArrayList.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\bin\Debug\net5.0\SortedArrayList.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\bin\Debug\net5.0\SortedArrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\bin\Debug\net5.0\ref\SortedArrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\bin\Debug\net5.0\SortedArrayList.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\obj\Debug\net5.0\SortedArrayList.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\obj\Debug\net5.0\SortedArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\obj\Debug\net5.0\SortedArrayList.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\obj\Debug\net5.0\SortedArrayList.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\obj\Debug\net5.0\SortedArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\obj\Debug\net5.0\SortedArrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\obj\Debug\net5.0\ref\SortedArrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\obj\Debug\net5.0\SortedArrayList.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SortedArrayList\SortedArrayList\obj\Debug\net5.0\SortedArrayList.genruntimeconfig.cache

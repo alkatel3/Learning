@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\bin\Debug\net6.0\SuspendAndResumeWorkThread.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\bin\Debug\net6.0\SuspendAndResumeWorkThread.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\bin\Debug\net6.0\SuspendAndResumeWorkThread.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\bin\Debug\net6.0\SuspendAndResumeWorkThread.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\bin\Debug\net6.0\SuspendAndResumeWorkThread.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\obj\Debug\net6.0\SuspendAndResumeWorkThread.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\obj\Debug\net6.0\SuspendAndResumeWorkThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\obj\Debug\net6.0\SuspendAndResumeWorkThread.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\obj\Debug\net6.0\SuspendAndResumeWorkThread.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\obj\Debug\net6.0\SuspendAndResumeWorkThread.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\obj\Debug\net6.0\SuspendAndResumeWorkThread.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\obj\Debug\net6.0\refint\SuspendAndResumeWorkThread.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\obj\Debug\net6.0\SuspendAndResumeWorkThread.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\obj\Debug\net6.0\SuspendAndResumeWorkThread.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PausingAndResumingWorkThread\PausingAndResumingWorkThread\obj\Debug\net6.0\ref\SuspendAndResumeWorkThread.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKIY6cjZM86+RXV7jwzt3IxWUBHxJKz8rRUFLRgBPiXDlh+p4R4C2i2gdjWmFXS4W7CjKyWS+WsMYoKpGqPfAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\OneDrive\\Рабочий стол\\C#\\dictionary\\dictionary\\dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\bin\Debug\net6.0-windows\ChildProcess1.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\bin\Debug\net6.0-windows\ChildProcess1.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\bin\Debug\net6.0-windows\ChildProcess1.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\bin\Debug\net6.0-windows\ChildProcess1.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\bin\Debug\net6.0-windows\ChildProcess1.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ChildProcess1.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ChildProcess1.Form1.resources
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ChildProcess1.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ChildProcess1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ChildProcess1.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ChildProcess1.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ChildProcess1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ChildProcess1.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\refint\ChildProcess1.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ChildProcess1.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ChildProcess1.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ChildProcess1\ChildProcess1\obj\Debug\net6.0-windows\ref\ChildProcess1.dll

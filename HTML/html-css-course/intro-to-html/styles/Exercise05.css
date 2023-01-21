@@ -1,0 +1,132 @@
+.for-separate-lines {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.paragraph1-style {
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+}
+
+.logo-div{
+  text-align: center;
+}
+
+.search-div{
+  text-align: center;
+}
+
+.search-form-style {
+  width: 500px;
+  border: none;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 16px;
+}
+
+.google-logo-style {
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+.button-div{
+  text-align: center;
+  margin-top: 30px;
+}
+.google-button{
+  margin-right: 5px;
+  margin-left: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  border: none;
+}
+
+.name-line {
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 8px;
+  border: 1px solid gray;
+  width: 100px;
+}
+
+.email-line {
+  display: block;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border: 1px solid gray;
+  width: 238px;
+}
+
+.sing-up-button {
+  margin-top: 10px;
+  display: block;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(56, 56, 202);
+  color: white;
+  padding-left: 112px;
+  padding-right: 112px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.paragraph2-style {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 25px;
+}
+
+.input-uber-style {
+  display: block;
+  background-color: rgb(241, 237, 237);
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-top: 10px;
+  width: 400px;
+}
+
+.button1-style {
+  border: none;
+  background-color: black;
+  color: white;
+  margin-right: 10px;
+  margin-top: 23px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 16px;
+}
+
+.button2-style {
+  border: none;
+  background-color: rgb(241, 237, 237);
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 16px;
+}

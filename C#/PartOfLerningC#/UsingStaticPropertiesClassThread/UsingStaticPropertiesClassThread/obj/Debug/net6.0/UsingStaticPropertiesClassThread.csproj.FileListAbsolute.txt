@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\bin\Debug\net6.0\UsingStaticPropertiesClassThread.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\bin\Debug\net6.0\UsingStaticPropertiesClassThread.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\bin\Debug\net6.0\UsingStaticPropertiesClassThread.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\bin\Debug\net6.0\UsingStaticPropertiesClassThread.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\bin\Debug\net6.0\UsingStaticPropertiesClassThread.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\obj\Debug\net6.0\UsingStaticPropertiesClassThread.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\obj\Debug\net6.0\UsingStaticPropertiesClassThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\obj\Debug\net6.0\UsingStaticPropertiesClassThread.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\obj\Debug\net6.0\UsingStaticPropertiesClassThread.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\obj\Debug\net6.0\UsingStaticPropertiesClassThread.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\obj\Debug\net6.0\UsingStaticPropertiesClassThread.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\obj\Debug\net6.0\refint\UsingStaticPropertiesClassThread.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\obj\Debug\net6.0\UsingStaticPropertiesClassThread.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\obj\Debug\net6.0\UsingStaticPropertiesClassThread.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStaticPropertiesClassThread\UsingStaticPropertiesClassThread\obj\Debug\net6.0\ref\UsingStaticPropertiesClassThread.dll

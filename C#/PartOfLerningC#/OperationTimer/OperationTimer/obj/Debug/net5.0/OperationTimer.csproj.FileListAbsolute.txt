@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\bin\Debug\net5.0\OperationTimer.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\bin\Debug\net5.0\OperationTimer.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\bin\Debug\net5.0\OperationTimer.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\bin\Debug\net5.0\OperationTimer.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\bin\Debug\net5.0\OperationTimer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\bin\Debug\net5.0\ref\OperationTimer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\bin\Debug\net5.0\OperationTimer.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\obj\Debug\net5.0\OperationTimer.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\obj\Debug\net5.0\OperationTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\obj\Debug\net5.0\OperationTimer.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\obj\Debug\net5.0\OperationTimer.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\obj\Debug\net5.0\OperationTimer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\obj\Debug\net5.0\OperationTimer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\obj\Debug\net5.0\ref\OperationTimer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\obj\Debug\net5.0\OperationTimer.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OperationTimer\OperationTimer\obj\Debug\net5.0\OperationTimer.genruntimeconfig.cache

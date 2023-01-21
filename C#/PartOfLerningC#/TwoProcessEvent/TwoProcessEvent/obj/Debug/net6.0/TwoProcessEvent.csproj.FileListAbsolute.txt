@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\bin\Debug\net6.0\TwoProcessEvent.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\bin\Debug\net6.0\TwoProcessEvent.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\bin\Debug\net6.0\TwoProcessEvent.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\bin\Debug\net6.0\TwoProcessEvent.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\bin\Debug\net6.0\TwoProcessEvent.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\obj\Debug\net6.0\TwoProcessEvent.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\obj\Debug\net6.0\TwoProcessEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\obj\Debug\net6.0\TwoProcessEvent.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\obj\Debug\net6.0\TwoProcessEvent.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\obj\Debug\net6.0\TwoProcessEvent.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\obj\Debug\net6.0\TwoProcessEvent.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\obj\Debug\net6.0\refint\TwoProcessEvent.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\obj\Debug\net6.0\TwoProcessEvent.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\obj\Debug\net6.0\TwoProcessEvent.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TwoProcessEvent\TwoProcessEvent\obj\Debug\net6.0\ref\TwoProcessEvent.dll

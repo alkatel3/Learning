@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UsingXmlDocumentation</name>
+    </assembly>
+    <members>
+        <member name="T:UsingXmlDocumentation.Distance">
+            <summary>
+            The <c>Distance</c> class provider methods
+            for converting kilometers to and from miles
+            </summary>
+        </member>
+        <member name="M:UsingXmlDocumentation.Distance.KilometersToMiles(System.Double)">
+            <summary>
+            Converts kilometers to miles.
+            </summary>
+            <param name="kilometers">
+            Used to indicate kilometers.
+            A <see cref="T:System.Double"/>
+            type representing a value.
+            </param>
+            <exception cref="T:System.ArgumentException">
+            If <paramref name="kilometers"/>
+            is negative.
+            </exception>
+            <returns>Returns the distance in miles
+            </returns>
+        </member>
+        <member name="M:UsingXmlDocumentation.Distance.MilesToKilometers(System.Double)">
+            <summary>
+            Converts miles to kilometers.
+            </summary>
+            <param name="miles">
+            Used to indicate miles.
+            A <see cref="T:System.Double"/>
+            </param>
+            <exception cref="T:System.ArgumentException">
+            If <parenref name="miles"/> is neative.
+            </exception>
+            <returbs>Returns the distance in
+            kilomiters.
+            </returbs>
+        </member>
+    </members>
+</doc>

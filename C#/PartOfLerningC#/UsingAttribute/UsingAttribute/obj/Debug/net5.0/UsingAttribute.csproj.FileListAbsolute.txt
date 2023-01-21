@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\bin\Debug\net5.0\UsingAttribute.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\bin\Debug\net5.0\UsingAttribute.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\bin\Debug\net5.0\UsingAttribute.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\bin\Debug\net5.0\UsingAttribute.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\bin\Debug\net5.0\UsingAttribute.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\bin\Debug\net5.0\UsingAttribute.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\obj\Debug\net5.0\UsingAttribute.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\obj\Debug\net5.0\UsingAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\obj\Debug\net5.0\UsingAttribute.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\obj\Debug\net5.0\UsingAttribute.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\obj\Debug\net5.0\UsingAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\obj\Debug\net5.0\UsingAttribute.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\obj\Debug\net5.0\refint\UsingAttribute.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\obj\Debug\net5.0\UsingAttribute.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\obj\Debug\net5.0\UsingAttribute.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAttribute\UsingAttribute\obj\Debug\net5.0\ref\UsingAttribute.dll

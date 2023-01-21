@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyanbdaConstruction", "LyanbdaConstruction\LyanbdaConstruction.csproj", "{F49E290F-1504-4480-9FC2-F3A58FCCC076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49E290F-1504-4480-9FC2-F3A58FCCC076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49E290F-1504-4480-9FC2-F3A58FCCC076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49E290F-1504-4480-9FC2-F3A58FCCC076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49E290F-1504-4480-9FC2-F3A58FCCC076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD9E2791-1783-486D-AA32-ECF609FCF08B}
+	EndGlobalSection
+EndGlobal

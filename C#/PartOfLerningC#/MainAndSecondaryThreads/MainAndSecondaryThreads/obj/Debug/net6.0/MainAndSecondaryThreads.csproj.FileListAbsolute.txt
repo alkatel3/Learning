@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\bin\Debug\net6.0\MainAndSecondaryThreads.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\bin\Debug\net6.0\MainAndSecondaryThreads.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\bin\Debug\net6.0\MainAndSecondaryThreads.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\bin\Debug\net6.0\MainAndSecondaryThreads.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\bin\Debug\net6.0\MainAndSecondaryThreads.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\obj\Debug\net6.0\MainAndSecondaryThreads.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\obj\Debug\net6.0\MainAndSecondaryThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\obj\Debug\net6.0\MainAndSecondaryThreads.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\obj\Debug\net6.0\MainAndSecondaryThreads.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\obj\Debug\net6.0\MainAndSecondaryThreads.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\obj\Debug\net6.0\MainAndSecondaryThreads.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\obj\Debug\net6.0\refint\MainAndSecondaryThreads.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\obj\Debug\net6.0\MainAndSecondaryThreads.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\obj\Debug\net6.0\MainAndSecondaryThreads.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MainAndSecondaryThreads\MainAndSecondaryThreads\obj\Debug\net6.0\ref\MainAndSecondaryThreads.dll

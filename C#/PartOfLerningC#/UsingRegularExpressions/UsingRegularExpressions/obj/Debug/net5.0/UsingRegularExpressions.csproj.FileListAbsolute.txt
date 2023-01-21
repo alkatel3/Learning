@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\bin\Debug\net5.0\UsingRegularExpressions.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\bin\Debug\net5.0\UsingRegularExpressions.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\bin\Debug\net5.0\UsingRegularExpressions.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\bin\Debug\net5.0\UsingRegularExpressions.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\bin\Debug\net5.0\UsingRegularExpressions.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\bin\Debug\net5.0\UsingRegularExpressions.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\obj\Debug\net5.0\UsingRegularExpressions.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\obj\Debug\net5.0\UsingRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\obj\Debug\net5.0\UsingRegularExpressions.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\obj\Debug\net5.0\UsingRegularExpressions.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\obj\Debug\net5.0\UsingRegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\obj\Debug\net5.0\UsingRegularExpressions.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\obj\Debug\net5.0\ref\UsingRegularExpressions.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\obj\Debug\net5.0\UsingRegularExpressions.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\obj\Debug\net5.0\UsingRegularExpressions.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingRegularExpressions\UsingRegularExpressions\obj\Debug\net5.0\refint\UsingRegularExpressions.dll

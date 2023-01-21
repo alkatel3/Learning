@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildProcess2", "ChildProcess2\ChildProcess2.csproj", "{F48E4A0A-5E33-4891-BF76-ADF495E7FB56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48E4A0A-5E33-4891-BF76-ADF495E7FB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48E4A0A-5E33-4891-BF76-ADF495E7FB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48E4A0A-5E33-4891-BF76-ADF495E7FB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48E4A0A-5E33-4891-BF76-ADF495E7FB56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F1FD689-4494-4089-93A3-DC9D79B29CEC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\bin\Debug\net5.0\Exception.Catch2.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\bin\Debug\net5.0\Exception.Catch2.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\bin\Debug\net5.0\Exception.Catch2.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\bin\Debug\net5.0\Exception.Catch2.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\bin\Debug\net5.0\Exception.Catch2.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\bin\Debug\net5.0\ref\Exception.Catch2.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\bin\Debug\net5.0\Exception.Catch2.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\obj\Debug\net5.0\Exception.Catch2.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\obj\Debug\net5.0\Exception.Catch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\obj\Debug\net5.0\Exception.Catch2.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\obj\Debug\net5.0\Exception.Catch2.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\obj\Debug\net5.0\Exception.Catch2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\obj\Debug\net5.0\Exception.Catch2.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\obj\Debug\net5.0\ref\Exception.Catch2.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\obj\Debug\net5.0\Exception.Catch2.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception.Catch2\Exception.Catch2\obj\Debug\net5.0\Exception.Catch2.genruntimeconfig.cache

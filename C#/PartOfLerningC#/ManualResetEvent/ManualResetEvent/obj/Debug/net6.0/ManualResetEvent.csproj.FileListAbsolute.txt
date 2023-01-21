@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\bin\Debug\net6.0\ManualResetEvent.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\bin\Debug\net6.0\ManualResetEvent.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\bin\Debug\net6.0\ManualResetEvent.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\bin\Debug\net6.0\ManualResetEvent.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\bin\Debug\net6.0\ManualResetEvent.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\obj\Debug\net6.0\ManualResetEvent.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\obj\Debug\net6.0\ManualResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\obj\Debug\net6.0\ManualResetEvent.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\obj\Debug\net6.0\ManualResetEvent.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\obj\Debug\net6.0\ManualResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\obj\Debug\net6.0\ManualResetEvent.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\obj\Debug\net6.0\refint\ManualResetEvent.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\obj\Debug\net6.0\ManualResetEvent.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\obj\Debug\net6.0\ManualResetEvent.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ManualResetEvent\ManualResetEvent\obj\Debug\net6.0\ref\ManualResetEvent.dll

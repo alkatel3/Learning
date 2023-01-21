@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\bin\Debug\net6.0\UsingMutex.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\bin\Debug\net6.0\UsingMutex.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\bin\Debug\net6.0\UsingMutex.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\bin\Debug\net6.0\UsingMutex.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\bin\Debug\net6.0\UsingMutex.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\obj\Debug\net6.0\UsingMutex.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\obj\Debug\net6.0\UsingMutex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\obj\Debug\net6.0\UsingMutex.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\obj\Debug\net6.0\UsingMutex.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\obj\Debug\net6.0\UsingMutex.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\obj\Debug\net6.0\UsingMutex.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\obj\Debug\net6.0\refint\UsingMutex.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\obj\Debug\net6.0\UsingMutex.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\obj\Debug\net6.0\UsingMutex.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMutex\UsingMutex\obj\Debug\net6.0\ref\UsingMutex.dll

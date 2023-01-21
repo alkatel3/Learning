@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\bin\Debug\net5.0\UsingDirectoryInfoAndFileInfo.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\bin\Debug\net5.0\UsingDirectoryInfoAndFileInfo.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\bin\Debug\net5.0\UsingDirectoryInfoAndFileInfo.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\bin\Debug\net5.0\UsingDirectoryInfoAndFileInfo.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\bin\Debug\net5.0\UsingDirectoryInfoAndFileInfo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\bin\Debug\net5.0\ref\UsingDirectoryInfoAndFileInfo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\bin\Debug\net5.0\UsingDirectoryInfoAndFileInfo.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\obj\Debug\net5.0\UsingDirectoryInfoAndFileInfo.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\obj\Debug\net5.0\UsingDirectoryInfoAndFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\obj\Debug\net5.0\UsingDirectoryInfoAndFileInfo.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\obj\Debug\net5.0\UsingDirectoryInfoAndFileInfo.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\obj\Debug\net5.0\UsingDirectoryInfoAndFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\obj\Debug\net5.0\UsingDirectoryInfoAndFileInfo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\obj\Debug\net5.0\ref\UsingDirectoryInfoAndFileInfo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\obj\Debug\net5.0\UsingDirectoryInfoAndFileInfo.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfoAndFileInfo\UsingDirectoryInfoAndFileInfo\obj\Debug\net5.0\UsingDirectoryInfoAndFileInfo.genruntimeconfig.cache

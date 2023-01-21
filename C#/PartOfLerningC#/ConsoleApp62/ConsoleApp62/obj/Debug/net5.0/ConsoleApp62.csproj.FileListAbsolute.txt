@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\obj\Debug\net5.0\ConsoleApp62.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\obj\Debug\net5.0\ConsoleApp62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\obj\Debug\net5.0\ConsoleApp62.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\obj\Debug\net5.0\ConsoleApp62.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\obj\Debug\net5.0\ConsoleApp62.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\bin\Debug\net5.0\ConsoleApp62.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\bin\Debug\net5.0\ConsoleApp62.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\bin\Debug\net5.0\ConsoleApp62.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\bin\Debug\net5.0\ConsoleApp62.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\bin\Debug\net5.0\ConsoleApp62.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\bin\Debug\net5.0\ref\ConsoleApp62.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\bin\Debug\net5.0\ConsoleApp62.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\obj\Debug\net5.0\ConsoleApp62.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\obj\Debug\net5.0\ref\ConsoleApp62.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\obj\Debug\net5.0\ConsoleApp62.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp62\ConsoleApp62\obj\Debug\net5.0\ConsoleApp62.genruntimeconfig.cache

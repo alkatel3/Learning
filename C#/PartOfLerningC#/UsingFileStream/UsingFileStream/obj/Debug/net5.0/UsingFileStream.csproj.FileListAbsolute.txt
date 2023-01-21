@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\bin\Debug\net5.0\UsingFileStream.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\bin\Debug\net5.0\UsingFileStream.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\bin\Debug\net5.0\UsingFileStream.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\bin\Debug\net5.0\UsingFileStream.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\bin\Debug\net5.0\UsingFileStream.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\bin\Debug\net5.0\ref\UsingFileStream.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\bin\Debug\net5.0\UsingFileStream.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\obj\Debug\net5.0\UsingFileStream.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\obj\Debug\net5.0\UsingFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\obj\Debug\net5.0\UsingFileStream.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\obj\Debug\net5.0\UsingFileStream.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\obj\Debug\net5.0\UsingFileStream.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\obj\Debug\net5.0\UsingFileStream.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\obj\Debug\net5.0\ref\UsingFileStream.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\obj\Debug\net5.0\UsingFileStream.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingFileStream\UsingFileStream\obj\Debug\net5.0\UsingFileStream.genruntimeconfig.cache

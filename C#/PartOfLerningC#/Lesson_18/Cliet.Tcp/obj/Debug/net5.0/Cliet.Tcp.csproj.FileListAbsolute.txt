@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\obj\Debug\net5.0\Cliet.Tcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\obj\Debug\net5.0\Cliet.Tcp.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\obj\Debug\net5.0\Cliet.Tcp.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\obj\Debug\net5.0\Cliet.Tcp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\bin\Debug\net5.0\Cliet.Tcp.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\bin\Debug\net5.0\Cliet.Tcp.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\bin\Debug\net5.0\Cliet.Tcp.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\bin\Debug\net5.0\Cliet.Tcp.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\bin\Debug\net5.0\Cliet.Tcp.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\bin\Debug\net5.0\ref\Cliet.Tcp.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\bin\Debug\net5.0\Cliet.Tcp.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\obj\Debug\net5.0\Cliet.Tcp.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\obj\Debug\net5.0\ref\Cliet.Tcp.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\obj\Debug\net5.0\Cliet.Tcp.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\obj\Debug\net5.0\Cliet.Tcp.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lesson_18\Cliet.Tcp\obj\Debug\net5.0\Cliet.Tcp.csprojAssemblyReference.cache

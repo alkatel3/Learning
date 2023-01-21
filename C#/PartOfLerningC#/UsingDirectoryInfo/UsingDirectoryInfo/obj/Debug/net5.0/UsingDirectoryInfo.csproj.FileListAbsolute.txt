@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\bin\Debug\net5.0\UsingDirectoryInfo.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\bin\Debug\net5.0\UsingDirectoryInfo.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\bin\Debug\net5.0\UsingDirectoryInfo.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\bin\Debug\net5.0\UsingDirectoryInfo.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\bin\Debug\net5.0\UsingDirectoryInfo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\bin\Debug\net5.0\ref\UsingDirectoryInfo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\bin\Debug\net5.0\UsingDirectoryInfo.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\obj\Debug\net5.0\UsingDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\obj\Debug\net5.0\UsingDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\obj\Debug\net5.0\UsingDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\obj\Debug\net5.0\UsingDirectoryInfo.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\obj\Debug\net5.0\UsingDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\obj\Debug\net5.0\UsingDirectoryInfo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\obj\Debug\net5.0\ref\UsingDirectoryInfo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\obj\Debug\net5.0\UsingDirectoryInfo.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectoryInfo\UsingDirectoryInfo\obj\Debug\net5.0\UsingDirectoryInfo.genruntimeconfig.cache

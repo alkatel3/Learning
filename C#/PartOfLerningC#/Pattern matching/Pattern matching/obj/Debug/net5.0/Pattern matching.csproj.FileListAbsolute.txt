@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\bin\Debug\net5.0\Pattern matching.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\bin\Debug\net5.0\Pattern matching.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\bin\Debug\net5.0\Pattern matching.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\bin\Debug\net5.0\Pattern matching.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\bin\Debug\net5.0\Pattern matching.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\bin\Debug\net5.0\ref\Pattern matching.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\bin\Debug\net5.0\Pattern matching.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\obj\Debug\net5.0\Pattern matching.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\obj\Debug\net5.0\Pattern matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\obj\Debug\net5.0\Pattern matching.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\obj\Debug\net5.0\Pattern matching.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\obj\Debug\net5.0\Pattern matching.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\obj\Debug\net5.0\Pattern matching.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\obj\Debug\net5.0\ref\Pattern matching.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\obj\Debug\net5.0\Pattern matching.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pattern matching\Pattern matching\obj\Debug\net5.0\Pattern matching.genruntimeconfig.cache

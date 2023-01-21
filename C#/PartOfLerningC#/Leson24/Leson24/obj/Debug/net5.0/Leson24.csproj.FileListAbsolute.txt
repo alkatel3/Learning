@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\bin\Debug\net5.0\Leson24.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\bin\Debug\net5.0\Leson24.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\bin\Debug\net5.0\Leson24.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\bin\Debug\net5.0\Leson24.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\bin\Debug\net5.0\Leson24.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\bin\Debug\net5.0\ref\Leson24.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\bin\Debug\net5.0\Leson24.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\obj\Debug\net5.0\Leson24.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\obj\Debug\net5.0\Leson24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\obj\Debug\net5.0\Leson24.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\obj\Debug\net5.0\Leson24.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\obj\Debug\net5.0\Leson24.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\obj\Debug\net5.0\Leson24.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\obj\Debug\net5.0\ref\Leson24.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\obj\Debug\net5.0\Leson24.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Leson24\Leson24\obj\Debug\net5.0\Leson24.genruntimeconfig.cache

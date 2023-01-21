@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    <style>
+        a[href$=".pdf"]{
+            background: url(img/pdf.png) 100% 50% no-repeat;
+            padding-right: 15px;
+            background-size: 15px;
+        }
+        a[href^="http://"]{
+            background: url(img/external.png) 100% 50% no-repeat;
+            padding-right: 20px;
+            background-size: 15px;
+        }
+        a[href*=twitter]{
+            background: url(img/twitter.png) 100% 50% no-repeat;
+            padding-right: 15px;
+            
+            background-size: 15px;
+        }
+        a[class="tt"]{
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <a href="http://google.com" title="d" class="ttt">Search</a>
+    <br>
+    <a href="http://twitter.com/profile">Some Twitter User</a>
+    <br>
+    <a href="/resources/test.pdf">Manual</a>
+</body>
+</html>

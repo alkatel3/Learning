@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\bin\Debug\net6.0-windows\UsingAppDomians.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\bin\Debug\net6.0-windows\UsingAppDomians.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\bin\Debug\net6.0-windows\UsingAppDomians.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\bin\Debug\net6.0-windows\UsingAppDomians.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\bin\Debug\net6.0-windows\UsingAppDomians.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\obj\Debug\net6.0-windows\UsingAppDomians.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\obj\Debug\net6.0-windows\UsingAppDomians.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\obj\Debug\net6.0-windows\UsingAppDomians.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\obj\Debug\net6.0-windows\UsingAppDomians.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\obj\Debug\net6.0-windows\UsingAppDomians.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\obj\Debug\net6.0-windows\UsingAppDomians.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\obj\Debug\net6.0-windows\refint\UsingAppDomians.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\obj\Debug\net6.0-windows\UsingAppDomians.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\obj\Debug\net6.0-windows\UsingAppDomians.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAppDomians\UsingAppDomians\obj\Debug\net6.0-windows\ref\UsingAppDomians.dll

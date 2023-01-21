@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\bin\Debug\net5.0\ForceThreadToShutDown.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\bin\Debug\net5.0\ForceThreadToShutDown.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\bin\Debug\net5.0\ForceThreadToShutDown.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\bin\Debug\net5.0\ForceThreadToShutDown.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\bin\Debug\net5.0\ForceThreadToShutDown.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\bin\Debug\net5.0\ForceThreadToShutDown.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\obj\Debug\net5.0\ForceThreadToShutDown.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\obj\Debug\net5.0\ForceThreadToShutDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\obj\Debug\net5.0\ForceThreadToShutDown.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\obj\Debug\net5.0\ForceThreadToShutDown.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\obj\Debug\net5.0\ForceThreadToShutDown.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\obj\Debug\net5.0\ForceThreadToShutDown.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\obj\Debug\net5.0\refint\ForceThreadToShutDown.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\obj\Debug\net5.0\ForceThreadToShutDown.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\obj\Debug\net5.0\ForceThreadToShutDown.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ForceThreadToShutDown\ForceThreadToShutDown\obj\Debug\net5.0\ref\ForceThreadToShutDown.dll

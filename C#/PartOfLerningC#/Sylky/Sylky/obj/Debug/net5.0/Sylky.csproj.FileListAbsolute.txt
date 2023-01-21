@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\bin\Debug\net5.0\Sylky.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\bin\Debug\net5.0\Sylky.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\bin\Debug\net5.0\Sylky.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\bin\Debug\net5.0\Sylky.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\bin\Debug\net5.0\Sylky.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\bin\Debug\net5.0\ref\Sylky.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\bin\Debug\net5.0\Sylky.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\obj\Debug\net5.0\Sylky.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\obj\Debug\net5.0\Sylky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\obj\Debug\net5.0\Sylky.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\obj\Debug\net5.0\Sylky.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\obj\Debug\net5.0\Sylky.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\obj\Debug\net5.0\Sylky.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\obj\Debug\net5.0\ref\Sylky.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\obj\Debug\net5.0\Sylky.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Sylky\Sylky\obj\Debug\net5.0\Sylky.genruntimeconfig.cache

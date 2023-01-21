@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\bin\Debug\net5.0\stack.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\bin\Debug\net5.0\stack.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\bin\Debug\net5.0\stack.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\bin\Debug\net5.0\stack.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\bin\Debug\net5.0\stack.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\bin\Debug\net5.0\ref\stack.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\bin\Debug\net5.0\stack.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\obj\Debug\net5.0\stack.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\obj\Debug\net5.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\obj\Debug\net5.0\stack.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\obj\Debug\net5.0\stack.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\obj\Debug\net5.0\stack.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\obj\Debug\net5.0\stack.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\obj\Debug\net5.0\ref\stack.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\obj\Debug\net5.0\stack.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\stack\stack\obj\Debug\net5.0\stack.genruntimeconfig.cache

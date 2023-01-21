@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\bin\Debug\net5.0\solid_Liskov.exe
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\bin\Debug\net5.0\solid_Liskov.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\bin\Debug\net5.0\solid_Liskov.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\bin\Debug\net5.0\solid_Liskov.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\bin\Debug\net5.0\solid_Liskov.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\bin\Debug\net5.0\ref\solid_Liskov.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\bin\Debug\net5.0\solid_Liskov.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\obj\Debug\net5.0\solid_Liskov.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\obj\Debug\net5.0\solid_Liskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\obj\Debug\net5.0\solid_Liskov.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\obj\Debug\net5.0\solid_Liskov.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\obj\Debug\net5.0\solid_Liskov.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\obj\Debug\net5.0\solid_Liskov.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\obj\Debug\net5.0\ref\solid_Liskov.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\obj\Debug\net5.0\solid_Liskov.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid_Liskov\solid_Liskov\obj\Debug\net5.0\solid_Liskov.genruntimeconfig.cache

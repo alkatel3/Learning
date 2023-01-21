@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\bin\Release\net6.0\ModuleThree.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\bin\Release\net6.0\ModuleThree.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\bin\Release\net6.0\ModuleThree.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\bin\Release\net6.0\AssemblyExample.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\bin\Release\net6.0\AssemblyExample.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\obj\Release\net6.0\ModuleThree.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\obj\Release\net6.0\ModuleThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\obj\Release\net6.0\ModuleThree.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\obj\Release\net6.0\ModuleThree.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\obj\Release\net6.0\ModuleThree.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\obj\Release\net6.0\ModuleThree.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\obj\Release\net6.0\ModuleThree.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\obj\Release\net6.0\refint\ModuleThree.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\obj\Release\net6.0\ModuleThree.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleThree\ModuleThree\obj\Release\net6.0\ref\ModuleThree.dll

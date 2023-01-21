@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\bin\Debug\net6.0\UsingInterlocked.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\bin\Debug\net6.0\UsingInterlocked.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\bin\Debug\net6.0\UsingInterlocked.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\bin\Debug\net6.0\UsingInterlocked.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\bin\Debug\net6.0\UsingInterlocked.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\obj\Debug\net6.0\UsingInterlocked.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\obj\Debug\net6.0\UsingInterlocked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\obj\Debug\net6.0\UsingInterlocked.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\obj\Debug\net6.0\UsingInterlocked.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\obj\Debug\net6.0\UsingInterlocked.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\obj\Debug\net6.0\UsingInterlocked.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\obj\Debug\net6.0\refint\UsingInterlocked.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\obj\Debug\net6.0\UsingInterlocked.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\obj\Debug\net6.0\UsingInterlocked.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterlocked\UsingInterlocked\obj\Debug\net6.0\ref\UsingInterlocked.dll

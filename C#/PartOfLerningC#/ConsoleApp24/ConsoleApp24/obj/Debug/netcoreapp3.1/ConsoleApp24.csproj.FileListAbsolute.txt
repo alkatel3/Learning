@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.exe
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.deps.json
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.runtimeconfig.json
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.pdb
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.pdb
+C:\Users\Dell\Desktop\C#\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.genruntimeconfig.cache

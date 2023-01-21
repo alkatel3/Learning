@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\bin\Debug\net5.0\partial_classes.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\bin\Debug\net5.0\partial_classes.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\bin\Debug\net5.0\partial_classes.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\bin\Debug\net5.0\partial_classes.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\bin\Debug\net5.0\partial_classes.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\bin\Debug\net5.0\ref\partial_classes.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\bin\Debug\net5.0\partial_classes.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\obj\Debug\net5.0\partial_classes.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\obj\Debug\net5.0\partial_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\obj\Debug\net5.0\partial_classes.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\obj\Debug\net5.0\partial_classes.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\obj\Debug\net5.0\partial_classes.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\obj\Debug\net5.0\partial_classes.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\obj\Debug\net5.0\ref\partial_classes.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\obj\Debug\net5.0\partial_classes.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\partial_classes\partial_classes\obj\Debug\net5.0\partial_classes.genruntimeconfig.cache

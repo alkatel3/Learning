@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\bin\Debug\net6.0\TimerTest.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\bin\Debug\net6.0\TimerTest.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\bin\Debug\net6.0\TimerTest.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\bin\Debug\net6.0\TimerTest.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\bin\Debug\net6.0\TimerTest.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\obj\Debug\net6.0\TimerTest.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\obj\Debug\net6.0\TimerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\obj\Debug\net6.0\TimerTest.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\obj\Debug\net6.0\TimerTest.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\obj\Debug\net6.0\TimerTest.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\obj\Debug\net6.0\TimerTest.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\obj\Debug\net6.0\refint\TimerTest.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\obj\Debug\net6.0\TimerTest.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\obj\Debug\net6.0\TimerTest.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\TimerTest\TimerTest\obj\Debug\net6.0\ref\TimerTest.dll

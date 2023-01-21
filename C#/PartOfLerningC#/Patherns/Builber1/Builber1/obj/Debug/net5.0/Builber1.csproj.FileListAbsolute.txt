@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\bin\Debug\net5.0\Builber1.exe
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\bin\Debug\net5.0\Builber1.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\bin\Debug\net5.0\Builber1.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\bin\Debug\net5.0\Builber1.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\bin\Debug\net5.0\Builber1.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\bin\Debug\net5.0\ref\Builber1.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\bin\Debug\net5.0\Builber1.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\obj\Debug\net5.0\Builber1.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\obj\Debug\net5.0\Builber1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\obj\Debug\net5.0\Builber1.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\obj\Debug\net5.0\Builber1.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\obj\Debug\net5.0\Builber1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\obj\Debug\net5.0\Builber1.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\obj\Debug\net5.0\ref\Builber1.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\obj\Debug\net5.0\Builber1.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\Builber1\Builber1\obj\Debug\net5.0\Builber1.genruntimeconfig.cache

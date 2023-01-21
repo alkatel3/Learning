@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\bin\Debug\net6.0\UsingAssembly.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\bin\Debug\net6.0\UsingAssembly.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\bin\Debug\net6.0\UsingAssembly.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\bin\Debug\net6.0\UsingAssembly.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\bin\Debug\net6.0\UsingAssembly.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\obj\Debug\net6.0\UsingAssembly.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\obj\Debug\net6.0\UsingAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\obj\Debug\net6.0\UsingAssembly.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\obj\Debug\net6.0\UsingAssembly.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\obj\Debug\net6.0\UsingAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\obj\Debug\net6.0\UsingAssembly.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\obj\Debug\net6.0\refint\UsingAssembly.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\obj\Debug\net6.0\UsingAssembly.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\obj\Debug\net6.0\UsingAssembly.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssembly\UsingAssembly\obj\Debug\net6.0\ref\UsingAssembly.dll

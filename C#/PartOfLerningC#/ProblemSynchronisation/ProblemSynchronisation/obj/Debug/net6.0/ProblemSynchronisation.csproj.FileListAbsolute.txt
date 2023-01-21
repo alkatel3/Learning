@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\bin\Debug\net6.0\ProblemSynchronisation.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\bin\Debug\net6.0\ProblemSynchronisation.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\bin\Debug\net6.0\ProblemSynchronisation.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\bin\Debug\net6.0\ProblemSynchronisation.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\bin\Debug\net6.0\ProblemSynchronisation.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\obj\Debug\net6.0\ProblemSynchronisation.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\obj\Debug\net6.0\ProblemSynchronisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\obj\Debug\net6.0\ProblemSynchronisation.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\obj\Debug\net6.0\ProblemSynchronisation.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\obj\Debug\net6.0\ProblemSynchronisation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\obj\Debug\net6.0\ProblemSynchronisation.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\obj\Debug\net6.0\refint\ProblemSynchronisation.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\obj\Debug\net6.0\ProblemSynchronisation.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\obj\Debug\net6.0\ProblemSynchronisation.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ProblemSynchronisation\ProblemSynchronisation\obj\Debug\net6.0\ref\ProblemSynchronisation.dll

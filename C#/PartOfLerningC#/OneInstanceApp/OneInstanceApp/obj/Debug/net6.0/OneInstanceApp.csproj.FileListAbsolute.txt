@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\bin\Debug\net6.0\OneInstanceApp.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\bin\Debug\net6.0\OneInstanceApp.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\bin\Debug\net6.0\OneInstanceApp.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\bin\Debug\net6.0\OneInstanceApp.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\bin\Debug\net6.0\OneInstanceApp.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\obj\Debug\net6.0\OneInstanceApp.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\obj\Debug\net6.0\OneInstanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\obj\Debug\net6.0\OneInstanceApp.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\obj\Debug\net6.0\OneInstanceApp.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\obj\Debug\net6.0\OneInstanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\obj\Debug\net6.0\OneInstanceApp.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\obj\Debug\net6.0\refint\OneInstanceApp.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\obj\Debug\net6.0\OneInstanceApp.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\obj\Debug\net6.0\OneInstanceApp.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OneInstanceApp\OneInstanceApp\obj\Debug\net6.0\ref\OneInstanceApp.dll

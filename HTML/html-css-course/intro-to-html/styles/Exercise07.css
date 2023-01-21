@@ -1,0 +1,174 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profile-picture  {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  margin-right: 15px;
+}
+
+.info {
+  width: 200px;
+}
+
+.name{
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.handle  {
+  color: rgb(150, 150, 150);
+  margin-bottom: 5px;
+}
+
+.category  {
+  color: rgb(150, 150, 150);
+  font-size: 14px;
+}
+
+.follow-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;  
+  font-size: 16px;
+  font-weight: bold; 
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.status-style {
+  color: rgb(150, 150, 150);
+  font-size: 14px;
+}
+.div-with-border {
+  border: 1px solid rgb(200, 200, 200);
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+
+
+
+
+
+.content-div2 {
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 5px;
+}
+
+.text-div2,
+.img-div2 {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.img-style2 {
+  width: 272px;
+  margin-right: 10px;
+}
+
+.video-title {
+  width: 280px;
+  font-weight: 900;
+  font-size: 20px;
+  font-family: Roboto;
+  line-height: 30px;
+}
+
+.views,
+.owner {
+  width: 280px;
+  color: rgb(106, 106, 106);
+  font-size: 18px;
+  font-family: Roboto;
+  font-weight: 500;
+}
+
+.views {
+  margin-bottom: 8px;
+  margin-top: 5px;
+}
+
+.owner {
+  margin-top: 10px;
+}
+
+.content-div3 {
+  width: 200px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  vertical-align: top;
+  margin-right: 15px;
+}
+
+.img-style3 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+
+.icon {
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 8px;
+  margin-bottom: 5px;
+}
+
+.friends {
+  color: rgb(100, 100, 100);
+}
+
+.div-style {
+  display: grid;
+  grid-template-columns: 35px 1fr;
+  align-items: center;
+  margin-left: 8px;
+  margin-bottom: 8px;
+}
+
+.button-style2 {
+  margin-left: 8px;
+  border: none;
+  border-radius: 4px;
+  background-color: rgb(24, 119, 242);
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  column-gap: 20px;
+}

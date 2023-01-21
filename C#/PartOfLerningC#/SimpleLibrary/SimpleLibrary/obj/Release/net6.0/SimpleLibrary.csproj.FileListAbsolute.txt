@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\bin\Release\net6.0\SimpleLibrary.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\bin\Release\net6.0\SimpleLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\bin\Release\net6.0\SimpleLibrary.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\obj\Release\net6.0\SimpleLibrary.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\obj\Release\net6.0\SimpleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\obj\Release\net6.0\SimpleLibrary.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\obj\Release\net6.0\SimpleLibrary.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\obj\Release\net6.0\SimpleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\obj\Release\net6.0\SimpleLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\obj\Release\net6.0\refint\SimpleLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\obj\Release\net6.0\SimpleLibrary.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleLibrary\SimpleLibrary\obj\Release\net6.0\ref\SimpleLibrary.dll

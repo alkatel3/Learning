@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\obj\Debug\net6.0\UsingMonitor.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\obj\Debug\net6.0\UsingMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\obj\Debug\net6.0\UsingMonitor.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\obj\Debug\net6.0\UsingMonitor.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\obj\Debug\net6.0\UsingMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\bin\Debug\net6.0\UsingMonitor.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\bin\Debug\net6.0\UsingMonitor.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\bin\Debug\net6.0\UsingMonitor.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\bin\Debug\net6.0\UsingMonitor.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\bin\Debug\net6.0\UsingMonitor.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\obj\Debug\net6.0\UsingMonitor.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\obj\Debug\net6.0\refint\UsingMonitor.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\obj\Debug\net6.0\UsingMonitor.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\obj\Debug\net6.0\UsingMonitor.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingMonitor\UsingMonitor\obj\Debug\net6.0\ref\UsingMonitor.dll

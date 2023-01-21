@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\bin\Debug\net5.0\NameIterator.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\bin\Debug\net5.0\NameIterator.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\bin\Debug\net5.0\NameIterator.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\bin\Debug\net5.0\NameIterator.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\bin\Debug\net5.0\NameIterator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\bin\Debug\net5.0\ref\NameIterator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\bin\Debug\net5.0\NameIterator.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\obj\Debug\net5.0\NameIterator.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\obj\Debug\net5.0\NameIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\obj\Debug\net5.0\NameIterator.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\obj\Debug\net5.0\NameIterator.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\obj\Debug\net5.0\NameIterator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\obj\Debug\net5.0\NameIterator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\obj\Debug\net5.0\ref\NameIterator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\obj\Debug\net5.0\NameIterator.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\NameIterator\NameIterator\obj\Debug\net5.0\NameIterator.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\obj\Debug\net6.0\UsingAssemblyLoadFrom.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\obj\Debug\net6.0\UsingAssemblyLoadFrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\obj\Debug\net6.0\UsingAssemblyLoadFrom.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\obj\Debug\net6.0\UsingAssemblyLoadFrom.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\obj\Debug\net6.0\UsingAssemblyLoadFrom.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\bin\Debug\net6.0\UsingAssemblyLoadFrom.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\bin\Debug\net6.0\UsingAssemblyLoadFrom.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\bin\Debug\net6.0\UsingAssemblyLoadFrom.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\bin\Debug\net6.0\UsingAssemblyLoadFrom.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\bin\Debug\net6.0\UsingAssemblyLoadFrom.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\obj\Debug\net6.0\UsingAssemblyLoadFrom.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\obj\Debug\net6.0\refint\UsingAssemblyLoadFrom.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\obj\Debug\net6.0\UsingAssemblyLoadFrom.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\obj\Debug\net6.0\UsingAssemblyLoadFrom.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingAssemblyLoadFrom\UsingAssemblyLoadFrom\obj\Debug\net6.0\ref\UsingAssemblyLoadFrom.dll

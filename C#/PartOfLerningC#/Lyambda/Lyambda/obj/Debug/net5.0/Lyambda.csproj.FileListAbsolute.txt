@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\bin\Debug\net5.0\Lyambda.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\bin\Debug\net5.0\Lyambda.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\bin\Debug\net5.0\Lyambda.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\bin\Debug\net5.0\Lyambda.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\bin\Debug\net5.0\Lyambda.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\bin\Debug\net5.0\ref\Lyambda.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\bin\Debug\net5.0\Lyambda.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\obj\Debug\net5.0\Lyambda.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\obj\Debug\net5.0\Lyambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\obj\Debug\net5.0\Lyambda.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\obj\Debug\net5.0\Lyambda.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\obj\Debug\net5.0\Lyambda.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\obj\Debug\net5.0\Lyambda.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\obj\Debug\net5.0\ref\Lyambda.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\obj\Debug\net5.0\Lyambda.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Lyambda\Lyambda\obj\Debug\net5.0\Lyambda.genruntimeconfig.cache

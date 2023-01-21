@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\bin\Debug\net6.0\UsingInterfaceISerializable.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\bin\Debug\net6.0\UsingInterfaceISerializable.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\bin\Debug\net6.0\UsingInterfaceISerializable.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\bin\Debug\net6.0\UsingInterfaceISerializable.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\bin\Debug\net6.0\UsingInterfaceISerializable.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\obj\Debug\net6.0\UsingInterfaceISerializable.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\obj\Debug\net6.0\UsingInterfaceISerializable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\obj\Debug\net6.0\UsingInterfaceISerializable.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\obj\Debug\net6.0\UsingInterfaceISerializable.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\obj\Debug\net6.0\UsingInterfaceISerializable.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\obj\Debug\net6.0\UsingInterfaceISerializable.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\obj\Debug\net6.0\refint\UsingInterfaceISerializable.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\obj\Debug\net6.0\UsingInterfaceISerializable.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\obj\Debug\net6.0\UsingInterfaceISerializable.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingInterfaceISerializable\UsingInterfaceISerializable\obj\Debug\net6.0\ref\UsingInterfaceISerializable.dll

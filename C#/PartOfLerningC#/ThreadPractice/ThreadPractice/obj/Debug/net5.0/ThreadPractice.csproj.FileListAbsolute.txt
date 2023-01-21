@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\bin\Debug\net5.0\ThreadPractice.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\bin\Debug\net5.0\ThreadPractice.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\bin\Debug\net5.0\ThreadPractice.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\bin\Debug\net5.0\ThreadPractice.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\bin\Debug\net5.0\ThreadPractice.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\bin\Debug\net5.0\ThreadPractice.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\obj\Debug\net5.0\ThreadPractice.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\obj\Debug\net5.0\ThreadPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\obj\Debug\net5.0\ThreadPractice.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\obj\Debug\net5.0\ThreadPractice.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\obj\Debug\net5.0\ThreadPractice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\obj\Debug\net5.0\ThreadPractice.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\obj\Debug\net5.0\refint\ThreadPractice.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\obj\Debug\net5.0\ThreadPractice.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\obj\Debug\net5.0\ThreadPractice.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPractice\ThreadPractice\obj\Debug\net5.0\ref\ThreadPractice.dll

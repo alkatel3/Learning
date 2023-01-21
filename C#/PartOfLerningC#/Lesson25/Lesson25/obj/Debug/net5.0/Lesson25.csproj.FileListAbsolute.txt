@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Lesson25\Lesson25\obj\Debug\net5.0\Lesson25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Lesson25\Lesson25\obj\Debug\net5.0\Lesson25.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Lesson25\Lesson25\obj\Debug\net5.0\Lesson25.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Lesson25\Lesson25\obj\Debug\net5.0\Lesson25.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Lesson25\Lesson25\bin\Debug\net5.0\Lesson25.exe
+C:\Users\Dell\source\repos\Lesson25\Lesson25\bin\Debug\net5.0\Lesson25.deps.json
+C:\Users\Dell\source\repos\Lesson25\Lesson25\bin\Debug\net5.0\Lesson25.runtimeconfig.json
+C:\Users\Dell\source\repos\Lesson25\Lesson25\bin\Debug\net5.0\Lesson25.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Lesson25\Lesson25\bin\Debug\net5.0\Lesson25.dll
+C:\Users\Dell\source\repos\Lesson25\Lesson25\bin\Debug\net5.0\ref\Lesson25.dll
+C:\Users\Dell\source\repos\Lesson25\Lesson25\bin\Debug\net5.0\Lesson25.pdb
+C:\Users\Dell\source\repos\Lesson25\Lesson25\obj\Debug\net5.0\Lesson25.dll
+C:\Users\Dell\source\repos\Lesson25\Lesson25\obj\Debug\net5.0\ref\Lesson25.dll
+C:\Users\Dell\source\repos\Lesson25\Lesson25\obj\Debug\net5.0\Lesson25.pdb
+C:\Users\Dell\source\repos\Lesson25\Lesson25\obj\Debug\net5.0\Lesson25.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAk/aK8C3pMNeBgwIO1/ATbtQDeGk+8wnL/YweWStuPcVzb48Tml1BpLRtUgphkTXWHJuqDA1WPc7FSpDZx27g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\OneDrive\\Рабочий стол\\C#\\UsingRegularExpressions\\UsingRegularExpressions\\UsingRegularExpressions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\bin\Debug\net5.0\arrayList.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\bin\Debug\net5.0\arrayList.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\bin\Debug\net5.0\arrayList.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\bin\Debug\net5.0\arrayList.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\bin\Debug\net5.0\arrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\bin\Debug\net5.0\ref\arrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\bin\Debug\net5.0\arrayList.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\obj\Debug\net5.0\arrayList.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\obj\Debug\net5.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\obj\Debug\net5.0\arrayList.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\obj\Debug\net5.0\arrayList.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\obj\Debug\net5.0\arrayList.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\obj\Debug\net5.0\arrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\obj\Debug\net5.0\ref\arrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\obj\Debug\net5.0\arrayList.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ArrayList\ArrayList\obj\Debug\net5.0\arrayList.genruntimeconfig.cache

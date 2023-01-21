@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\bin\Debug\net6.0\UsingTimer.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\bin\Debug\net6.0\UsingTimer.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\bin\Debug\net6.0\UsingTimer.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\bin\Debug\net6.0\UsingTimer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\bin\Debug\net6.0\UsingTimer.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\obj\Debug\net6.0\UsingTimer.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\obj\Debug\net6.0\UsingTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\obj\Debug\net6.0\UsingTimer.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\obj\Debug\net6.0\UsingTimer.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\obj\Debug\net6.0\UsingTimer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\obj\Debug\net6.0\UsingTimer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\obj\Debug\net6.0\refint\UsingTimer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\obj\Debug\net6.0\UsingTimer.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\obj\Debug\net6.0\UsingTimer.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingTimer\UsingTimer\obj\Debug\net6.0\ref\UsingTimer.dll

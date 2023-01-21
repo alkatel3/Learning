@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\bin\Debug\net5.0\AnonimMethods.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\bin\Debug\net5.0\AnonimMethods.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\bin\Debug\net5.0\AnonimMethods.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\bin\Debug\net5.0\AnonimMethods.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\bin\Debug\net5.0\AnonimMethods.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\bin\Debug\net5.0\ref\AnonimMethods.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\bin\Debug\net5.0\AnonimMethods.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\obj\Debug\net5.0\AnonimMethods.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\obj\Debug\net5.0\AnonimMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\obj\Debug\net5.0\AnonimMethods.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\obj\Debug\net5.0\AnonimMethods.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\obj\Debug\net5.0\AnonimMethods.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\obj\Debug\net5.0\AnonimMethods.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\obj\Debug\net5.0\ref\AnonimMethods.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\obj\Debug\net5.0\AnonimMethods.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AnomimMethods\AnomimMethods\obj\Debug\net5.0\AnonimMethods.genruntimeconfig.cache

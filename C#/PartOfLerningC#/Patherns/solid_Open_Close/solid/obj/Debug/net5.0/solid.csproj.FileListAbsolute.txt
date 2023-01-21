@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\bin\Debug\net5.0\solid.exe
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\bin\Debug\net5.0\solid.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\bin\Debug\net5.0\solid.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\bin\Debug\net5.0\solid.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\bin\Debug\net5.0\solid.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\bin\Debug\net5.0\ref\solid.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\bin\Debug\net5.0\solid.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\obj\Debug\net5.0\solid.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\obj\Debug\net5.0\solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\obj\Debug\net5.0\solid.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\obj\Debug\net5.0\solid.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\obj\Debug\net5.0\solid.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\obj\Debug\net5.0\solid.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\obj\Debug\net5.0\ref\solid.dll
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\obj\Debug\net5.0\solid.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\LerningC#\solid\solid\obj\Debug\net5.0\solid.genruntimeconfig.cache

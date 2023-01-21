@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\bin\Debug\net5.0\ThreadJoin.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\bin\Debug\net5.0\ThreadJoin.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\bin\Debug\net5.0\ThreadJoin.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\bin\Debug\net5.0\ThreadJoin.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\bin\Debug\net5.0\ThreadJoin.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\bin\Debug\net5.0\ThreadJoin.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\obj\Debug\net5.0\ThreadJoin.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\obj\Debug\net5.0\ThreadJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\obj\Debug\net5.0\ThreadJoin.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\obj\Debug\net5.0\ThreadJoin.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\obj\Debug\net5.0\ThreadJoin.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\obj\Debug\net5.0\ThreadJoin.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\obj\Debug\net5.0\refint\ThreadJoin.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\obj\Debug\net5.0\ThreadJoin.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\obj\Debug\net5.0\ThreadJoin.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadJoin\ThreadJoin\obj\Debug\net5.0\ref\ThreadJoin.dll

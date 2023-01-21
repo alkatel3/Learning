@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\bin\Debug\net5.0\Exception01.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\bin\Debug\net5.0\Exception01.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\bin\Debug\net5.0\Exception01.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\bin\Debug\net5.0\Exception01.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\bin\Debug\net5.0\Exception01.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\bin\Debug\net5.0\ref\Exception01.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\bin\Debug\net5.0\Exception01.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\obj\Debug\net5.0\Exception01.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\obj\Debug\net5.0\Exception01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\obj\Debug\net5.0\Exception01.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\obj\Debug\net5.0\Exception01.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\obj\Debug\net5.0\Exception01.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\obj\Debug\net5.0\Exception01.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\obj\Debug\net5.0\ref\Exception01.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\obj\Debug\net5.0\Exception01.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Exception01\Exception01\obj\Debug\net5.0\Exception01.genruntimeconfig.cache

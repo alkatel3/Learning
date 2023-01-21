@@ -1,0 +1,5 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleCalc\SimpleCalc\obj\Release\net6.0\SimpleCalc.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleCalc\SimpleCalc\obj\Release\net6.0\SimpleCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleCalc\SimpleCalc\obj\Release\net6.0\SimpleCalc.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleCalc\SimpleCalc\obj\Release\net6.0\SimpleCalc.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\SimpleCalc\SimpleCalc\obj\Release\net6.0\SimpleCalc.csproj.CoreCompileInputs.cache

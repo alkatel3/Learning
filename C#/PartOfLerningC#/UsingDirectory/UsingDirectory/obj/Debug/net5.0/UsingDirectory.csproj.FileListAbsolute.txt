@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\bin\Debug\net5.0\UsingDirectory.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\bin\Debug\net5.0\UsingDirectory.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\bin\Debug\net5.0\UsingDirectory.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\bin\Debug\net5.0\UsingDirectory.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\bin\Debug\net5.0\UsingDirectory.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\bin\Debug\net5.0\ref\UsingDirectory.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\bin\Debug\net5.0\UsingDirectory.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\obj\Debug\net5.0\UsingDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\obj\Debug\net5.0\UsingDirectory.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\obj\Debug\net5.0\UsingDirectory.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\obj\Debug\net5.0\UsingDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\obj\Debug\net5.0\UsingDirectory.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\obj\Debug\net5.0\ref\UsingDirectory.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\obj\Debug\net5.0\UsingDirectory.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\obj\Debug\net5.0\UsingDirectory.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingDirectory\UsingDirectory\obj\Debug\net5.0\UsingDirectory.csproj.AssemblyReference.cache

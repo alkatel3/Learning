@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\bin\Debug\net6.0\DeadLock.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\bin\Debug\net6.0\DeadLock.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\bin\Debug\net6.0\DeadLock.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\bin\Debug\net6.0\DeadLock.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\bin\Debug\net6.0\DeadLock.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\obj\Debug\net6.0\DeadLock.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\obj\Debug\net6.0\DeadLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\obj\Debug\net6.0\DeadLock.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\obj\Debug\net6.0\DeadLock.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\obj\Debug\net6.0\DeadLock.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\obj\Debug\net6.0\DeadLock.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\obj\Debug\net6.0\refint\DeadLock.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\obj\Debug\net6.0\DeadLock.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\obj\Debug\net6.0\DeadLock.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\DeadLock\DeadLock\obj\Debug\net6.0\ref\DeadLock.dll

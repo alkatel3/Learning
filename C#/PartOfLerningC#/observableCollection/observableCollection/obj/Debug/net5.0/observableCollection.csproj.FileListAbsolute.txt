@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\bin\Debug\net5.0\observableCollection.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\bin\Debug\net5.0\observableCollection.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\bin\Debug\net5.0\observableCollection.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\bin\Debug\net5.0\observableCollection.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\bin\Debug\net5.0\observableCollection.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\bin\Debug\net5.0\ref\observableCollection.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\bin\Debug\net5.0\observableCollection.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\obj\Debug\net5.0\observableCollection.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\obj\Debug\net5.0\observableCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\obj\Debug\net5.0\observableCollection.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\obj\Debug\net5.0\observableCollection.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\obj\Debug\net5.0\observableCollection.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\obj\Debug\net5.0\observableCollection.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\obj\Debug\net5.0\ref\observableCollection.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\obj\Debug\net5.0\observableCollection.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\observableCollection\observableCollection\obj\Debug\net5.0\observableCollection.genruntimeconfig.cache

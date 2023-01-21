@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\bin\Debug\net5.0\ConsoleApp58.exe
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\bin\Debug\net5.0\ConsoleApp58.deps.json
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\bin\Debug\net5.0\ConsoleApp58.runtimeconfig.json
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\bin\Debug\net5.0\ConsoleApp58.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\bin\Debug\net5.0\ConsoleApp58.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\bin\Debug\net5.0\ref\ConsoleApp58.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\bin\Debug\net5.0\ConsoleApp58.pdb
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\obj\Debug\net5.0\ConsoleApp58.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\obj\Debug\net5.0\ConsoleApp58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\obj\Debug\net5.0\ConsoleApp58.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\obj\Debug\net5.0\ConsoleApp58.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\obj\Debug\net5.0\ConsoleApp58.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\obj\Debug\net5.0\ConsoleApp58.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\obj\Debug\net5.0\ref\ConsoleApp58.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\obj\Debug\net5.0\ConsoleApp58.pdb
+C:\Users\Dell\Desktop\C#\ConsoleApp58\ConsoleApp58\obj\Debug\net5.0\ConsoleApp58.genruntimeconfig.cache

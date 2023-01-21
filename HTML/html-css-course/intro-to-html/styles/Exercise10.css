@@ -1,0 +1,40 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.margin-bottom{
+margin-bottom: 50px;
+}
+.flex-outside{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+.flex-inside{
+  display: flex;
+  flex-direction: column;
+}
+.flex-2inside{
+  display: flex;
+  justify-content: space-between;
+}
+.lightpink{
+  background-color: lightpink;
+}
+.lightblue{
+  background-color: lightblue;
+}
+.p1{
+  background-color: black;
+  color: white;
+}
+.width-100{
+  width: 100px;
+  height: 50px;
+}
+.width-200{
+  width: 200px;
+  height: 50px;
+}

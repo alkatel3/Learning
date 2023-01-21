@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\bin\Debug\net5.0\UsePredicate.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\bin\Debug\net5.0\UsePredicate.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\bin\Debug\net5.0\UsePredicate.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\bin\Debug\net5.0\UsePredicate.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\bin\Debug\net5.0\UsePredicate.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\bin\Debug\net5.0\ref\UsePredicate.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\bin\Debug\net5.0\UsePredicate.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\obj\Debug\net5.0\UsePredicate.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\obj\Debug\net5.0\UsePredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\obj\Debug\net5.0\UsePredicate.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\obj\Debug\net5.0\UsePredicate.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\obj\Debug\net5.0\UsePredicate.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\obj\Debug\net5.0\UsePredicate.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\obj\Debug\net5.0\ref\UsePredicate.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\obj\Debug\net5.0\UsePredicate.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsePredicate\UsePredicate\obj\Debug\net5.0\UsePredicate.genruntimeconfig.cache

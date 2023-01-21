@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\bin\Release\net6.0\AssemblyExample.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\bin\Release\net6.0\AssemblyExample.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\bin\Release\net6.0\AssemblyExample.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\obj\Release\net6.0\AssemblyExample.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\obj\Release\net6.0\AssemblyExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\obj\Release\net6.0\AssemblyExample.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\obj\Release\net6.0\AssemblyExample.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\obj\Release\net6.0\AssemblyExample.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\obj\Release\net6.0\AssemblyExample.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\obj\Release\net6.0\refint\AssemblyExample.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\obj\Release\net6.0\AssemblyExample.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AssemblyExample\AssemblyExample\obj\Release\net6.0\ref\AssemblyExample.dll

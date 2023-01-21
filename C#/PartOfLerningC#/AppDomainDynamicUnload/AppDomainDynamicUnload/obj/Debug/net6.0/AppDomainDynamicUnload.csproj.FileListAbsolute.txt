@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\bin\Debug\net6.0\AppDomainDynamicUnload.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\bin\Debug\net6.0\AppDomainDynamicUnload.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\bin\Debug\net6.0\AppDomainDynamicUnload.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\bin\Debug\net6.0\AppDomainDynamicUnload.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\bin\Debug\net6.0\AppDomainDynamicUnload.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\obj\Debug\net6.0\AppDomainDynamicUnload.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\obj\Debug\net6.0\AppDomainDynamicUnload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\obj\Debug\net6.0\AppDomainDynamicUnload.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\obj\Debug\net6.0\AppDomainDynamicUnload.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\obj\Debug\net6.0\AppDomainDynamicUnload.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\obj\Debug\net6.0\AppDomainDynamicUnload.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\obj\Debug\net6.0\refint\AppDomainDynamicUnload.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\obj\Debug\net6.0\AppDomainDynamicUnload.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\obj\Debug\net6.0\AppDomainDynamicUnload.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\AppDomainDynamicUnload\obj\Debug\net6.0\ref\AppDomainDynamicUnload.dll

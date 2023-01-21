@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\bin\Debug\net5.0\CountriesTranslator.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\bin\Debug\net5.0\CountriesTranslator.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\bin\Debug\net5.0\CountriesTranslator.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\bin\Debug\net5.0\CountriesTranslator.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\bin\Debug\net5.0\CountriesTranslator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\bin\Debug\net5.0\ref\CountriesTranslator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\bin\Debug\net5.0\CountriesTranslator.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\obj\Debug\net5.0\CountriesTranslator.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\obj\Debug\net5.0\CountriesTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\obj\Debug\net5.0\CountriesTranslator.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\obj\Debug\net5.0\CountriesTranslator.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\obj\Debug\net5.0\CountriesTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\obj\Debug\net5.0\CountriesTranslator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\obj\Debug\net5.0\ref\CountriesTranslator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\obj\Debug\net5.0\CountriesTranslator.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CountriesTranslator\CountriesTranslator\obj\Debug\net5.0\CountriesTranslator.genruntimeconfig.cache

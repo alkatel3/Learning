@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\bin\Debug\net5.0\lisT.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\bin\Debug\net5.0\lisT.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\bin\Debug\net5.0\lisT.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\bin\Debug\net5.0\lisT.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\bin\Debug\net5.0\lisT.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\bin\Debug\net5.0\ref\lisT.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\bin\Debug\net5.0\lisT.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\obj\Debug\net5.0\lisT.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\obj\Debug\net5.0\lisT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\obj\Debug\net5.0\lisT.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\obj\Debug\net5.0\lisT.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\obj\Debug\net5.0\lisT.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\obj\Debug\net5.0\lisT.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\obj\Debug\net5.0\ref\lisT.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\obj\Debug\net5.0\lisT.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\lisT\lisT\obj\Debug\net5.0\lisT.genruntimeconfig.cache

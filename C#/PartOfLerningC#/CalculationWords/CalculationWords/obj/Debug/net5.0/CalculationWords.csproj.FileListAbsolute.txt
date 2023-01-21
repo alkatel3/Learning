@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\bin\Debug\net5.0\CalculationWords.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\bin\Debug\net5.0\CalculationWords.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\bin\Debug\net5.0\CalculationWords.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\bin\Debug\net5.0\CalculationWords.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\bin\Debug\net5.0\CalculationWords.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\bin\Debug\net5.0\ref\CalculationWords.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\bin\Debug\net5.0\CalculationWords.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\obj\Debug\net5.0\CalculationWords.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\obj\Debug\net5.0\CalculationWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\obj\Debug\net5.0\CalculationWords.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\obj\Debug\net5.0\CalculationWords.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\obj\Debug\net5.0\CalculationWords.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\obj\Debug\net5.0\CalculationWords.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\obj\Debug\net5.0\ref\CalculationWords.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\obj\Debug\net5.0\CalculationWords.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\CalculationWords\CalculationWords\obj\Debug\net5.0\CalculationWords.genruntimeconfig.cache

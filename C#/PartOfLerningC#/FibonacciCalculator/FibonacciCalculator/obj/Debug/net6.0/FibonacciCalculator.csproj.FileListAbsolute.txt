@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\bin\Debug\net6.0\FibonacciCalculator.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\bin\Debug\net6.0\FibonacciCalculator.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\bin\Debug\net6.0\FibonacciCalculator.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\bin\Debug\net6.0\FibonacciCalculator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\bin\Debug\net6.0\FibonacciCalculator.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\obj\Debug\net6.0\FibonacciCalculator.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\obj\Debug\net6.0\FibonacciCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\obj\Debug\net6.0\FibonacciCalculator.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\obj\Debug\net6.0\FibonacciCalculator.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\obj\Debug\net6.0\FibonacciCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\obj\Debug\net6.0\FibonacciCalculator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\obj\Debug\net6.0\refint\FibonacciCalculator.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\obj\Debug\net6.0\FibonacciCalculator.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\obj\Debug\net6.0\FibonacciCalculator.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\FibonacciCalculator\FibonacciCalculator\obj\Debug\net6.0\ref\FibonacciCalculator.dll

@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#\ConsoleApp33\my_lib\bin\Debug\netcoreapp3.1\my_lib.deps.json
+C:\Users\Dell\Desktop\C#\ConsoleApp33\my_lib\bin\Debug\netcoreapp3.1\my_lib.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp33\my_lib\bin\Debug\netcoreapp3.1\my_lib.pdb
+C:\Users\Dell\Desktop\C#\ConsoleApp33\my_lib\obj\Debug\netcoreapp3.1\my_lib.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp33\my_lib\obj\Debug\netcoreapp3.1\my_lib.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#\ConsoleApp33\my_lib\obj\Debug\netcoreapp3.1\my_lib.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp33\my_lib\obj\Debug\netcoreapp3.1\my_lib.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp33\my_lib\obj\Debug\netcoreapp3.1\my_lib.pdb

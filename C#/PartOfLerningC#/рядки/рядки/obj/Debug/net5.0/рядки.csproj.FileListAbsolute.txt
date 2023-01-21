@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\bin\Debug\net5.0\рядки.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\bin\Debug\net5.0\рядки.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\bin\Debug\net5.0\рядки.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\bin\Debug\net5.0\рядки.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\bin\Debug\net5.0\рядки.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\bin\Debug\net5.0\ref\рядки.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\bin\Debug\net5.0\рядки.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\obj\Debug\net5.0\рядки.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\obj\Debug\net5.0\рядки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\obj\Debug\net5.0\рядки.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\obj\Debug\net5.0\рядки.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\obj\Debug\net5.0\рядки.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\obj\Debug\net5.0\рядки.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\obj\Debug\net5.0\ref\рядки.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\obj\Debug\net5.0\рядки.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\рядки\рядки\obj\Debug\net5.0\рядки.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\bin\Debug\net5.0\UserTypeInArrayList.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\bin\Debug\net5.0\UserTypeInArrayList.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\bin\Debug\net5.0\UserTypeInArrayList.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\bin\Debug\net5.0\UserTypeInArrayList.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\bin\Debug\net5.0\UserTypeInArrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\bin\Debug\net5.0\ref\UserTypeInArrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\bin\Debug\net5.0\UserTypeInArrayList.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\obj\Debug\net5.0\UserTypeInArrayList.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\obj\Debug\net5.0\UserTypeInArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\obj\Debug\net5.0\UserTypeInArrayList.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\obj\Debug\net5.0\UserTypeInArrayList.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\obj\Debug\net5.0\UserTypeInArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\obj\Debug\net5.0\UserTypeInArrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\obj\Debug\net5.0\ref\UserTypeInArrayList.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\obj\Debug\net5.0\UserTypeInArrayList.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UserTypeInArrayList\UserTypeInArrayList\obj\Debug\net5.0\UserTypeInArrayList.genruntimeconfig.cache

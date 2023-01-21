@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\bin\Debug\net5.0\patern switch.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\bin\Debug\net5.0\patern switch.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\bin\Debug\net5.0\patern switch.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\bin\Debug\net5.0\patern switch.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\bin\Debug\net5.0\patern switch.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\bin\Debug\net5.0\ref\patern switch.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\bin\Debug\net5.0\patern switch.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\obj\Debug\net5.0\patern switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\obj\Debug\net5.0\patern switch.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\obj\Debug\net5.0\patern switch.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\obj\Debug\net5.0\patern switch.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\obj\Debug\net5.0\patern switch.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\obj\Debug\net5.0\ref\patern switch.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\obj\Debug\net5.0\patern switch.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\obj\Debug\net5.0\patern switch.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\patern switch\patern switch\obj\Debug\net5.0\patern switch.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\bin\Debug\net6.0\AsyncWaitClass_2.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\bin\Debug\net6.0\AsyncWaitClass_2.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\bin\Debug\net6.0\AsyncWaitClass_2.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\bin\Debug\net6.0\AsyncWaitClass_2.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\bin\Debug\net6.0\AsyncWaitClass_2.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\obj\Debug\net6.0\AsyncWaitClass_2.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\obj\Debug\net6.0\AsyncWaitClass_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\obj\Debug\net6.0\AsyncWaitClass_2.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\obj\Debug\net6.0\AsyncWaitClass_2.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\obj\Debug\net6.0\AsyncWaitClass_2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\obj\Debug\net6.0\AsyncWaitClass_2.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\obj\Debug\net6.0\refint\AsyncWaitClass_2.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\obj\Debug\net6.0\AsyncWaitClass_2.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\obj\Debug\net6.0\AsyncWaitClass_2.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AsyncWaitClass_2\AsyncWaitClass_2\obj\Debug\net6.0\ref\AsyncWaitClass_2.dll

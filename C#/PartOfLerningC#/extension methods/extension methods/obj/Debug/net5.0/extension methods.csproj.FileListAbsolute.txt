@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\bin\Debug\net5.0\extension methods.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\bin\Debug\net5.0\extension methods.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\bin\Debug\net5.0\extension methods.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\bin\Debug\net5.0\extension methods.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\bin\Debug\net5.0\extension methods.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\bin\Debug\net5.0\ref\extension methods.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\bin\Debug\net5.0\extension methods.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\obj\Debug\net5.0\extension methods.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\obj\Debug\net5.0\extension methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\obj\Debug\net5.0\extension methods.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\obj\Debug\net5.0\extension methods.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\obj\Debug\net5.0\extension methods.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\obj\Debug\net5.0\extension methods.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\obj\Debug\net5.0\ref\extension methods.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\obj\Debug\net5.0\extension methods.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\extension methods\extension methods\obj\Debug\net5.0\extension methods.genruntimeconfig.cache

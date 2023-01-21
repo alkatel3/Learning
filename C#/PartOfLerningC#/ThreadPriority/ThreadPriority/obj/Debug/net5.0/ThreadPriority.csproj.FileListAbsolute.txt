@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\bin\Debug\net5.0\ThreadPriority.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\bin\Debug\net5.0\ThreadPriority.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\bin\Debug\net5.0\ThreadPriority.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\bin\Debug\net5.0\ThreadPriority.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\bin\Debug\net5.0\ThreadPriority.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\bin\Debug\net5.0\ThreadPriority.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\obj\Debug\net5.0\ThreadPriority.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\obj\Debug\net5.0\ThreadPriority.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\obj\Debug\net5.0\ThreadPriority.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\obj\Debug\net5.0\ThreadPriority.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\obj\Debug\net5.0\ThreadPriority.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\obj\Debug\net5.0\ThreadPriority.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\obj\Debug\net5.0\refint\ThreadPriority.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\obj\Debug\net5.0\ThreadPriority.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\obj\Debug\net5.0\ThreadPriority.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ThreadPriority\ThreadPriority\obj\Debug\net5.0\ref\ThreadPriority.dll

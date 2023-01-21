@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\bin\Debug\net5.0\anonymous types.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\bin\Debug\net5.0\anonymous types.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\bin\Debug\net5.0\anonymous types.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\bin\Debug\net5.0\anonymous types.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\bin\Debug\net5.0\anonymous types.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\bin\Debug\net5.0\ref\anonymous types.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\bin\Debug\net5.0\anonymous types.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\obj\Debug\net5.0\anonymous types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\obj\Debug\net5.0\anonymous types.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\obj\Debug\net5.0\anonymous types.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\obj\Debug\net5.0\anonymous types.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\obj\Debug\net5.0\anonymous types.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\obj\Debug\net5.0\ref\anonymous types.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\obj\Debug\net5.0\anonymous types.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\obj\Debug\net5.0\anonymous types.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\anonymous types\anonymous types\obj\Debug\net5.0\anonymous types.csprojAssemblyReference.cache

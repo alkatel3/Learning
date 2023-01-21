@@ -1,0 +1,28 @@
+body{
+  height: 3000px;
+}
+.task1{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+}
+.task2{
+  position: fixed;
+  background-color: green;
+  color: white;
+  width: 100px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+.task3{
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-color: black;
+
+}

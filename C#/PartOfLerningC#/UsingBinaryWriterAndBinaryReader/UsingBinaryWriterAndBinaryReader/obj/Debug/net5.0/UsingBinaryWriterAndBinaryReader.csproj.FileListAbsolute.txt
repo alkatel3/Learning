@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\bin\Debug\net5.0\UsingBinaryWriterAndBinaryReader.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\bin\Debug\net5.0\UsingBinaryWriterAndBinaryReader.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\bin\Debug\net5.0\UsingBinaryWriterAndBinaryReader.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\bin\Debug\net5.0\UsingBinaryWriterAndBinaryReader.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\bin\Debug\net5.0\UsingBinaryWriterAndBinaryReader.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\bin\Debug\net5.0\ref\UsingBinaryWriterAndBinaryReader.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\bin\Debug\net5.0\UsingBinaryWriterAndBinaryReader.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\obj\Debug\net5.0\UsingBinaryWriterAndBinaryReader.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\obj\Debug\net5.0\UsingBinaryWriterAndBinaryReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\obj\Debug\net5.0\UsingBinaryWriterAndBinaryReader.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\obj\Debug\net5.0\UsingBinaryWriterAndBinaryReader.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\obj\Debug\net5.0\UsingBinaryWriterAndBinaryReader.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\obj\Debug\net5.0\UsingBinaryWriterAndBinaryReader.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\obj\Debug\net5.0\ref\UsingBinaryWriterAndBinaryReader.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\obj\Debug\net5.0\UsingBinaryWriterAndBinaryReader.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingBinaryWriterAndBinaryReader\UsingBinaryWriterAndBinaryReader\obj\Debug\net5.0\UsingBinaryWriterAndBinaryReader.genruntimeconfig.cache

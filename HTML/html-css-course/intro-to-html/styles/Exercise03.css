@@ -1,0 +1,18 @@
+p{
+  font-family: Montserrat;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.title-paragraph{
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+.body-paragraph{
+  font-size: 20px;
+}
+.include-span{
+  text-decoration: underline;
+  cursor: pointer;
+}

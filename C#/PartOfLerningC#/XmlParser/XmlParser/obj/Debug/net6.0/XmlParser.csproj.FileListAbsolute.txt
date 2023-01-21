@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\bin\Debug\net6.0\XmlParser.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\bin\Debug\net6.0\XmlParser.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\bin\Debug\net6.0\XmlParser.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\bin\Debug\net6.0\XmlParser.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\bin\Debug\net6.0\XmlParser.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\obj\Debug\net6.0\XmlParser.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\obj\Debug\net6.0\XmlParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\obj\Debug\net6.0\XmlParser.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\obj\Debug\net6.0\XmlParser.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\obj\Debug\net6.0\XmlParser.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\obj\Debug\net6.0\XmlParser.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\obj\Debug\net6.0\refint\XmlParser.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\obj\Debug\net6.0\XmlParser.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\obj\Debug\net6.0\XmlParser.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\XmlParser\XmlParser\obj\Debug\net6.0\ref\XmlParser.dll

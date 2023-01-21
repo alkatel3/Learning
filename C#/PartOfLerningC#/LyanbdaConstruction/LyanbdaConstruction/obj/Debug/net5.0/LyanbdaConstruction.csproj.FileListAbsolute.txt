@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\bin\Debug\net5.0\LyanbdaConstruction.exe
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\bin\Debug\net5.0\LyanbdaConstruction.deps.json
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\bin\Debug\net5.0\LyanbdaConstruction.runtimeconfig.json
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\bin\Debug\net5.0\LyanbdaConstruction.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\bin\Debug\net5.0\LyanbdaConstruction.dll
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\bin\Debug\net5.0\ref\LyanbdaConstruction.dll
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\bin\Debug\net5.0\LyanbdaConstruction.pdb
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\obj\Debug\net5.0\LyanbdaConstruction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\obj\Debug\net5.0\LyanbdaConstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\obj\Debug\net5.0\LyanbdaConstruction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\obj\Debug\net5.0\LyanbdaConstruction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\obj\Debug\net5.0\LyanbdaConstruction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\obj\Debug\net5.0\LyanbdaConstruction.dll
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\obj\Debug\net5.0\ref\LyanbdaConstruction.dll
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\obj\Debug\net5.0\LyanbdaConstruction.pdb
+C:\Users\Dell\source\repos\LyanbdaConstruction\LyanbdaConstruction\obj\Debug\net5.0\LyanbdaConstruction.genruntimeconfig.cache

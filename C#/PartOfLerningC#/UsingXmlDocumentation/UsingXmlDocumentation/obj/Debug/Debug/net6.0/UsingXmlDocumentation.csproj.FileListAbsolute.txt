@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\bin\Debug\net6.0\UsingXmlDocumentation.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\bin\Debug\net6.0\UsingXmlDocumentation.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\bin\Debug\net6.0\UsingXmlDocumentation.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\bin\Debug\net6.0\UsingXmlDocumentation.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\bin\Debug\net6.0\UsingXmlDocumentation.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\bin\Debug\net6.0\SimpleProject.XML
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\obj\Debug\Debug\net6.0\UsingXmlDocumentation.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\obj\Debug\Debug\net6.0\UsingXmlDocumentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\obj\Debug\Debug\net6.0\UsingXmlDocumentation.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\obj\Debug\Debug\net6.0\UsingXmlDocumentation.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\obj\Debug\Debug\net6.0\UsingXmlDocumentation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\obj\Debug\Debug\net6.0\UsingXmlDocumentation.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\obj\Debug\Debug\net6.0\refint\UsingXmlDocumentation.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\obj\Debug\Debug\net6.0\UsingXmlDocumentation.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\obj\Debug\Debug\net6.0\UsingXmlDocumentation.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingXmlDocumentation\UsingXmlDocumentation\obj\Debug\Debug\net6.0\ref\UsingXmlDocumentation.dll

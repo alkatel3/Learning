@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\bin\Debug\netcoreapp3.1\ConsoleApp50.exe
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\bin\Debug\netcoreapp3.1\ConsoleApp50.deps.json
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\bin\Debug\netcoreapp3.1\ConsoleApp50.runtimeconfig.json
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\bin\Debug\netcoreapp3.1\ConsoleApp50.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\bin\Debug\netcoreapp3.1\ConsoleApp50.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\bin\Debug\netcoreapp3.1\ConsoleApp50.pdb
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\obj\Debug\netcoreapp3.1\ConsoleApp50.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\obj\Debug\netcoreapp3.1\ConsoleApp50.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\obj\Debug\netcoreapp3.1\ConsoleApp50.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\obj\Debug\netcoreapp3.1\ConsoleApp50.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\obj\Debug\netcoreapp3.1\ConsoleApp50.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\obj\Debug\netcoreapp3.1\ConsoleApp50.pdb
+C:\Users\Dell\Desktop\C#\ConsoleApp50\ConsoleApp50\obj\Debug\netcoreapp3.1\ConsoleApp50.genruntimeconfig.cache

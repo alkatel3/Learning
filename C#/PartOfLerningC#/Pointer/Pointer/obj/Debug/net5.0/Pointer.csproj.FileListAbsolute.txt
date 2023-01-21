@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\bin\Debug\net5.0\Pointer.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\bin\Debug\net5.0\Pointer.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\bin\Debug\net5.0\Pointer.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\bin\Debug\net5.0\Pointer.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\bin\Debug\net5.0\Pointer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\bin\Debug\net5.0\ref\Pointer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\bin\Debug\net5.0\Pointer.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\obj\Debug\net5.0\Pointer.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\obj\Debug\net5.0\Pointer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\obj\Debug\net5.0\Pointer.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\obj\Debug\net5.0\Pointer.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\obj\Debug\net5.0\Pointer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\obj\Debug\net5.0\Pointer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\obj\Debug\net5.0\ref\Pointer.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\obj\Debug\net5.0\Pointer.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Pointer\Pointer\obj\Debug\net5.0\Pointer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\obj\Debug\net5.0\6.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\obj\Debug\net5.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\obj\Debug\net5.0\6.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\obj\Debug\net5.0\6.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\obj\Debug\net5.0\6.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\bin\Debug\net5.0\6.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\bin\Debug\net5.0\6.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\bin\Debug\net5.0\6.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\bin\Debug\net5.0\6.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\bin\Debug\net5.0\6.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\bin\Debug\net5.0\ref\6.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\bin\Debug\net5.0\6.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\obj\Debug\net5.0\6.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\obj\Debug\net5.0\ref\6.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\obj\Debug\net5.0\6.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\6\6\obj\Debug\net5.0\6.genruntimeconfig.cache

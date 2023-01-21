@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.exe
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.deps.json
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.runtimeconfig.json
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\bin\Debug\net5.0\ref\ConsoleApp13.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\bin\Debug\net5.0\ConsoleApp13.pdb
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\obj\Debug\net5.0\ref\ConsoleApp13.dll
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.pdb
+C:\Users\Dell\Desktop\C#\ConsoleApp13\ConsoleApp13\obj\Debug\net5.0\ConsoleApp13.genruntimeconfig.cache

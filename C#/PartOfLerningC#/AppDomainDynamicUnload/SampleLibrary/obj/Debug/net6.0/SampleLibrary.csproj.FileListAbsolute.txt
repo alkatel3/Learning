@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\bin\Debug\net6.0\SampleLibrary.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\bin\Debug\net6.0\SampleLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\bin\Debug\net6.0\SampleLibrary.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\obj\Debug\net6.0\SampleLibrary.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\obj\Debug\net6.0\SampleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\obj\Debug\net6.0\SampleLibrary.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\obj\Debug\net6.0\SampleLibrary.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\obj\Debug\net6.0\SampleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\obj\Debug\net6.0\SampleLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\obj\Debug\net6.0\refint\SampleLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\obj\Debug\net6.0\SampleLibrary.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\AppDomainDynamicUnload\SampleLibrary\obj\Debug\net6.0\ref\SampleLibrary.dll

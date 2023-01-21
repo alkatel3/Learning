@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\bin\Debug\net5.0\destracte.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\bin\Debug\net5.0\destracte.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\bin\Debug\net5.0\destracte.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\bin\Debug\net5.0\destracte.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\bin\Debug\net5.0\destracte.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\bin\Debug\net5.0\ref\destracte.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\bin\Debug\net5.0\destracte.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\obj\Debug\net5.0\destracte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\obj\Debug\net5.0\destracte.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\obj\Debug\net5.0\destracte.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\obj\Debug\net5.0\destracte.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\obj\Debug\net5.0\destracte.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\obj\Debug\net5.0\ref\destracte.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\obj\Debug\net5.0\destracte.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\destracte\destracte\obj\Debug\net5.0\destracte.genruntimeconfig.cache

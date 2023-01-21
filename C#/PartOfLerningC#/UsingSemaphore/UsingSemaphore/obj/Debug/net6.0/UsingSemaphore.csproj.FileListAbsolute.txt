@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\obj\Debug\net6.0\UsingSemaphore.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\obj\Debug\net6.0\UsingSemaphore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\obj\Debug\net6.0\UsingSemaphore.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\obj\Debug\net6.0\UsingSemaphore.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\obj\Debug\net6.0\UsingSemaphore.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\bin\Debug\net6.0\UsingSemaphore.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\bin\Debug\net6.0\UsingSemaphore.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\bin\Debug\net6.0\UsingSemaphore.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\bin\Debug\net6.0\UsingSemaphore.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\bin\Debug\net6.0\UsingSemaphore.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\obj\Debug\net6.0\UsingSemaphore.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\obj\Debug\net6.0\refint\UsingSemaphore.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\obj\Debug\net6.0\UsingSemaphore.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\obj\Debug\net6.0\UsingSemaphore.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingSemaphore\UsingSemaphore\obj\Debug\net6.0\ref\UsingSemaphore.dll

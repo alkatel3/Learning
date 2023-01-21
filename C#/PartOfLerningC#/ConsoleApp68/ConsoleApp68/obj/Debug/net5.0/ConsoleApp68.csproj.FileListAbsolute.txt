@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\bin\Debug\net5.0\ConsoleApp68.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\bin\Debug\net5.0\ConsoleApp68.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\bin\Debug\net5.0\ConsoleApp68.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\bin\Debug\net5.0\ConsoleApp68.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\bin\Debug\net5.0\ConsoleApp68.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\bin\Debug\net5.0\ref\ConsoleApp68.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\bin\Debug\net5.0\ConsoleApp68.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\obj\Debug\net5.0\ConsoleApp68.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\obj\Debug\net5.0\ConsoleApp68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\obj\Debug\net5.0\ConsoleApp68.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\obj\Debug\net5.0\ConsoleApp68.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\obj\Debug\net5.0\ConsoleApp68.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\obj\Debug\net5.0\ConsoleApp68.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\obj\Debug\net5.0\ref\ConsoleApp68.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\obj\Debug\net5.0\ConsoleApp68.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ConsoleApp68\ConsoleApp68\obj\Debug\net5.0\ConsoleApp68.genruntimeconfig.cache

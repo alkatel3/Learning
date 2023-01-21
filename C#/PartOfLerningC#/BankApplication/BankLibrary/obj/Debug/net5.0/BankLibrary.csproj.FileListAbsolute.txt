@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\bin\Debug\net5.0\BankLibrary.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\bin\Debug\net5.0\BankLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\bin\Debug\net5.0\ref\BankLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\bin\Debug\net5.0\BankLibrary.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\obj\Debug\net5.0\ref\BankLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\BankApplication\BankLibrary\obj\Debug\net5.0\BankLibrary.pdb

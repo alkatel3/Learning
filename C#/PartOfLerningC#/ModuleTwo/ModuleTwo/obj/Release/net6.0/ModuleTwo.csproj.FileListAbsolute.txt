@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\bin\Release\net6.0\ModuleTwo.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\bin\Release\net6.0\ModuleTwo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\bin\Release\net6.0\ModuleTwo.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\bin\Release\net6.0\AssemblyExample.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\bin\Release\net6.0\AssemblyExample.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\obj\Release\net6.0\ModuleTwo.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\obj\Release\net6.0\ModuleTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\obj\Release\net6.0\ModuleTwo.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\obj\Release\net6.0\ModuleTwo.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\obj\Release\net6.0\ModuleTwo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\obj\Release\net6.0\ModuleTwo.csproj.CopyComplete
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\obj\Release\net6.0\ModuleTwo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\obj\Release\net6.0\refint\ModuleTwo.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\obj\Release\net6.0\ModuleTwo.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\ModuleTwo\ModuleTwo\obj\Release\net6.0\ref\ModuleTwo.dll

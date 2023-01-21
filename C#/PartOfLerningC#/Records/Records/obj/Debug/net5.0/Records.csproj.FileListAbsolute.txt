@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\bin\Debug\net5.0\Records.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\bin\Debug\net5.0\Records.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\bin\Debug\net5.0\Records.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\bin\Debug\net5.0\Records.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\bin\Debug\net5.0\Records.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\bin\Debug\net5.0\ref\Records.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\bin\Debug\net5.0\Records.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\obj\Debug\net5.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\obj\Debug\net5.0\Records.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\obj\Debug\net5.0\Records.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\obj\Debug\net5.0\Records.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\obj\Debug\net5.0\Records.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\obj\Debug\net5.0\ref\Records.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\obj\Debug\net5.0\Records.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Records\Records\obj\Debug\net5.0\Records.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\bin\Release\net6.0\MyLibrary.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\bin\Release\net6.0\MyLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\bin\Release\net6.0\MyLibrary.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\obj\Release\net6.0\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\obj\Release\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\obj\Release\net6.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\obj\Release\net6.0\MyLibrary.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\obj\Release\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\obj\Release\net6.0\MyLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\obj\Release\net6.0\refint\MyLibrary.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\obj\Release\net6.0\MyLibrary.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\MyLibrary\MyLibrary\obj\Release\net6.0\ref\MyLibrary.dll

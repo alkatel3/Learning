@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\bin\Debug\net5.0\UsingStreamWriter.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\bin\Debug\net5.0\UsingStreamWriter.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\bin\Debug\net5.0\UsingStreamWriter.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\bin\Debug\net5.0\UsingStreamWriter.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\bin\Debug\net5.0\UsingStreamWriter.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\bin\Debug\net5.0\ref\UsingStreamWriter.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\bin\Debug\net5.0\UsingStreamWriter.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\obj\Debug\net5.0\UsingStreamWriter.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\obj\Debug\net5.0\UsingStreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\obj\Debug\net5.0\UsingStreamWriter.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\obj\Debug\net5.0\UsingStreamWriter.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\obj\Debug\net5.0\UsingStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\obj\Debug\net5.0\UsingStreamWriter.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\obj\Debug\net5.0\ref\UsingStreamWriter.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\obj\Debug\net5.0\UsingStreamWriter.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingStreamWriter\UsingStreamWriter\obj\Debug\net5.0\UsingStreamWriter.genruntimeconfig.cache

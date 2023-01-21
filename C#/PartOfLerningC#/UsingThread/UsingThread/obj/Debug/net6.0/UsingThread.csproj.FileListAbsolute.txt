@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\bin\Debug\net6.0\UsingThread.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\bin\Debug\net6.0\UsingThread.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\bin\Debug\net6.0\UsingThread.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\bin\Debug\net6.0\UsingThread.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\bin\Debug\net6.0\UsingThread.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\obj\Debug\net6.0\UsingThread.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\obj\Debug\net6.0\UsingThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\obj\Debug\net6.0\UsingThread.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\obj\Debug\net6.0\UsingThread.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\obj\Debug\net6.0\UsingThread.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\obj\Debug\net6.0\UsingThread.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\obj\Debug\net6.0\refint\UsingThread.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\obj\Debug\net6.0\UsingThread.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\obj\Debug\net6.0\UsingThread.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\UsingThread\UsingThread\obj\Debug\net6.0\ref\UsingThread.dll

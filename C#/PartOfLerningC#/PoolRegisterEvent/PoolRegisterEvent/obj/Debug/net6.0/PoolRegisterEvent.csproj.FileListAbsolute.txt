@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\bin\Debug\net6.0\PoolRegisterEvent.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\bin\Debug\net6.0\PoolRegisterEvent.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\bin\Debug\net6.0\PoolRegisterEvent.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\bin\Debug\net6.0\PoolRegisterEvent.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\bin\Debug\net6.0\PoolRegisterEvent.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\obj\Debug\net6.0\PoolRegisterEvent.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\obj\Debug\net6.0\PoolRegisterEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\obj\Debug\net6.0\PoolRegisterEvent.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\obj\Debug\net6.0\PoolRegisterEvent.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\obj\Debug\net6.0\PoolRegisterEvent.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\obj\Debug\net6.0\PoolRegisterEvent.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\obj\Debug\net6.0\refint\PoolRegisterEvent.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\obj\Debug\net6.0\PoolRegisterEvent.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\obj\Debug\net6.0\PoolRegisterEvent.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\PoolRegisterEvent\PoolRegisterEvent\obj\Debug\net6.0\ref\PoolRegisterEvent.dll

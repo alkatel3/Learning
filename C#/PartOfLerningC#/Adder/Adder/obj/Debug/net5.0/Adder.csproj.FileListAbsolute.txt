@@ -1,0 +1,16 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\bin\Debug\net5.0\Adder.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\bin\Debug\net5.0\Adder.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\bin\Debug\net5.0\Adder.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\bin\Debug\net5.0\Adder.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\bin\Debug\net5.0\Adder.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\bin\Debug\net5.0\Adder.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\obj\Debug\net5.0\Adder.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\obj\Debug\net5.0\Adder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\obj\Debug\net5.0\Adder.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\obj\Debug\net5.0\Adder.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\obj\Debug\net5.0\Adder.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\obj\Debug\net5.0\Adder.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\obj\Debug\net5.0\refint\Adder.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\obj\Debug\net5.0\Adder.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\obj\Debug\net5.0\Adder.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\Adder\Adder\obj\Debug\net5.0\ref\Adder.dll

@@ -1,0 +1,17 @@
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\bin\Debug\net6.0\OwnAsyncClass.exe
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\bin\Debug\net6.0\OwnAsyncClass.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\bin\Debug\net6.0\OwnAsyncClass.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\bin\Debug\net6.0\OwnAsyncClass.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\bin\Debug\net6.0\OwnAsyncClass.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\OwnAsyncClass.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\OwnAsyncClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\OwnAsyncClass.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\OwnAsyncClass.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\OwnAsyncClass.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\OwnAsyncClass.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\refint\OwnAsyncClass.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\OwnAsyncClass.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\OwnAsyncClass.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\ref\OwnAsyncClass.dll
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\OwnAsyncClass.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Рабочий стол\C#\OwnAsyncClass\OwnAsyncClass\obj\Debug\net6.0\OwnAsyncClass.csproj.GenerateResource.cache
