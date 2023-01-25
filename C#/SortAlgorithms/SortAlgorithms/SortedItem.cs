@@ -13,11 +13,14 @@ namespace SortAlgorithms
         public VerticalProgressBar.VerticalProgressBar ProgressBar { get; private set; }
         public Label Label1 { get; private set; }
         public int Value { get; private set; }
+        public int Number { get; private set; }
+        public int StartNumber { get; private set; }
 
         public SortedItem(int value, int number )
         {
             Value = value;
-
+            Number = number;
+            StartNumber = number;
             ProgressBar = new VerticalProgressBar.VerticalProgressBar();
             Label1 = new Label();
             var x = number * 20;
@@ -46,11 +49,29 @@ namespace SortAlgorithms
             Label1.Text = Value.ToString();
         }
 
-        public void SetValue(int value)
+        public void SetPosition(int number)
         {
-            Value = value;
-            ProgressBar.Value = value;
-            Label1.Text = value.ToString();
+            var x = number * 20;
+            Number = number;
+            Label1.Location = new System.Drawing.Point(x, 120);
+            ProgressBar.Location = new System.Drawing.Point(x, 0);
+            ProgressBar.Name = "ProgressBar" + number;
+            ProgressBar.TabIndex = number;
+            Label1.Name = "label" + number;
+            Label1.TabIndex = number;
+        }
+
+        public void Refresh()
+        {
+            Number = StartNumber;
+            var x = Number * 20;
+
+            Label1.Location = new System.Drawing.Point(x, 120);
+            ProgressBar.Location = new System.Drawing.Point(x, 0);
+            ProgressBar.Name = "ProgressBar" + Number;
+            ProgressBar.TabIndex = Number;
+            Label1.Name = "label" + Number;
+            Label1.TabIndex = Number;
         }
 
         public void SetColor(System.Drawing.Color Color)
@@ -68,6 +89,11 @@ namespace SortAlgorithms
             {
                 throw new ArgumentException($"obj isn't {nameof(SortedItem)}", nameof(obj));
             }
+        }
+
+        public override string ToString()
+        {
+            return Value.ToString();
         }
     }
 }

@@ -40,6 +40,9 @@ namespace SortAlgorithms
             this.FillButton = new System.Windows.Forms.Button();
             this.panel3 = new System.Windows.Forms.Panel();
             this.BubbleSortButton = new System.Windows.Forms.Button();
+            this.timeLable = new System.Windows.Forms.Label();
+            this.compereLabel = new System.Windows.Forms.Label();
+            this.swopLabel = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -136,11 +139,41 @@ namespace SortAlgorithms
             this.BubbleSortButton.UseVisualStyleBackColor = true;
             this.BubbleSortButton.Click += new System.EventHandler(this.BubbleSortButton_Click);
             // 
+            // timeLable
+            // 
+            this.timeLable.AutoSize = true;
+            this.timeLable.Location = new System.Drawing.Point(9, 248);
+            this.timeLable.Name = "timeLable";
+            this.timeLable.Size = new System.Drawing.Size(38, 16);
+            this.timeLable.TabIndex = 8;
+            this.timeLable.Text = "Time";
+            // 
+            // compereLabel
+            // 
+            this.compereLabel.AutoSize = true;
+            this.compereLabel.Location = new System.Drawing.Point(9, 275);
+            this.compereLabel.Name = "compereLabel";
+            this.compereLabel.Size = new System.Drawing.Size(121, 16);
+            this.compereLabel.TabIndex = 9;
+            this.compereLabel.Text = "Comperation Count";
+            // 
+            // swopLabel
+            // 
+            this.swopLabel.AutoSize = true;
+            this.swopLabel.Location = new System.Drawing.Point(9, 303);
+            this.swopLabel.Name = "swopLabel";
+            this.swopLabel.Size = new System.Drawing.Size(78, 16);
+            this.swopLabel.TabIndex = 10;
+            this.swopLabel.Text = "Swop Count";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1003, 516);
+            this.Controls.Add(this.swopLabel);
+            this.Controls.Add(this.compereLabel);
+            this.Controls.Add(this.timeLable);
             this.Controls.Add(this.BubbleSortButton);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
@@ -152,6 +185,7 @@ namespace SortAlgorithms
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -166,6 +200,9 @@ namespace SortAlgorithms
         private System.Windows.Forms.Button FillButton;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Button BubbleSortButton;
+        private System.Windows.Forms.Label timeLable;
+        private System.Windows.Forms.Label compereLabel;
+        private System.Windows.Forms.Label swopLabel;
     }
 }
 

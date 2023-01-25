@@ -26,9 +26,10 @@ namespace SortAlgorithms
             {
                 var item = new SortedItem(value,items.Count);
                 items.Add(item);
-                panel3.Controls.Add(item.ProgressBar);
-                panel3.Controls.Add(item.Label1);
+
             }
+
+            RefrashItems();
             AddTextBox.Text = "";
         }
 
@@ -41,26 +42,51 @@ namespace SortAlgorithms
                 {
                     var item = new SortedItem(rnd.Next(100),items.Count);
                     items.Add(item);
-                    this.panel3.Controls.Add(item.ProgressBar);
-                    this.panel3.Controls.Add(item.Label1);
                 }
+                RefrashItems();
             }
             FillTextBox.Text = "";
         }
 
+        private void DrowItems(List<SortedItem> items)
+        {
+            panel3.Controls.Clear(); 
+
+            foreach (var item in items)
+            {
+                this.panel3.Controls.Add(item.ProgressBar);
+                this.panel3.Controls.Add(item.Label1);
+            }
+        }
+
+        private void RefrashItems()
+        {
+            foreach( var item in items)
+            {
+                item.Refresh();
+            }
+            DrowItems(items);
+        }
+
         private void BubbleSortButton_Click(object sender, EventArgs e)
         {
+            RefrashItems();
+            panel3.Refresh();
+
             var bubble = new BubbleSort<SortedItem>(items);
             bubble.CompareEvent += Bubble_CompareEvent;
             bubble.SwopEvent += Bubble_SwopEvent;
-            bubble.Sort();
+            var time = bubble.Sort();
+            timeLable.Text = "Time: " + time.Seconds;
+            swopLabel.Text = "Swop count: " + bubble.SwopCount;
+            compereLabel.Text = "Comperation count: " + bubble.ComparisonCount;
         }
 
         private void Bubble_SwopEvent(object sender, Tuple<SortedItem, SortedItem> e)
         {
-            var temp = e.Item1.Value;
-            e.Item1.SetValue(e.Item2.Value);
-            e.Item2.SetValue(temp);
+            var temp = e.Item1.Number;
+            e.Item1.SetPosition(e.Item2.Number);
+            e.Item2.SetPosition(temp);
             panel3.Refresh();
         }
 
