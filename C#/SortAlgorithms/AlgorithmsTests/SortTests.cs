@@ -127,8 +127,7 @@ namespace Algorithms.Tests
         public void HeapSortTest()
         {
             //arrange
-            var bubble = new HeapSort<int>();
-            bubble.Items.AddRange(Items);
+            var bubble = new HeapSort<int>(Items);
             //act
             bubble.Sort();
 

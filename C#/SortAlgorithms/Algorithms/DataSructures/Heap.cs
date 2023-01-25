@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Algorithms.DataSructures
 {
-    public class Heap<T> where T: IComparable
+    public class Heap<T> :AlgorithmBase<T> where T: IComparable
     {
-        private List<T> Items = new List<T>();
-
         public int Count => Items.Count;
 
         public Heap() { }
@@ -17,22 +15,6 @@ namespace Algorithms.DataSructures
         public Heap(IEnumerable<T> items)
         {
             Items.AddRange(items);
-            for (int i = Count; i >= 0; i--)
-            {
-                Sort(i);
-            }
-        }
-
-        public T Peak()
-        {
-            if (Count > 0)
-            {
-                return Items[0];
-            }
-            else
-            {
-                return default(T);
-            }
         }
 
         public void Add(T item)
@@ -42,9 +24,9 @@ namespace Algorithms.DataSructures
             var currentIndex = Count - 1;
             var parentIngex = GetParentIngex(currentIndex);
 
-            while (currentIndex > 0 && Items[parentIngex].CompareTo(Items[currentIndex]) == -1)
+            while (currentIndex > 0 && Compare(Items[parentIngex], Items[currentIndex]) == -1)
             {
-                Swap(currentIndex, parentIngex);
+                Swop(currentIndex, parentIngex);
                 currentIndex = parentIngex;
                 parentIngex = GetParentIngex(currentIndex);
             }
@@ -55,25 +37,26 @@ namespace Algorithms.DataSructures
             var result = Items[0];
             Items[0] = Items[Count - 1];
             Items.RemoveAt(Count - 1);
-
-            Sort(0);
+            Sorted(0);
             return result;
         }
 
-        private void Sort(int CurrentIndex)
+        protected void Sorted(int CurrentIndex, int maxLenght=-1)
         {
             int maxIndex = CurrentIndex;
             int leftIndex;
             int rightIndex;
-            while (CurrentIndex < Count)
+
+            maxLenght = maxLenght == -1 ? Count : maxLenght;
+            while (CurrentIndex < maxLenght)
             {
                 leftIndex = 2 * CurrentIndex + 1;
                 rightIndex = 2 * CurrentIndex + 2;
-                if (rightIndex < Count && Items[rightIndex].CompareTo(Items[maxIndex]) == -1)
+                if (rightIndex < maxLenght && Compare(Items[rightIndex],Items[maxIndex]) == 1)
                 {
                     maxIndex = rightIndex;
                 }
-                if (leftIndex < Count && Items[leftIndex].CompareTo(Items[maxIndex]) == -1)
+                if (leftIndex < maxLenght && Compare(Items[leftIndex],Items[maxIndex]) == 1)
                 {
                     maxIndex = leftIndex;
                 }
@@ -81,16 +64,9 @@ namespace Algorithms.DataSructures
                 {
                     break;
                 }
-                Swap(CurrentIndex, maxIndex);
+                Swop(CurrentIndex, maxIndex);
                 CurrentIndex = maxIndex;
             }
-        }
-
-        private void Swap(int currentIndex, int parentIngex)
-        {
-            var temp = Items[currentIndex];
-            Items[currentIndex] = Items[parentIngex];
-            Items[parentIngex] = temp;
         }
 
         private static int GetParentIngex(int currentIndex)
@@ -108,5 +84,6 @@ namespace Algorithms.DataSructures
             return result;
         }
 
+        
     }
 }

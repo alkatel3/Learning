@@ -92,6 +92,10 @@ namespace SortAlgorithms
         private void Btn_Click(AlgorithmBase<SortedItem> algorithm)
         {
             RefrashItems();
+            for (int i = 0; i < algorithm.Items.Count; i++)
+            {
+                algorithm.Items[i].SetPosition(i);
+            }
             panel3.Refresh();
 
             algorithm.CompareEvent += Algorithm_CompareEvent;
@@ -116,20 +120,27 @@ namespace SortAlgorithms
 
         private void InsertionSortButton_Click(object sender, EventArgs e)
         {
-            var coctail = new InsertionSort<SortedItem>(items);
-            Btn_Click(coctail);
+            var insertion = new InsertionSort<SortedItem>(items);
+            Btn_Click(insertion);
         }
 
         private void ShellSortButton_Click(object sender, EventArgs e)
         {
-            var coctail = new ShellSort<SortedItem>(items);
-            Btn_Click(coctail);
+            var shell = new ShellSort<SortedItem>(items);
+            Btn_Click(shell);
         }
 
         private void SellectionSortButton_Click(object sender, EventArgs e)
         {
-            var coctail = new SelectionSort<SortedItem>(items);
-            Btn_Click(coctail);
+            var sellection = new SelectionSort<SortedItem>(items);
+            Btn_Click(sellection);
+        }
+
+        private void HeapSortButton_Click(object sender, EventArgs e)
+        {
+            var heap = new HeapSort<SortedItem>(items);
+
+            Btn_Click(heap);
         }
     }
 }

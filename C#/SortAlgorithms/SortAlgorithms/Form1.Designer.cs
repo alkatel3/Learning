@@ -200,6 +200,7 @@ namespace SortAlgorithms
             this.HeapSortButton.TabIndex = 13;
             this.HeapSortButton.Text = "Heap Sort";
             this.HeapSortButton.UseVisualStyleBackColor = true;
+            this.HeapSortButton.Click += new System.EventHandler(this.HeapSortButton_Click);
             // 
             // TreeSortButton
             // 
