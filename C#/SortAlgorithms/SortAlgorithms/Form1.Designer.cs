@@ -44,9 +44,9 @@ namespace SortAlgorithms
             this.compereLabel = new System.Windows.Forms.Label();
             this.swopLabel = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.SellectionSortButton = new System.Windows.Forms.Button();
+            this.HeapSortButton = new System.Windows.Forms.Button();
+            this.TreeSortButton = new System.Windows.Forms.Button();
             this.ShellSortButton = new System.Windows.Forms.Button();
             this.InsertionSortButton = new System.Windows.Forms.Button();
             this.CoctailSortButton = new System.Windows.Forms.Button();
@@ -175,39 +175,40 @@ namespace SortAlgorithms
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(446, 244);
+            this.button1.Location = new System.Drawing.Point(816, 176);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(110, 29);
             this.button1.TabIndex = 11;
-            this.button1.Text = "Bubble Sort";
+            this.button1.Text = "-";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // SellectionSortButton
             // 
-            this.button2.Location = new System.Drawing.Point(454, 252);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(110, 29);
-            this.button2.TabIndex = 12;
-            this.button2.Text = "Bubble Sort";
-            this.button2.UseVisualStyleBackColor = true;
+            this.SellectionSortButton.Location = new System.Drawing.Point(700, 176);
+            this.SellectionSortButton.Name = "SellectionSortButton";
+            this.SellectionSortButton.Size = new System.Drawing.Size(110, 29);
+            this.SellectionSortButton.TabIndex = 12;
+            this.SellectionSortButton.Text = "Sellection Sort";
+            this.SellectionSortButton.UseVisualStyleBackColor = true;
+            this.SellectionSortButton.Click += new System.EventHandler(this.SellectionSortButton_Click);
             // 
-            // button3
+            // HeapSortButton
             // 
-            this.button3.Location = new System.Drawing.Point(462, 260);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(110, 29);
-            this.button3.TabIndex = 13;
-            this.button3.Text = "Bubble Sort";
-            this.button3.UseVisualStyleBackColor = true;
+            this.HeapSortButton.Location = new System.Drawing.Point(584, 176);
+            this.HeapSortButton.Name = "HeapSortButton";
+            this.HeapSortButton.Size = new System.Drawing.Size(110, 29);
+            this.HeapSortButton.TabIndex = 13;
+            this.HeapSortButton.Text = "Heap Sort";
+            this.HeapSortButton.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // TreeSortButton
             // 
-            this.button4.Location = new System.Drawing.Point(470, 268);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(110, 29);
-            this.button4.TabIndex = 14;
-            this.button4.Text = "Bubble Sort";
-            this.button4.UseVisualStyleBackColor = true;
+            this.TreeSortButton.Location = new System.Drawing.Point(468, 176);
+            this.TreeSortButton.Name = "TreeSortButton";
+            this.TreeSortButton.Size = new System.Drawing.Size(110, 29);
+            this.TreeSortButton.TabIndex = 14;
+            this.TreeSortButton.Text = "Tree Sort";
+            this.TreeSortButton.UseVisualStyleBackColor = true;
             // 
             // ShellSortButton
             // 
@@ -247,9 +248,9 @@ namespace SortAlgorithms
             this.Controls.Add(this.CoctailSortButton);
             this.Controls.Add(this.InsertionSortButton);
             this.Controls.Add(this.ShellSortButton);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.TreeSortButton);
+            this.Controls.Add(this.HeapSortButton);
+            this.Controls.Add(this.SellectionSortButton);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.swopLabel);
             this.Controls.Add(this.compereLabel);
@@ -284,9 +285,9 @@ namespace SortAlgorithms
         private System.Windows.Forms.Label compereLabel;
         private System.Windows.Forms.Label swopLabel;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button SellectionSortButton;
+        private System.Windows.Forms.Button HeapSortButton;
+        private System.Windows.Forms.Button TreeSortButton;
         private System.Windows.Forms.Button ShellSortButton;
         private System.Windows.Forms.Button InsertionSortButton;
         private System.Windows.Forms.Button CoctailSortButton;

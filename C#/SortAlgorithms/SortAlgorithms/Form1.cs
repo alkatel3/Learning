@@ -125,5 +125,11 @@ namespace SortAlgorithms
             var coctail = new ShellSort<SortedItem>(items);
             Btn_Click(coctail);
         }
+
+        private void SellectionSortButton_Click(object sender, EventArgs e)
+        {
+            var coctail = new SelectionSort<SortedItem>(items);
+            Btn_Click(coctail);
+        }
     }
 }

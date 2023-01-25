@@ -138,5 +138,21 @@ namespace Algorithms.Tests
                 Assert.AreEqual(bubble.Items[i], Sorted[i]);
             }
         }
+
+        [TestMethod()]
+        public void SelectionSortTest()
+        {
+            //arrange
+            var bubble = new SelectionSort<int>();
+            bubble.Items.AddRange(Items);
+            //act
+            bubble.Sort();
+
+            //assert
+            for (int i = 0; i < Items.Count; i++)
+            {
+                Assert.AreEqual(bubble.Items[i], Sorted[i]);
+            }
+        }
     }
 }
