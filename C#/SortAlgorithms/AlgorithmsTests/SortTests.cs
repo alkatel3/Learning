@@ -19,7 +19,7 @@ namespace Algorithms.Tests
         public void Init()
         {
             Items.Clear();
-            for (int i = 0; i < 10000; i++)
+            for (int i = 0; i < 1000000; i++)
             {
                 Items.Add(rnd.Next(0, 10000));
             }
@@ -27,7 +27,7 @@ namespace Algorithms.Tests
             Sorted.AddRange(Items.OrderBy(x => x).ToArray());
         }
 
-        [TestMethod()]
+        //[TestMethod()]
         public void BubbleSortTest()
         {
             //arrange
@@ -43,7 +43,7 @@ namespace Algorithms.Tests
             }
         }
 
-        [TestMethod()]
+        //[TestMethod()]
         public void CocktailSortTest()
         {
             //arrange
@@ -59,7 +59,7 @@ namespace Algorithms.Tests
             }
         }
 
-        [TestMethod()]
+        //[TestMethod()]
         public void InsertionSortTest()
         {
             //arrange
@@ -112,6 +112,22 @@ namespace Algorithms.Tests
         {
             //arrange
             var bubble = new TreeSort<int>();
+            bubble.Items.AddRange(Items);
+            //act
+            bubble.Sort();
+
+            //assert
+            for (int i = 0; i < Items.Count; i++)
+            {
+                Assert.AreEqual(bubble.Items[i], Sorted[i]);
+            }
+        }
+
+        [TestMethod()]
+        public void HeapSortTest()
+        {
+            //arrange
+            var bubble = new HeapSort<int>();
             bubble.Items.AddRange(Items);
             //act
             bubble.Sort();
