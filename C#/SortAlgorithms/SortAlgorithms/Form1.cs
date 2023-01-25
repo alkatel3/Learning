@@ -57,6 +57,8 @@ namespace SortAlgorithms
                 this.panel3.Controls.Add(item.ProgressBar);
                 this.panel3.Controls.Add(item.Label1);
             }
+
+            panel3.Refresh();
         }
 
         private void RefrashItems()
