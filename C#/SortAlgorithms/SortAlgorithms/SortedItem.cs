@@ -66,7 +66,7 @@ namespace SortAlgorithms
             }
             else
             {
-                throw new ArgumentException($"obj isn't {nameof(SortedItem)}",nameof(obj));
+                throw new ArgumentException($"obj isn't {nameof(SortedItem)}", nameof(obj));
             }
         }
     }

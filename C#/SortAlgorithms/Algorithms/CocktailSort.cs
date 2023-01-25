@@ -15,10 +15,11 @@ namespace Algorithms
                 var sc = SwopCount;
                 for(int i=left; i < right; i++)
                 {
-                    if (Items[i].CompareTo(Items[i + 1]) == 1)
+                    var a = Items[i];
+                    var b = Items[i + 1];
+                    if (Compare(a,b) == 1)
                     {
                         Swop(i, i + 1);
-                        ComparisonCount++;
                     }
                     
                 }
@@ -29,10 +30,9 @@ namespace Algorithms
                 right--;
                 for(int i=right; i > left; i--)
                 {
-                    if (Items[i-1].CompareTo(Items[i]) == 1)
+                    if (Compare(Items[i - 1], Items[i]) == 1)
                     {
                         Swop(i-1, i);
-                        ComparisonCount++;
                     }
                 }
                 left++;

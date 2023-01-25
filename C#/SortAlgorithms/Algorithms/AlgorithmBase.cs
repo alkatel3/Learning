@@ -24,7 +24,6 @@ namespace Algorithms
         {
             if (positionA < Items.Count && positionB < Items.Count)
             {
-
                 var temp = Items[positionA];
                 Items[positionA] = Items[positionB];
                 Items[positionB] = temp;

@@ -4,3 +4,9 @@ C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algor
 C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.dll
 C:\Users\Dell\source\repos\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\Len\Learning\C#\SortAlgorithms\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Len\Learning\C#\SortAlgorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\Len\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\Len\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\Len\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\Dell\OneDrive\Рабочий стол\Len\Learning\C#\SortAlgorithms\Algorithms\obj\Debug\Algorithms.pdb
