@@ -95,10 +95,9 @@ namespace Algorithms.Tests
         public void BaseSortTest()
         {
             //arrange
-            var bubble = new AlgorithmBase<int>();
-            bubble.Items.AddRange(Items);
+            var bubble = new AlgorithmBase<int>(Items);
             //act
-            bubble.Sort();
+             bubble.Sort();
 
             //assert
             for (int i = 0; i < Items.Count; i++)
@@ -151,6 +150,21 @@ namespace Algorithms.Tests
             for (int i = 0; i < Items.Count; i++)
             {
                 Assert.AreEqual(bubble.Items[i], Sorted[i]);
+            }
+        }
+
+        [TestMethod()]
+        public void GnomeSortTest()
+        {
+            //arrange
+            var gnome = new GnomeSort<int>(Items);
+            //act
+            gnome.Sort();
+
+            //assert
+            for (int i = 0; i < Items.Count; i++)
+            {
+                Assert.AreEqual(gnome.Items[i], Sorted[i]);
             }
         }
     }

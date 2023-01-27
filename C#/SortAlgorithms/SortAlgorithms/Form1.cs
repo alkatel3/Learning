@@ -1,12 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using Algorithms;
 
@@ -141,6 +136,13 @@ namespace SortAlgorithms
             var heap = new HeapSort<SortedItem>(items);
 
             Btn_Click(heap);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var gnome = new GnomeSort<SortedItem>(items);
+
+            Btn_Click(gnome);
         }
     }
 }
