@@ -18,13 +18,13 @@ namespace Algorithms
             int i = 1;
             while (i < Items.Count)
             {
-                if (i!=0 && Compare(Items[i], Items[i - 1]) == -1){
-                    Swop(i, i - 1);
-                    i--;
+                if (i-=0 || Compare(Items[i], Items[i - 1]) != -1){
+                    i++;
                 }
                 else
                 {
-                    i++;
+                    Swop(i, i - 1);
+                    i--;
                 }
             }
         }

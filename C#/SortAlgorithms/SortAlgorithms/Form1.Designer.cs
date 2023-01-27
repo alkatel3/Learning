@@ -43,7 +43,7 @@ namespace SortAlgorithms
             this.timeLable = new System.Windows.Forms.Label();
             this.compereLabel = new System.Windows.Forms.Label();
             this.swopLabel = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.GnomeSortButton = new System.Windows.Forms.Button();
             this.SellectionSortButton = new System.Windows.Forms.Button();
             this.HeapSortButton = new System.Windows.Forms.Button();
             this.TreeSortButton = new System.Windows.Forms.Button();
@@ -173,15 +173,15 @@ namespace SortAlgorithms
             this.swopLabel.TabIndex = 10;
             this.swopLabel.Text = "Swop Count";
             // 
-            // button1
+            // GnomeSortButton
             // 
-            this.button1.Location = new System.Drawing.Point(816, 176);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(110, 29);
-            this.button1.TabIndex = 11;
-            this.button1.Text = "-";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.GnomeSortButton.Location = new System.Drawing.Point(816, 176);
+            this.GnomeSortButton.Name = "GnomeSortButton";
+            this.GnomeSortButton.Size = new System.Drawing.Size(110, 29);
+            this.GnomeSortButton.TabIndex = 11;
+            this.GnomeSortButton.Text = "Gnome Sort";
+            this.GnomeSortButton.UseVisualStyleBackColor = true;
+            this.GnomeSortButton.Click += new System.EventHandler(this.GnomSortButton_Click);
             // 
             // SellectionSortButton
             // 
@@ -253,7 +253,7 @@ namespace SortAlgorithms
             this.Controls.Add(this.TreeSortButton);
             this.Controls.Add(this.HeapSortButton);
             this.Controls.Add(this.SellectionSortButton);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.GnomeSortButton);
             this.Controls.Add(this.swopLabel);
             this.Controls.Add(this.compereLabel);
             this.Controls.Add(this.timeLable);
@@ -286,7 +286,7 @@ namespace SortAlgorithms
         private System.Windows.Forms.Label timeLable;
         private System.Windows.Forms.Label compereLabel;
         private System.Windows.Forms.Label swopLabel;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button GnomeSortButton;
         private System.Windows.Forms.Button SellectionSortButton;
         private System.Windows.Forms.Button HeapSortButton;
         private System.Windows.Forms.Button TreeSortButton;

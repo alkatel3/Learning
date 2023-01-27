@@ -138,7 +138,7 @@ namespace SortAlgorithms
             Btn_Click(heap);
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void GnomSortButton_Click(object sender, EventArgs e)
         {
             var gnome = new GnomeSort<SortedItem>(items);
 
