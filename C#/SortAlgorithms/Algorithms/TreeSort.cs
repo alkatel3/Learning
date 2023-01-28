@@ -14,16 +14,12 @@ namespace Algorithms
         }
         protected override void MakeSort()
         {
-            var sorted = Inorder();
-
-            Items.AddRange(sorted.Select(i=>i.Data));
+            var sorted = Inorder().Select(i => i.Data).ToList();
 
             for (int i = 0; i < sorted.Count; i++)
             {
-                Swop(i, sorted.Count + i);
+                Set(i, sorted[i]);
             }
-
-            Items.RemoveRange(sorted.Count, sorted.Count);
         }
     }
 }
