@@ -15,7 +15,11 @@ namespace Algorithms
 
         protected override void MakeSort()
         {
-            Items = Sort(Items);
+            var sorted = Sort(Items);
+            for(int i=0; i < sorted.Count; i++)
+            {
+                Set(i, sorted[i]);
+            }
         }
 
         private List<T> Sort(List<T> items)

@@ -274,6 +274,7 @@ namespace SortAlgorithms
             this.MargeSortButton.TabIndex = 20;
             this.MargeSortButton.Text = "Marge Sort";
             this.MargeSortButton.UseVisualStyleBackColor = true;
+            this.MargeSortButton.Click += new System.EventHandler(this.MargeSortButton_Click);
             // 
             // Form1
             // 

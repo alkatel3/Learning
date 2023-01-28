@@ -180,6 +180,13 @@ namespace SortAlgorithms
 
             Btn_Click(msd);
         }
+
+        private void MargeSortButton_Click(object sender, EventArgs e)
+        {
+            var marge = new MargeSort<SortedItem>(items);
+
+            Btn_Click(marge);
+        }
     }
 }
  
