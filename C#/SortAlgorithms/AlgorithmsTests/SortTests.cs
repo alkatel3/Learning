@@ -168,10 +168,25 @@ namespace Algorithms.Tests
         }
 
         [TestMethod()]
-        public void RadixSortTest()
+        public void LsdRadixSortTest()
         {
             //arrange
-            var radix = new RadixSort<int>(Items);
+            var radix = new LsdRadixSort<int>(Items);
+            //act
+            radix.Sort();
+
+            //assert
+            for (int i = 0; i < Items.Count; i++)
+            {
+                Assert.AreEqual(radix.Items[i], Sorted[i]);
+            }
+        }
+
+        [TestMethod()]
+        public void MsdRadixSortTest()
+        {
+            //arrange
+            var radix = new MsdRadixSort<int>(Items);
             //act
             radix.Sort();
 

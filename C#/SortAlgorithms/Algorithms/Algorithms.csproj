@@ -50,8 +50,9 @@
     <Compile Include="GnomeSort.cs" />
     <Compile Include="HeapSort.cs" />
     <Compile Include="InsertionSort.cs" />
+    <Compile Include="MsdRadixSort.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RadixSort.cs" />
+    <Compile Include="LsdRadixSort.cs" />
     <Compile Include="SelectionSort.cs" />
     <Compile Include="ShellSort.cs" />
     <Compile Include="TreeSort.cs" />
