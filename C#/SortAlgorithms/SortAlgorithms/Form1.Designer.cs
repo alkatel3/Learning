@@ -50,6 +50,9 @@ namespace SortAlgorithms
             this.ShellSortButton = new System.Windows.Forms.Button();
             this.InsertionSortButton = new System.Windows.Forms.Button();
             this.CoctailSortButton = new System.Windows.Forms.Button();
+            this.LsdRadixSortButton = new System.Windows.Forms.Button();
+            this.MsdRadixSortButton = new System.Windows.Forms.Button();
+            this.MargeSortButton = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -243,11 +246,42 @@ namespace SortAlgorithms
             this.CoctailSortButton.UseVisualStyleBackColor = true;
             this.CoctailSortButton.Click += new System.EventHandler(this.CoctailSortButton_Click);
             // 
+            // LsdRadixSortButton
+            // 
+            this.LsdRadixSortButton.Location = new System.Drawing.Point(4, 211);
+            this.LsdRadixSortButton.Name = "LsdRadixSortButton";
+            this.LsdRadixSortButton.Size = new System.Drawing.Size(110, 29);
+            this.LsdRadixSortButton.TabIndex = 18;
+            this.LsdRadixSortButton.Text = "LSD Radix Sort";
+            this.LsdRadixSortButton.UseVisualStyleBackColor = true;
+            this.LsdRadixSortButton.Click += new System.EventHandler(this.LsdRadixSortButton_Click);
+            // 
+            // MsdRadixSortButton
+            // 
+            this.MsdRadixSortButton.Location = new System.Drawing.Point(120, 211);
+            this.MsdRadixSortButton.Name = "MsdRadixSortButton";
+            this.MsdRadixSortButton.Size = new System.Drawing.Size(110, 29);
+            this.MsdRadixSortButton.TabIndex = 19;
+            this.MsdRadixSortButton.Text = "LSD Radix Sort";
+            this.MsdRadixSortButton.UseVisualStyleBackColor = true;
+            // 
+            // MargeSortButton
+            // 
+            this.MargeSortButton.Location = new System.Drawing.Point(236, 211);
+            this.MargeSortButton.Name = "MargeSortButton";
+            this.MargeSortButton.Size = new System.Drawing.Size(110, 29);
+            this.MargeSortButton.TabIndex = 20;
+            this.MargeSortButton.Text = "Marge Sort";
+            this.MargeSortButton.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1003, 516);
+            this.Controls.Add(this.MargeSortButton);
+            this.Controls.Add(this.MsdRadixSortButton);
+            this.Controls.Add(this.LsdRadixSortButton);
             this.Controls.Add(this.CoctailSortButton);
             this.Controls.Add(this.InsertionSortButton);
             this.Controls.Add(this.ShellSortButton);
@@ -294,6 +328,9 @@ namespace SortAlgorithms
         private System.Windows.Forms.Button ShellSortButton;
         private System.Windows.Forms.Button InsertionSortButton;
         private System.Windows.Forms.Button CoctailSortButton;
+        private System.Windows.Forms.Button LsdRadixSortButton;
+        private System.Windows.Forms.Button MsdRadixSortButton;
+        private System.Windows.Forms.Button MargeSortButton;
     }
 }
 

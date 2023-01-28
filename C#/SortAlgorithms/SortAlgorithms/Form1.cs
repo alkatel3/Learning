@@ -166,6 +166,13 @@ namespace SortAlgorithms
 
             Btn_Click(tree);
         }
+
+        private void LsdRadixSortButton_Click(object sender, EventArgs e)
+        {
+            var lsd = new LsdRadixSort<SortedItem>(items);
+
+            Btn_Click(lsd);
+        }
     }
 }
  
