@@ -1,122 +1,87 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Algorithms.DataSructures
 {
-    public class Tree<T>
-            where T : IComparable
+    public class Tree<T> : AlgorithmBase<T> where T : IComparable
     {
-        public Node<T> Root { get; private set; }
+        private Node<T> Root { get; set; }
         public int Count { get; private set; } = 0;
 
         public Tree() { }
 
         public Tree(IEnumerable<T> items)
         {
-            foreach(var item in items)
+            var list = items.ToList();
+            for (int i = 0; i < items.Count(); i++)
             {
-                Add(item);
+                var item = list[i];
+                Items.Add(item);
+                var node = new Node<T>(item, i);
+                Add(node);
             }
         }
 
-        public void Add(T data)
+        private void Add(Node<T> node)
         {
-            var node = new Node<T>(data);
-
             if (Root == null)
             {
                 Root = node;
-                Count++;
+                Count=1;
                 return;
             }
-            Root.Add(data);
+            Add(Root, node);
             Count++;
         }
 
-        public List<T> Preorder()
+        public List<Node<T>> Inorder()
         {
-            if (Root == null)
-            {
-                return new List<T>();
-            }
-
-            return Preorder(Root);
-        }
-
-        private List<T> Preorder(Node<T> node)
-        {
-            var list = new List<T>();
-            if (node != null)
-            {
-                list.Add(node.Data);
-            }
-            if (node.Left != null)
-            {
-                list.AddRange(Preorder(node.Left));
-            }
-            if (node.Right != null)
-            {
-                list.AddRange(Preorder(node.Right));
-            }
-            return list;
-        }
-
-        public List<T> Postorder()
-        {
-            if (Root == null)
-            {
-                return new List<T>();
-            }
-
-            return Postorder(Root);
-        }
-
-        private List<T> Postorder(Node<T> node)
-        {
-            var list = new List<T>();
-            if (node != null)
-            {
-                if (node.Left != null)
-                {
-                    list.AddRange(Postorder(node.Left));
-                }
-                if (node.Right != null)
-                {
-                    list.AddRange(Postorder(node.Right));
-                }
-                list.Add(node.Data);
-            }
-            return list;
-        }
-
-
-        public List<T> Inorder()
-        {
-            if (Root == null)
-            {
-                return new List<T>();
-            }
-
             return Inorder(Root);
         }
 
-        private List<T> Inorder(Node<T> node)
+        private List<Node<T>> Inorder(Node<T> node)
         {
-            var list = new List<T>();
+            var result = new List<Node<T>>();
             if (node != null)
             {
                 if (node.Left != null)
                 {
-                    list.AddRange(Inorder(node.Left));
+                    result.AddRange(Inorder(node.Left));
                 }
-                list.Add(node.Data);
+                result.Add(node);
                 if (node.Right != null)
                 {
-                    list.AddRange(Inorder(node.Right));
+                    result.AddRange(Inorder(node.Right));
                 }
-
             }
-            return list;
+            return result;
+        }
+
+        private void Add(Node<T> node, Node<T> newNode)
+        {
+            if (Compare(node.Data, newNode.Data) == 1)
+            {
+                if (node.Left == null)
+                {
+                    node.Left = newNode;
+                }
+                else
+                {
+                    Add(node.Left, newNode);
+                }
+            }
+            else
+            {
+                if (node.Right == null)
+                {
+                    node.Right = newNode;
+                }
+                else
+                {
+                   Add(node.Right,newNode);
+                }
+            }
         }
     }
 }

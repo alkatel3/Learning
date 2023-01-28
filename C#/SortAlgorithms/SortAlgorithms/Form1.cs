@@ -144,5 +144,13 @@ namespace SortAlgorithms
 
             Btn_Click(gnome);
         }
+
+        private void TreeSortButton_Click(object sender, EventArgs e)
+        {
+            var tree = new TreeSort<SortedItem>(items);
+
+            Btn_Click(tree);
+        }
     }
 }
+ 

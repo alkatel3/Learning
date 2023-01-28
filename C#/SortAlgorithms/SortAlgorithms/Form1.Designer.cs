@@ -211,6 +211,7 @@ namespace SortAlgorithms
             this.TreeSortButton.TabIndex = 14;
             this.TreeSortButton.Text = "Tree Sort";
             this.TreeSortButton.UseVisualStyleBackColor = true;
+            this.TreeSortButton.Click += new System.EventHandler(this.TreeSortButton_Click);
             // 
             // ShellSortButton
             // 

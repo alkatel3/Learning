@@ -18,7 +18,7 @@ namespace Algorithms
             int i = 1;
             while (i < Items.Count)
             {
-                if (i-=0 || Compare(Items[i], Items[i - 1]) != -1){
+                if (i==0 || Compare(Items[i], Items[i - 1]) != -1){
                     i++;
                 }
                 else

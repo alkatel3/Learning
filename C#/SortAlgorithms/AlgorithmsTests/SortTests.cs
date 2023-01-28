@@ -110,8 +110,7 @@ namespace Algorithms.Tests
         public void TreeSortTest()
         {
             //arrange
-            var bubble = new TreeSort<int>();
-            bubble.Items.AddRange(Items);
+            var bubble = new TreeSort<int>(Items);
             //act
             bubble.Sort();
 
@@ -165,6 +164,21 @@ namespace Algorithms.Tests
             for (int i = 0; i < Items.Count; i++)
             {
                 Assert.AreEqual(gnome.Items[i], Sorted[i]);
+            }
+        }
+
+        [TestMethod()]
+        public void RadixSortTest()
+        {
+            //arrange
+            var radix = new RadixSort<int>(Items);
+            //act
+            radix.Sort();
+
+            //assert
+            for (int i = 0; i < Items.Count; i++)
+            {
+                Assert.AreEqual(radix.Items[i], Sorted[i]);
             }
         }
     }
