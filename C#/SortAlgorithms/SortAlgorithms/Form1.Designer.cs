@@ -143,7 +143,7 @@ namespace SortAlgorithms
             // 
             this.BubbleSortButton.Location = new System.Drawing.Point(4, 176);
             this.BubbleSortButton.Name = "BubbleSortButton";
-            this.BubbleSortButton.Size = new System.Drawing.Size(110, 29);
+            this.BubbleSortButton.Size = new System.Drawing.Size(116, 29);
             this.BubbleSortButton.TabIndex = 7;
             this.BubbleSortButton.Text = "Bubble Sort";
             this.BubbleSortButton.UseVisualStyleBackColor = true;
@@ -178,9 +178,9 @@ namespace SortAlgorithms
             // 
             // GnomeSortButton
             // 
-            this.GnomeSortButton.Location = new System.Drawing.Point(816, 176);
+            this.GnomeSortButton.Location = new System.Drawing.Point(871, 176);
             this.GnomeSortButton.Name = "GnomeSortButton";
-            this.GnomeSortButton.Size = new System.Drawing.Size(110, 29);
+            this.GnomeSortButton.Size = new System.Drawing.Size(120, 29);
             this.GnomeSortButton.TabIndex = 11;
             this.GnomeSortButton.Text = "Gnome Sort";
             this.GnomeSortButton.UseVisualStyleBackColor = true;
@@ -188,7 +188,7 @@ namespace SortAlgorithms
             // 
             // SellectionSortButton
             // 
-            this.SellectionSortButton.Location = new System.Drawing.Point(700, 176);
+            this.SellectionSortButton.Location = new System.Drawing.Point(755, 176);
             this.SellectionSortButton.Name = "SellectionSortButton";
             this.SellectionSortButton.Size = new System.Drawing.Size(110, 29);
             this.SellectionSortButton.TabIndex = 12;
@@ -198,9 +198,9 @@ namespace SortAlgorithms
             // 
             // HeapSortButton
             // 
-            this.HeapSortButton.Location = new System.Drawing.Point(584, 176);
+            this.HeapSortButton.Location = new System.Drawing.Point(632, 176);
             this.HeapSortButton.Name = "HeapSortButton";
-            this.HeapSortButton.Size = new System.Drawing.Size(110, 29);
+            this.HeapSortButton.Size = new System.Drawing.Size(117, 29);
             this.HeapSortButton.TabIndex = 13;
             this.HeapSortButton.Text = "Heap Sort";
             this.HeapSortButton.UseVisualStyleBackColor = true;
@@ -208,9 +208,9 @@ namespace SortAlgorithms
             // 
             // TreeSortButton
             // 
-            this.TreeSortButton.Location = new System.Drawing.Point(468, 176);
+            this.TreeSortButton.Location = new System.Drawing.Point(504, 176);
             this.TreeSortButton.Name = "TreeSortButton";
-            this.TreeSortButton.Size = new System.Drawing.Size(110, 29);
+            this.TreeSortButton.Size = new System.Drawing.Size(122, 29);
             this.TreeSortButton.TabIndex = 14;
             this.TreeSortButton.Text = "Tree Sort";
             this.TreeSortButton.UseVisualStyleBackColor = true;
@@ -218,9 +218,9 @@ namespace SortAlgorithms
             // 
             // ShellSortButton
             // 
-            this.ShellSortButton.Location = new System.Drawing.Point(352, 176);
+            this.ShellSortButton.Location = new System.Drawing.Point(380, 176);
             this.ShellSortButton.Name = "ShellSortButton";
-            this.ShellSortButton.Size = new System.Drawing.Size(110, 29);
+            this.ShellSortButton.Size = new System.Drawing.Size(118, 29);
             this.ShellSortButton.TabIndex = 15;
             this.ShellSortButton.Text = "Shell Sort";
             this.ShellSortButton.UseVisualStyleBackColor = true;
@@ -228,9 +228,9 @@ namespace SortAlgorithms
             // 
             // InsertionSortButton
             // 
-            this.InsertionSortButton.Location = new System.Drawing.Point(236, 176);
+            this.InsertionSortButton.Location = new System.Drawing.Point(252, 176);
             this.InsertionSortButton.Name = "InsertionSortButton";
-            this.InsertionSortButton.Size = new System.Drawing.Size(110, 29);
+            this.InsertionSortButton.Size = new System.Drawing.Size(122, 29);
             this.InsertionSortButton.TabIndex = 16;
             this.InsertionSortButton.Text = "Insertion Sort";
             this.InsertionSortButton.UseVisualStyleBackColor = true;
@@ -238,9 +238,9 @@ namespace SortAlgorithms
             // 
             // CoctailSortButton
             // 
-            this.CoctailSortButton.Location = new System.Drawing.Point(120, 176);
+            this.CoctailSortButton.Location = new System.Drawing.Point(126, 176);
             this.CoctailSortButton.Name = "CoctailSortButton";
-            this.CoctailSortButton.Size = new System.Drawing.Size(110, 29);
+            this.CoctailSortButton.Size = new System.Drawing.Size(120, 29);
             this.CoctailSortButton.TabIndex = 17;
             this.CoctailSortButton.Text = "Coctail Sort";
             this.CoctailSortButton.UseVisualStyleBackColor = true;
@@ -250,7 +250,7 @@ namespace SortAlgorithms
             // 
             this.LsdRadixSortButton.Location = new System.Drawing.Point(4, 211);
             this.LsdRadixSortButton.Name = "LsdRadixSortButton";
-            this.LsdRadixSortButton.Size = new System.Drawing.Size(110, 29);
+            this.LsdRadixSortButton.Size = new System.Drawing.Size(126, 29);
             this.LsdRadixSortButton.TabIndex = 18;
             this.LsdRadixSortButton.Text = "LSD Radix Sort";
             this.LsdRadixSortButton.UseVisualStyleBackColor = true;
@@ -258,16 +258,17 @@ namespace SortAlgorithms
             // 
             // MsdRadixSortButton
             // 
-            this.MsdRadixSortButton.Location = new System.Drawing.Point(120, 211);
+            this.MsdRadixSortButton.Location = new System.Drawing.Point(139, 211);
             this.MsdRadixSortButton.Name = "MsdRadixSortButton";
-            this.MsdRadixSortButton.Size = new System.Drawing.Size(110, 29);
+            this.MsdRadixSortButton.Size = new System.Drawing.Size(126, 29);
             this.MsdRadixSortButton.TabIndex = 19;
             this.MsdRadixSortButton.Text = "LSD Radix Sort";
             this.MsdRadixSortButton.UseVisualStyleBackColor = true;
+            this.MsdRadixSortButton.Click += new System.EventHandler(this.MsdRadixSortButton_Click);
             // 
             // MargeSortButton
             // 
-            this.MargeSortButton.Location = new System.Drawing.Point(236, 211);
+            this.MargeSortButton.Location = new System.Drawing.Point(271, 211);
             this.MargeSortButton.Name = "MargeSortButton";
             this.MargeSortButton.Size = new System.Drawing.Size(110, 29);
             this.MargeSortButton.TabIndex = 20;

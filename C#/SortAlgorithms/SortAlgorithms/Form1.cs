@@ -173,6 +173,13 @@ namespace SortAlgorithms
 
             Btn_Click(lsd);
         }
+
+        private void MsdRadixSortButton_Click(object sender, EventArgs e)
+        {
+            var msd = new MsdRadixSort<SortedItem>(items);
+
+            Btn_Click(msd);
+        }
     }
 }
  

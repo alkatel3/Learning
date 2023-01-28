@@ -13,7 +13,11 @@ namespace Algorithms
         {
             int length = GetMaxLength(Items);
             var result=SortCollection(Items, length-1);
-            Items = result;
+
+            for(int i=0; i < result.Count; i++)
+            {
+                Set(i, result[i]);
+            }
         }
 
         private List<T> SortCollection(List<T> collection, int step)
@@ -33,7 +37,6 @@ namespace Algorithms
 
             foreach (var group in groups)
             {
-
                 if (group.Count > 1 && step > 0)
                     result.AddRange(SortCollection(group, step - 1));
                 else
