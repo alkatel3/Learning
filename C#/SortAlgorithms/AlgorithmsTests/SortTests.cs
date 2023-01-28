@@ -196,5 +196,20 @@ namespace Algorithms.Tests
                 Assert.AreEqual(radix.Items[i], Sorted[i]);
             }
         }
+
+        [TestMethod()]
+        public void MargeSortTest()
+        {
+            //arrange
+            var marge = new MargeSort<int>(Items);
+            //act
+            marge.Sort();
+
+            //assert
+            for (int i = 0; i < Items.Count; i++)
+            {
+                Assert.AreEqual(marge.Items[i], Sorted[i]);
+            }
+        }
     }
 }
