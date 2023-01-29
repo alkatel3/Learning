@@ -47,12 +47,13 @@ namespace SortAlgorithms
             this.SellectionSortButton = new System.Windows.Forms.Button();
             this.HeapSortButton = new System.Windows.Forms.Button();
             this.TreeSortButton = new System.Windows.Forms.Button();
-            this.ShellSortButton = new System.Windows.Forms.Button();
             this.InsertionSortButton = new System.Windows.Forms.Button();
             this.CoctailSortButton = new System.Windows.Forms.Button();
             this.LsdRadixSortButton = new System.Windows.Forms.Button();
             this.MsdRadixSortButton = new System.Windows.Forms.Button();
             this.MargeSortButton = new System.Windows.Forms.Button();
+            this.ShellSortButton = new System.Windows.Forms.Button();
+            this.QuickSortButton = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -216,16 +217,6 @@ namespace SortAlgorithms
             this.TreeSortButton.UseVisualStyleBackColor = true;
             this.TreeSortButton.Click += new System.EventHandler(this.TreeSortButton_Click);
             // 
-            // ShellSortButton
-            // 
-            this.ShellSortButton.Location = new System.Drawing.Point(380, 176);
-            this.ShellSortButton.Name = "ShellSortButton";
-            this.ShellSortButton.Size = new System.Drawing.Size(118, 29);
-            this.ShellSortButton.TabIndex = 15;
-            this.ShellSortButton.Text = "Shell Sort";
-            this.ShellSortButton.UseVisualStyleBackColor = true;
-            this.ShellSortButton.Click += new System.EventHandler(this.ShellSortButton_Click);
-            // 
             // InsertionSortButton
             // 
             this.InsertionSortButton.Location = new System.Drawing.Point(252, 176);
@@ -276,11 +267,32 @@ namespace SortAlgorithms
             this.MargeSortButton.UseVisualStyleBackColor = true;
             this.MargeSortButton.Click += new System.EventHandler(this.MargeSortButton_Click);
             // 
+            // ShellSortButton
+            // 
+            this.ShellSortButton.Location = new System.Drawing.Point(380, 176);
+            this.ShellSortButton.Name = "ShellSortButton";
+            this.ShellSortButton.Size = new System.Drawing.Size(118, 29);
+            this.ShellSortButton.TabIndex = 15;
+            this.ShellSortButton.Text = "Shell Sort";
+            this.ShellSortButton.UseVisualStyleBackColor = true;
+            this.ShellSortButton.Click += new System.EventHandler(this.ShellSortButton_Click);
+            // 
+            // QuickSortButton
+            // 
+            this.QuickSortButton.Location = new System.Drawing.Point(387, 211);
+            this.QuickSortButton.Name = "QuickSortButton";
+            this.QuickSortButton.Size = new System.Drawing.Size(118, 29);
+            this.QuickSortButton.TabIndex = 21;
+            this.QuickSortButton.Text = "Quick Sort";
+            this.QuickSortButton.UseVisualStyleBackColor = true;
+            this.QuickSortButton.Click += new System.EventHandler(this.QuickSortButton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1003, 516);
+            this.Controls.Add(this.QuickSortButton);
             this.Controls.Add(this.MargeSortButton);
             this.Controls.Add(this.MsdRadixSortButton);
             this.Controls.Add(this.LsdRadixSortButton);
@@ -327,12 +339,13 @@ namespace SortAlgorithms
         private System.Windows.Forms.Button SellectionSortButton;
         private System.Windows.Forms.Button HeapSortButton;
         private System.Windows.Forms.Button TreeSortButton;
-        private System.Windows.Forms.Button ShellSortButton;
         private System.Windows.Forms.Button InsertionSortButton;
         private System.Windows.Forms.Button CoctailSortButton;
         private System.Windows.Forms.Button LsdRadixSortButton;
         private System.Windows.Forms.Button MsdRadixSortButton;
         private System.Windows.Forms.Button MargeSortButton;
+        private System.Windows.Forms.Button ShellSortButton;
+        private System.Windows.Forms.Button QuickSortButton;
     }
 }
 

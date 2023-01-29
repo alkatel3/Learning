@@ -10,6 +10,7 @@ namespace SortAlgorithms
     public partial class Form1 : Form
     {
         List<SortedItem> items=new List<SortedItem>();
+        private const int sleep = 50;
         public Form1()
         {
             InitializeComponent();
@@ -78,7 +79,7 @@ namespace SortAlgorithms
             e.Item1.SetColor(Color.Red);
             e.Item2.SetColor(Color.Green);
             panel3.Refresh();
-            Thread.Sleep(50);
+            Thread.Sleep(sleep);
             e.Item1.SetColor(Color.Blue);
             e.Item2.SetColor(Color.Blue);
             panel3.Refresh();
@@ -88,14 +89,14 @@ namespace SortAlgorithms
         {
             e.Item2.SetColor(Color.Red);
             panel3.Refresh();
-            Thread.Sleep(20);
+            Thread.Sleep(sleep);
 
             e.Item2.SetPosition(e.Item1);
             panel3.Refresh();
-            Thread.Sleep(20);
+            Thread.Sleep(sleep);
             e.Item2.SetColor(Color.Blue);
             panel3.Refresh();
-            Thread.Sleep(20);
+            Thread.Sleep(sleep);
         }
 
         private void Btn_Click(AlgorithmBase<SortedItem> algorithm)
@@ -183,9 +184,16 @@ namespace SortAlgorithms
 
         private void MargeSortButton_Click(object sender, EventArgs e)
         {
-            var marge = new MargeSort<SortedItem>(items);
+            var marge = new MergeSort<SortedItem>(items);
 
             Btn_Click(marge);
+        }
+
+        private void QuickSortButton_Click(object sender, EventArgs e)
+        {
+            var quick = new QuickSort<SortedItem>(items);
+
+            Btn_Click(quick);
         }
     }
 }

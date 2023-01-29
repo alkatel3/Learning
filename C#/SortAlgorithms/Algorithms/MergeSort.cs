@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Algorithms
 {
-    public class MargeSort<T> : AlgorithmBase<T>
+    public class MergeSort<T> : AlgorithmBase<T>
         where T : IComparable
     {
-        public MargeSort(IEnumerable<T> items) : base(items) { }
+        public MergeSort(IEnumerable<T> items) : base(items) { }
 
-        public MargeSort() { }
+        public MergeSort() { }
 
         protected override void MakeSort()
         {

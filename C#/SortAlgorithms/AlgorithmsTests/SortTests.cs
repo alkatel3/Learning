@@ -1,10 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Algorithms;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Algorithms.Tests
 {
@@ -201,7 +198,7 @@ namespace Algorithms.Tests
         public void MargeSortTest()
         {
             //arrange
-            var marge = new MargeSort<int>(Items);
+            var marge = new MergeSort<int>(Items);
             //act
             marge.Sort();
 
@@ -209,6 +206,21 @@ namespace Algorithms.Tests
             for (int i = 0; i < Items.Count; i++)
             {
                 Assert.AreEqual(marge.Items[i], Sorted[i]);
+            }
+        }
+
+        [TestMethod()]
+        public void QuickSortTest()
+        {
+            //arrange
+            var quick = new QuickSort<int>(Items);
+            //act
+            quick.Sort();
+
+            //assert
+            for (int i = 0; i < Items.Count; i++)
+            {
+                Assert.AreEqual(quick.Items[i], Sorted[i]);
             }
         }
     }
